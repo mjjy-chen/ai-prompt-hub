@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% set title = "人格设定" %}
+
+{% block content %}
+<section class="page-header">
+    <div class="page-container">
+        <h1>👤 Agent人格设定</h1>
+        <p class="page-subtitle">Agent Personas</p>
+        <p>专业助手 + 创意角色，打造专属AI伙伴</p>
+        <p class="page-subtitle">Professional assistants & creative roles</p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="section-container">
+        <div class="filter-bar">
+            <button class="filter-btn active" data-filter="all">全部 <span class="filter-en">All</span></button>
+            {% for cat in categories %}
+            <button class="filter-btn" data-filter="{{ cat.id }}">{{ cat.icon }} {{ cat.name }} <span class="filter-en">{{ cat.id|title }}</span></button>
+            {% endfor %}
+        </div>
+        
+        <div class="card-grid">
+            {% for agent in agents %}
+            <a href="/agents/{{ agent.slug }}/" class="card card-agent" data-category="{{ agent.category }}">
+                <div class="card-header">
+                    <span class="card-category">{{ agent.category }}</span>
+                    <span class="card-hot">🔥 {{ agent.hot_score }}</span>
+                </div>
+                <h3 class="card-title">{{ agent.title }}</h3>
+                <p class="card-title-en">{{ agent.title_en or '' }}</p>
+                <p class="card-desc">{{ agent.description }}</p>
+                <p class="card-desc-en">{{ agent.description_en or '' }}</p>
+                <div class="card-personality">
+                    <span>💡 {{ agent.personality }}</span>
+                    <span class="personality-en">{{ agent.personality_en or '' }}</span>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endblock %}

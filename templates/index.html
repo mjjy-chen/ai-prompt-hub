@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="hero">
+    <div class="hero-container">
+        <h1>{{ config.site.name }}</h1>
+        <p class="hero-desc">{{ config.site.description }}</p>
+        <p class="hero-desc-en">Curated AI Prompts & Agent Personas</p>
+        <div class="hero-stats">
+            <span>🔥 {{ prompts|length }}+ 精选提示词 <em>{{ prompts|length }}+ Prompts</em></span>
+            <span>👤 {{ agents|length }}+ 人格设定 <em>{{ agents|length }}+ Personas</em></span>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="section-container">
+        <h2 class="section-title">🔥 热门提示词 <span class="section-title-en">Hot Prompts</span></h2>
+        <div class="card-grid">
+            {% for prompt in prompts %}
+            <a href="/prompts/{{ prompt.slug }}/" class="card">
+                <div class="card-header">
+                    <span class="card-category">{{ prompt.category }}</span>
+                    <span class="card-hot">🔥 {{ prompt.hot_score }}</span>
+                </div>
+                <h3 class="card-title">{{ prompt.title }}</h3>
+                <p class="card-title-en">{{ prompt.title_en or '' }}</p>
+                <p class="card-desc">{{ prompt.description }}</p>
+                <p class="card-desc-en">{{ prompt.description_en or '' }}</p>
+                <div class="card-footer">
+                    <span class="card-models">{{ prompt.models|join(', ') }}</span>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+        <div class="section-more">
+            <a href="/prompts/" class="btn btn-primary">查看全部提示词 <span class="btn-en">View All →</span></a>
+        </div>
+    </div>
+</section>
+
+<section class="section section-alt">
+    <div class="section-container">
+        <h2 class="section-title">👤 热门人格设定 <span class="section-title-en">Hot Personas</span></h2>
+        <div class="card-grid">
+            {% for agent in agents %}
+            <a href="/agents/{{ agent.slug }}/" class="card card-agent">
+                <div class="card-header">
+                    <span class="card-category">{{ agent.category }}</span>
+                    <span class="card-hot">🔥 {{ agent.hot_score }}</span>
+                </div>
+                <h3 class="card-title">{{ agent.title }}</h3>
+                <p class="card-title-en">{{ agent.title_en or '' }}</p>
+                <p class="card-desc">{{ agent.description }}</p>
+                <p class="card-desc-en">{{ agent.description_en or '' }}</p>
+                <div class="card-personality">
+                    <span>💡 {{ agent.personality }}</span>
+                    <span class="personality-en">{{ agent.personality_en or '' }}</span>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+        <div class="section-more">
+            <a href="/agents/" class="btn btn-primary">查看全部人格 <span class="btn-en">View All →</span></a>
+        </div>
+    </div>
+</section>
+
+<section class="section" id="about">
+    <div class="section-container">
+        <h2 class="section-title">关于本站 <span class="section-title-en">About</span></h2>
+        <div class="about-content">
+            <p>AI Prompt Hub 是一个精心整理的AI提示词和Agent人格设定库。</p>
+            <p class="about-en">A curated collection of AI prompts and agent personas.</p>
+            <p>我们追踪全网热点，筛选最实用的提示词，助你释放AI的真正潜力。</p>
+            <p class="about-en">We track trending content and curate the most practical prompts to unlock AI's full potential.</p>
+            <div class="about-features">
+                <div class="feature">
+                    <span class="feature-icon">⚡</span>
+                    <div>
+                        <span>追热点，更新快</span>
+                        <span class="feature-en">Trending & Fast Updates</span>
+                    </div>
+                </div>
+                <div class="feature">
+                    <span class="feature-icon">🎯</span>
+                    <div>
+                        <span>精选内容，质量高</span>
+                        <span class="feature-en">Curated High Quality</span>
+                    </div>
+                </div>
+                <div class="feature">
+                    <span class="feature-icon">🔓</span>
+                    <div>
+                        <span>免费使用，无套路</span>
+                        <span class="feature-en">Free & No Tricks</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

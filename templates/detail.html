@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% set title = item.title %}
+
+{% block content %}
+<section class="detail-header">
+    <div class="detail-container">
+        <div class="detail-meta">
+            <span class="detail-category">{{ item.category }}</span>
+            <span class="detail-hot">🔥 Hot {{ item.hot_score }}</span>
+        </div>
+        <h1 class="detail-title">{{ item.title }}</h1>
+        <p class="detail-title-en">{{ item.title_en or '' }}</p>
+        <p class="detail-desc">{{ item.description }}</p>
+        <p class="detail-desc-en">{{ item.description_en or '' }}</p>
+        <div class="detail-tags">
+            {% for tag in item.tags %}
+            <span class="tag">#{{ tag }}</span>
+            {% endfor %}
+        </div>
+        <div class="detail-models">
+            <span>支持模型 / Models:</span>
+            {% for model in item.models %}
+            <span class="model-badge">{{ model }}</span>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="detail-content">
+    <div class="detail-container">
+        <div class="content-card">
+            <div class="content-header">
+                <h3>📋 完整内容 <span class="content-en">Full Content</span></h3>
+                <button class="copy-btn" onclick="copyContent()">📋 复制 <span class="copy-en">Copy</span></button>
+            </div>
+            <div class="content-body" id="content-body">
+                {{ content|safe }}
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="detail-nav">
+    <div class="detail-container">
+        <a href="/{{ type }}s/" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
+    </div>
+</section>
+
+<script>
+function copyContent() {
+    const content = document.getElementById('content-body').innerText;
+    navigator.clipboard.writeText(content).then(() => {
+        alert('已复制到剪贴板！ / Copied to clipboard!');
+    });
+}
+</script>
+{% endblock %}

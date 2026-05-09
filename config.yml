@@ -1,0 +1,79 @@
+# AI Prompt Hub 站点配置
+# 纯静态站点配置，支持自动化流水线
+
+site:
+  name: "AI Prompt Hub"
+  description: "精选AI提示词与Agent人格设定"
+  url: "https://your-domain.com"
+  author: "AI Prompt Hub Team"
+  
+# 内容分类
+categories:
+  prompts:
+    - id: writing
+      name: "写作创作"
+      icon: "✍️"
+    - id: coding
+      name: "编程开发"
+      icon: "💻"
+    - id: drawing
+      name: "绘画设计"
+      icon: "🎨"
+    - id: data
+      name: "数据分析"
+      icon: "📊"
+    - id: chat
+      name: "对话聊天"
+      icon: "💬"
+    - id: other
+      name: "其他"
+      icon: "🎯"
+      
+  agents:
+    - id: professional
+      name: "专业助手"
+      icon: "👔"
+    - id: creative
+      name: "创意角色"
+      icon: "🎭"
+    - id: entertainment
+      name: "娱乐互动"
+      icon: "🎮"
+
+# 支持的模型标签
+models:
+  - gpt-4
+  - gpt-3.5
+  - claude
+  - gemini
+  - kimi
+  - qwen
+  - yi
+  - llama
+  - other
+
+# 自动化配置
+auto_update:
+  enabled: true
+  sources:
+    - name: "twitter_ai"
+      url: "https://twitter.com/search?q=prompt+engineering"
+      enabled: false  # 需要VPN
+    - name: "reddit_chatgpt"
+      url: "https://www.reddit.com/r/ChatGPT/"
+      enabled: false  # 需要VPN
+    - name: "github_trending"
+      url: "https://github.com/trending?l=python&since=daily"
+      enabled: false  # 需要VPN
+    - name: "zhihu"
+      url: "https://www.zhihu.com/search?type=content&q=AI%E6%8F%90%E7%A4%BA%E8%AF%8D"
+      enabled: true   # 国内源
+    - name: "xiaohongshu"
+      url: "https://www.xiaohongshu.com/search_result?keyword=AI%E6%8F%90%E7%A4%BA%E8%AF%8D"
+      enabled: true   # 国内源
+
+# 会员配置
+membership:
+  free_limit: 10  # 免费用户每日查看限制
+  price: 9.9
+  currency: "CNY"

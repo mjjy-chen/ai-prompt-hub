@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% set title = "提示词" %}
+
+{% block content %}
+<section class="page-header">
+    <div class="page-container">
+        <h1>💡 精选提示词</h1>
+        <p class="page-subtitle">Curated Prompts</p>
+        <p>按用途分类，即拿即用</p>
+        <p class="page-subtitle">Categorized by use case</p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="section-container">
+        <div class="filter-bar">
+            <button class="filter-btn active" data-filter="all">全部 <span class="filter-en">All</span></button>
+            {% for cat in categories %}
+            <button class="filter-btn" data-filter="{{ cat.id }}">{{ cat.icon }} {{ cat.name }} <span class="filter-en">{{ cat.id|title }}</span></button>
+            {% endfor %}
+        </div>
+        
+        <div class="card-grid">
+            {% for prompt in prompts %}
+            <a href="/prompts/{{ prompt.slug }}/" class="card" data-category="{{ prompt.category }}">
+                <div class="card-header">
+                    <span class="card-category">{{ prompt.category }}</span>
+                    <span class="card-hot">🔥 {{ prompt.hot_score }}</span>
+                </div>
+                <h3 class="card-title">{{ prompt.title }}</h3>
+                <p class="card-title-en">{{ prompt.title_en or '' }}</p>
+                <p class="card-desc">{{ prompt.description }}</p>
+                <p class="card-desc-en">{{ prompt.description_en or '' }}</p>
+                <div class="card-footer">
+                    <span class="card-tags">{{ prompt.tags|join(', ') }}</span>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endblock %}
