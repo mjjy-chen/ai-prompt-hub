@@ -3,9 +3,16 @@
 {% block content %}
 <section class="hero">
     <div class="hero-container">
-        <h1>{{ config.site.name }}</h1>
-        <p class="hero-desc">{{ config.site.description }}</p>
+        <h1>AI Prompt Hub</h1>
+        <p class="hero-desc">精选AI提示词与Agent人格设定</p>
         <p class="hero-desc-en">Curated AI Prompts & Agent Personas</p>
+        
+        <!-- 搜索框 -->
+        <div class="search-container">
+            <input type="text" id="search-input" class="search-input" placeholder="搜索提示词或人格设定..." autocomplete="off">
+            <div id="search-results" class="search-results"></div>
+        </div>
+        
         <div class="hero-stats">
             <span>🔥 {{ prompts|length }}+ 精选提示词 <em>{{ prompts|length }}+ Prompts</em></span>
             <span>👤 {{ agents|length }}+ 人格设定 <em>{{ agents|length }}+ Personas</em></span>
@@ -28,7 +35,9 @@
                 <p class="card-desc">{{ prompt.description }}</p>
                 <p class="card-desc-en">{{ prompt.description_en or '' }}</p>
                 <div class="card-footer">
-                    <span class="card-models">{{ prompt.models|join(', ') }}</span>
+                    {% for model in prompt.models %}
+                    <span class="card-model-badge">{{ model }}</span>
+                    {% endfor %}
                 </div>
             </a>
             {% endfor %}
@@ -53,9 +62,8 @@
                 <p class="card-title-en">{{ agent.title_en or '' }}</p>
                 <p class="card-desc">{{ agent.description }}</p>
                 <p class="card-desc-en">{{ agent.description_en or '' }}</p>
-                <div class="card-personality">
-                    <span>💡 {{ agent.personality }}</span>
-                    <span class="personality-en">{{ agent.personality_en or '' }}</span>
+                <div class="card-footer">
+                    <span class="card-model-badge">💡 {{ agent.personality }}</span>
                 </div>
             </a>
             {% endfor %}
@@ -74,29 +82,6 @@
             <p class="about-en">A curated collection of AI prompts and agent personas.</p>
             <p>我们追踪全网热点，筛选最实用的提示词，助你释放AI的真正潜力。</p>
             <p class="about-en">We track trending content and curate the most practical prompts to unlock AI's full potential.</p>
-            <div class="about-features">
-                <div class="feature">
-                    <span class="feature-icon">⚡</span>
-                    <div>
-                        <span>追热点，更新快</span>
-                        <span class="feature-en">Trending & Fast Updates</span>
-                    </div>
-                </div>
-                <div class="feature">
-                    <span class="feature-icon">🎯</span>
-                    <div>
-                        <span>精选内容，质量高</span>
-                        <span class="feature-en">Curated High Quality</span>
-                    </div>
-                </div>
-                <div class="feature">
-                    <span class="feature-icon">🔓</span>
-                    <div>
-                        <span>免费使用，无套路</span>
-                        <span class="feature-en">Free & No Tricks</span>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </section>

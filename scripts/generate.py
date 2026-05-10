@@ -6,6 +6,7 @@ AI Prompt Hub 站点生成器
 
 import os
 import re
+import json
 import yaml
 import markdown
 from pathlib import Path
@@ -134,8 +135,40 @@ def generate_site():
     # 复制静态资源
     os.system(f"cp -r {BASE_DIR}/assets/* {OUTPUT_DIR}/")
     
+    # 生成搜索数据
+    generate_search_data(prompts, agents)
+    
     print(f"✅ 站点生成完成！共 {len(prompts)} 个提示词，{len(agents)} 个人格设定")
     print(f"📁 输出目录: {OUTPUT_DIR}")
+
+def generate_search_data(prompts, agents):
+    """生成搜索数据JSON"""
+    search_data = []
+    
+    for item in prompts:
+        search_data.append({
+            "title": item.get("title", ""),
+            "description": item.get("description", ""),
+            "tags": item.get("tags", []),
+            "url": f"/prompts/{item['slug']}/",
+            "type": "prompt",
+            "category": item.get("category", "")
+        })
+    
+    for item in agents:
+        search_data.append({
+            "title": item.get("title", ""),
+            "description": item.get("description", ""),
+            "tags": item.get("tags", []),
+            "url": f"/agents/{item['slug']}/",
+            "type": "agent",
+            "category": item.get("category", "")
+        })
+    
+    with open(OUTPUT_DIR / "search.json", "w", encoding="utf-8") as f:
+        json.dump(search_data, f, ensure_ascii=False, indent=2)
+    
+    print(f"🔍 搜索数据已生成: {len(search_data)} 条记录")
 
 if __name__ == "__main__":
     generate_site()

@@ -1,0 +1,110 @@
+[
+  {
+    "title": "小红书爆款文案生成器",
+    "description": "一键生成小红书风格的爆款文案，包含emoji和话题标签",
+    "tags": [
+      "小红书",
+      "社交媒体",
+      "文案"
+    ],
+    "url": "/prompts/writing-001/",
+    "type": "prompt",
+    "category": "writing"
+  },
+  {
+    "title": "Midjourney提示词生成器",
+    "description": "将简单描述转化为专业Midjourney提示词，包含风格、光照、构图等参数",
+    "tags": [
+      "Midjourney",
+      "AI绘画",
+      "提示词生成"
+    ],
+    "url": "/prompts/drawing-001/",
+    "type": "prompt",
+    "category": "drawing"
+  },
+  {
+    "title": "代码审查专家",
+    "description": "专业的代码审查助手，提供详细的代码优化建议",
+    "tags": [
+      "代码审查",
+      "编程",
+      "优化"
+    ],
+    "url": "/prompts/coding-001/",
+    "type": "prompt",
+    "category": "coding"
+  },
+  {
+    "title": "数据可视化专家",
+    "description": "将复杂数据转化为清晰美观的可视化图表，提供Python/R代码",
+    "tags": [
+      "数据可视化",
+      "Python",
+      "图表"
+    ],
+    "url": "/prompts/data-001/",
+    "type": "prompt",
+    "category": "data"
+  },
+  {
+    "title": "深度对话引导师",
+    "description": "通过苏格拉底式提问，引导用户深入思考复杂问题",
+    "tags": [
+      "深度对话",
+      "苏格拉底",
+      "思维引导"
+    ],
+    "url": "/prompts/chat-001/",
+    "type": "prompt",
+    "category": "chat"
+  },
+  {
+    "title": "产品经理助手",
+    "description": "专业的产品经理AI助手，协助需求分析、PRD撰写、竞品分析",
+    "tags": [
+      "产品经理",
+      "PRD",
+      "需求分析"
+    ],
+    "url": "/agents/professional-001/",
+    "type": "agent",
+    "category": "professional"
+  },
+  {
+    "title": "创意写作伙伴",
+    "description": "激发灵感的创意写作助手，擅长头脑风暴、情节设计和文风模仿",
+    "tags": [
+      "写作",
+      "创意",
+      "小说"
+    ],
+    "url": "/agents/creative-001/",
+    "type": "agent",
+    "category": "creative"
+  },
+  {
+    "title": "编程导师",
+    "description": "耐心的编程导师，从基础概念到高级设计模式，循序渐进引导学习",
+    "tags": [
+      "编程",
+      "教学",
+      "导师"
+    ],
+    "url": "/agents/professional-002/",
+    "type": "agent",
+    "category": "professional"
+  },
+  {
+    "title": "游戏NPC",
+    "description": "沉浸式的游戏角色扮演，拥有完整背景故事和独特性格",
+    "tags": [
+      "游戏",
+      "角色扮演",
+      "娱乐"
+    ],
+    "url": "/agents/entertainment-001/",
+    "type": "agent",
+    "category": "entertainment"
+  }
+]

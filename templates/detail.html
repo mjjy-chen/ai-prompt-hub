@@ -31,9 +31,10 @@
         <div class="content-card">
             <div class="content-header">
                 <h3>📋 完整内容 <span class="content-en">Full Content</span></h3>
-                <button class="copy-btn" onclick="copyContent()">📋 复制 <span class="copy-en">Copy</span></button>
+                <button class="copy-btn" data-target="content-text">📋 复制 <span class="copy-en">Copy</span></button>
             </div>
             <div class="content-body" id="content-body">
+                <div id="content-text" style="display: none;">{{ item.body }}</div>
                 {{ content|safe }}
             </div>
         </div>
@@ -45,13 +46,4 @@
         <a href="/{{ type }}s/" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
     </div>
 </section>
-
-<script>
-function copyContent() {
-    const content = document.getElementById('content-body').innerText;
-    navigator.clipboard.writeText(content).then(() => {
-        alert('已复制到剪贴板！ / Copied to clipboard!');
-    });
-}
-</script>
 {% endblock %}
