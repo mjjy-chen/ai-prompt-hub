@@ -22,7 +22,7 @@
         
         <div class="card-grid">
             {% for agent in agents %}
-            <a href="{{ agent.slug }}/" class="card card-agent" data-category="{{ agent.category }}">
+            <a href="/agents/{{ agent.slug }}/" class="card card-agent" data-category="{{ agent.category }}">
                 <div class="card-header">
                     <span class="card-category">{{ agent.category }}</span>
                     <span class="card-hot">🔥 {{ agent.hot_score }}</span>
