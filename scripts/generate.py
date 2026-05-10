@@ -150,7 +150,7 @@ def generate_search_data(prompts, agents):
             "title": item.get("title", ""),
             "description": item.get("description", ""),
             "tags": item.get("tags", []),
-            "url": f"/prompts/{item['slug']}/",
+            "url": f"prompts/{item['slug']}/",
             "type": "prompt",
             "category": item.get("category", "")
         })
@@ -160,7 +160,7 @@ def generate_search_data(prompts, agents):
             "title": item.get("title", ""),
             "description": item.get("description", ""),
             "tags": item.get("tags", []),
-            "url": f"/agents/{item['slug']}/",
+            "url": f"agents/{item['slug']}/",
             "type": "agent",
             "category": item.get("category", "")
         })

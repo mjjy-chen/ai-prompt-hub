@@ -7,7 +7,7 @@
       "社交媒体",
       "文案"
     ],
-    "url": "/prompts/writing-001/",
+    "url": "prompts/writing-001/",
     "type": "prompt",
     "category": "writing"
   },
@@ -19,7 +19,7 @@
       "AI绘画",
       "提示词生成"
     ],
-    "url": "/prompts/drawing-001/",
+    "url": "prompts/drawing-001/",
     "type": "prompt",
     "category": "drawing"
   },
@@ -31,7 +31,7 @@
       "编程",
       "优化"
     ],
-    "url": "/prompts/coding-001/",
+    "url": "prompts/coding-001/",
     "type": "prompt",
     "category": "coding"
   },
@@ -43,7 +43,7 @@
       "Python",
       "图表"
     ],
-    "url": "/prompts/data-001/",
+    "url": "prompts/data-001/",
     "type": "prompt",
     "category": "data"
   },
@@ -55,7 +55,7 @@
       "苏格拉底",
       "思维引导"
     ],
-    "url": "/prompts/chat-001/",
+    "url": "prompts/chat-001/",
     "type": "prompt",
     "category": "chat"
   },
@@ -67,7 +67,7 @@
       "PRD",
       "需求分析"
     ],
-    "url": "/agents/professional-001/",
+    "url": "agents/professional-001/",
     "type": "agent",
     "category": "professional"
   },
@@ -79,7 +79,7 @@
       "创意",
       "小说"
     ],
-    "url": "/agents/creative-001/",
+    "url": "agents/creative-001/",
     "type": "agent",
     "category": "creative"
   },
@@ -91,7 +91,7 @@
       "教学",
       "导师"
     ],
-    "url": "/agents/professional-002/",
+    "url": "agents/professional-002/",
     "type": "agent",
     "category": "professional"
   },
@@ -103,7 +103,7 @@
       "角色扮演",
       "娱乐"
     ],
-    "url": "/agents/entertainment-001/",
+    "url": "agents/entertainment-001/",
     "type": "agent",
     "category": "entertainment"
   }
