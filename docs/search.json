@@ -12,6 +12,18 @@
     "category": "writing"
   },
   {
+    "title": "写作助理",
+    "description": "优化句子、文章的语法、清晰度和简洁度，提高可读性",
+    "tags": [
+      "写作",
+      "润色",
+      "语法"
+    ],
+    "url": "/prompts/writing-002/",
+    "type": "prompt",
+    "category": "writing"
+  },
+  {
     "title": "Midjourney提示词生成器",
     "description": "将简单描述转化为专业Midjourney提示词，包含风格、光照、构图等参数",
     "tags": [
@@ -24,6 +36,30 @@
     "category": "drawing"
   },
   {
+    "title": "Midjourney提示生成器",
+    "description": "通过详细创意的描述，激发Midjourney生成独特有趣的图像",
+    "tags": [
+      "Midjourney",
+      "图像生成",
+      "AI绘画"
+    ],
+    "url": "/prompts/drawing-002/",
+    "type": "prompt",
+    "category": "drawing"
+  },
+  {
+    "title": "IT编程问题解答",
+    "description": "模拟编程社区来回答你的问题，并提供解决代码",
+    "tags": [
+      "编程",
+      "问答",
+      "代码"
+    ],
+    "url": "/prompts/coding-002/",
+    "type": "prompt",
+    "category": "coding"
+  },
+  {
     "title": "代码审查专家",
     "description": "专业的代码审查助手，提供详细的代码优化建议",
     "tags": [
@@ -34,6 +70,18 @@
     "url": "/prompts/coding-001/",
     "type": "prompt",
     "category": "coding"
+  },
+  {
+    "title": "提示词优化器",
+    "description": "让AI重新撰写提示词，使其更容易被理解",
+    "tags": [
+      "提示词",
+      "优化",
+      "改写"
+    ],
+    "url": "/prompts/ai-002/",
+    "type": "prompt",
+    "category": "other"
   },
   {
     "title": "数据可视化专家",
@@ -58,6 +106,66 @@
     "url": "/prompts/chat-001/",
     "type": "prompt",
     "category": "chat"
+  },
+  {
+    "title": "前端开发专家",
+    "description": "提供项目目标和依赖，输出前端项目代码",
+    "tags": [
+      "前端",
+      "React",
+      "开发"
+    ],
+    "url": "/prompts/coding-003/",
+    "type": "prompt",
+    "category": "coding"
+  },
+  {
+    "title": "全栈程序员",
+    "description": "从前后端全面思考，提供部署策略",
+    "tags": [
+      "全栈",
+      "开发",
+      "部署"
+    ],
+    "url": "/prompts/coding-005/",
+    "type": "prompt",
+    "category": "coding"
+  },
+  {
+    "title": "提示词生成器",
+    "description": "根据指定要求，让AI生成高质量的提示词",
+    "tags": [
+      "提示词",
+      "生成",
+      "AI"
+    ],
+    "url": "/prompts/ai-001/",
+    "type": "prompt",
+    "category": "other"
+  },
+  {
+    "title": "UX/UI界面设计",
+    "description": "基于产品描述、项目目标和受众群体，提供界面设计建议",
+    "tags": [
+      "UI设计",
+      "UX",
+      "界面"
+    ],
+    "url": "/prompts/coding-004/",
+    "type": "prompt",
+    "category": "coding"
+  },
+  {
+    "title": "小红书风格转换",
+    "description": "将文本改写成类似小红书的 Emoji 风格",
+    "tags": [
+      "小红书",
+      "社交媒体",
+      "emoji"
+    ],
+    "url": "/prompts/writing-003/",
+    "type": "prompt",
+    "category": "writing"
   },
   {
     "title": "产品经理助手",
@@ -96,6 +204,18 @@
     "category": "professional"
   },
   {
+    "title": "英语口语老师",
+    "description": "纠正语言错误、改善语言表达的专业英语老师",
+    "tags": [
+      "英语",
+      "口语",
+      "教学"
+    ],
+    "url": "/agents/professional-003/",
+    "type": "agent",
+    "category": "professional"
+  },
+  {
     "title": "游戏NPC",
     "description": "沉浸式的游戏角色扮演，拥有完整背景故事和独特性格",
     "tags": [
@@ -106,5 +226,53 @@
     "url": "/agents/entertainment-001/",
     "type": "agent",
     "category": "entertainment"
+  },
+  {
+    "title": "室内装饰师",
+    "description": "提供室内装修主题、色彩搭配、家具摆放等建议",
+    "tags": [
+      "室内设计",
+      "装修",
+      "装饰"
+    ],
+    "url": "/agents/professional-004/",
+    "type": "agent",
+    "category": "professional"
+  },
+  {
+    "title": "足球解说员",
+    "description": "模拟足球比赛进程并进行专业解说",
+    "tags": [
+      "足球",
+      "解说",
+      "体育"
+    ],
+    "url": "/agents/entertainment-002/",
+    "type": "agent",
+    "category": "entertainment"
+  },
+  {
+    "title": "宠物行为学家",
+    "description": "分析宠物行为问题，提供训练建议",
+    "tags": [
+      "宠物",
+      "行为",
+      "训练"
+    ],
+    "url": "/agents/professional-005/",
+    "type": "agent",
+    "category": "professional"
+  },
+  {
+    "title": "茶艺师",
+    "description": "品鉴茶叶，提供专业茶艺建议",
+    "tags": [
+      "茶艺",
+      "品茶",
+      "文化"
+    ],
+    "url": "/agents/professional-006/",
+    "type": "agent",
+    "category": "professional"
   }
 ]
