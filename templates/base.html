@@ -5,17 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if title %}{{ title }} - {% endif %}{{ config.site.name }}</title>
     <meta name="description" content="{{ config.site.description }}">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="{{ base_path }}css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <nav class="navbar">
         <div class="nav-container">
-            <a href="./" class="nav-logo">{{ config.site.name }}</a>
+            <a href="{{ base_path }}./" class="nav-logo">{{ config.site.name }}</a>
             <div class="nav-links">
-                <a href="prompts/">提示词 <span class="nav-en">Prompts</span></a>
-                <a href="agents/">人格设定 <span class="nav-en">Agents</span></a>
+                <a href="{{ base_path }}prompts/">提示词 <span class="nav-en">Prompts</span></a>
+                <a href="{{ base_path }}agents/">人格设定 <span class="nav-en">Agents</span></a>
                 <a href="#about">关于 <span class="nav-en">About</span></a>
             </div>
         </div>
@@ -32,6 +32,6 @@
         </div>
     </footer>
     
-    <script src="js/main.js"></script>
+    <script src="{{ base_path }}js/main.js"></script>
 </body>
 </html>

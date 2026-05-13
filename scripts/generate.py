@@ -80,34 +80,37 @@ def generate_site():
     # 设置模板环境
     env = Environment(loader=FileSystemLoader(TEMPLATE_DIR))
     
-    # 生成首页
+    # 生成首页 - 根目录，路径前缀为 ""
     template = env.get_template("index.html")
     html = template.render(
         config=config,
-        prompts=prompts[:10],  # 热门提示词
-        agents=agents[:6],     # 热门人格
-        now=datetime.now()
+        prompts=prompts[:10],
+        agents=agents[:6],
+        now=datetime.now(),
+        base_path=""  # 根目录
     )
     with open(OUTPUT_DIR / "index.html", "w", encoding="utf-8") as f:
         f.write(html)
     
-    # 生成提示词列表页
+    # 生成提示词列表页 - 在prompts/目录下，路径前缀为 "../"
     template = env.get_template("prompts.html")
     html = template.render(
         config=config,
         prompts=prompts,
-        categories=config["categories"]["prompts"]
+        categories=config["categories"]["prompts"],
+        base_path="../"  # 上一级目录
     )
     (OUTPUT_DIR / "prompts").mkdir(exist_ok=True)
     with open(OUTPUT_DIR / "prompts" / "index.html", "w", encoding="utf-8") as f:
         f.write(html)
     
-    # 生成人格设定列表页
+    # 生成人格设定列表页 - 在agents/目录下，路径前缀为 "../"
     template = env.get_template("agents.html")
     html = template.render(
         config=config,
         agents=agents,
-        categories=config["categories"]["agents"]
+        categories=config["categories"]["agents"],
+        base_path="../"  # 上一级目录
     )
     (OUTPUT_DIR / "agents").mkdir(exist_ok=True)
     with open(OUTPUT_DIR / "agents" / "index.html", "w", encoding="utf-8") as f:
@@ -123,7 +126,8 @@ def generate_site():
             config=config,
             item=item,
             content=html_content,
-            type="prompt" if item in prompts else "agent"
+            type="prompt" if item in prompts else "agent",
+            base_path="../../"  # 上两级目录
         )
         
         subdir = "prompts" if item in prompts else "agents"
