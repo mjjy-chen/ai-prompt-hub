@@ -22,7 +22,7 @@
         
         <div class="card-grid">
             {% for prompt in prompts %}
-            <a href="/prompts/{{ prompt.slug }}/" class="card" data-category="{{ prompt.category }}">
+            <a href="{{ prompt.slug }}/" class="card" data-category="{{ prompt.category }}">
                 <div class="card-header">
                     <span class="card-category">{{ prompt.category }}</span>
                     <span class="card-hot">🔥 {{ prompt.hot_score }}</span>
