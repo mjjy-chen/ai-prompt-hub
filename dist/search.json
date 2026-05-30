@@ -900,6 +900,3020 @@
     "verified": true
   },
   {
+    "title": "MidJourney风格：Print",
+    "title_en": "MidJourney Style: Print",
+    "description": "MidJourney V5风格关键词'Print'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Print', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-print/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Overdimensional",
+    "title_en": "MidJourney Style: Overdimensional",
+    "description": "MidJourney V5风格关键词'Overdimensional'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Overdimensional', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-overdimensional/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Tile",
+    "title_en": "MidJourney Style: Tile",
+    "description": "MidJourney V5风格关键词'Tile'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Tile', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-tile/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Dawn",
+    "title_en": "MidJourney Style: Dawn",
+    "description": "MidJourney V5风格关键词'Dawn'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Dawn', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-dawn/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Fig",
+    "title_en": "MidJourney Style: Fig",
+    "description": "MidJourney V5风格关键词'Fig'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Fig', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-fig/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Food",
+    "title_en": "MidJourney Style: Food",
+    "description": "MidJourney V5风格关键词'Food'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Food', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-food/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Ink",
+    "title_en": "MidJourney Style: Ink",
+    "description": "MidJourney V5风格关键词'Ink'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Ink', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-ink/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Orc",
+    "title_en": "MidJourney Style: Orc",
+    "description": "MidJourney V5风格关键词'Orc'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Orc', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-orc/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Bee",
+    "title_en": "MidJourney Style: Bee",
+    "description": "MidJourney V5风格关键词'Bee'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Bee', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-bee/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Benin",
+    "title_en": "MidJourney Style: Benin",
+    "description": "MidJourney V5风格关键词'Benin'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Benin', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-benin/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：First-Person",
+    "title_en": "MidJourney Style: First-Person",
+    "description": "MidJourney V5风格关键词'First-Person'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'First-Person', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-first-person/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Khmer",
+    "title_en": "MidJourney Style: Khmer",
+    "description": "MidJourney V5风格关键词'Khmer'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Khmer', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-khmer/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Alldimensional",
+    "title_en": "MidJourney Style: Alldimensional",
+    "description": "MidJourney V5风格关键词'Alldimensional'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Alldimensional', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-alldimensional/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Beta",
+    "title_en": "MidJourney Style: Beta",
+    "description": "MidJourney V5风格关键词'Beta'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Beta', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-beta/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Mat",
+    "title_en": "MidJourney Style: Mat",
+    "description": "MidJourney V5风格关键词'Mat'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Mat', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-mat/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Urban",
+    "title_en": "MidJourney Style: Urban",
+    "description": "MidJourney V5风格关键词'Urban'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Urban', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-urban/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Model",
+    "title_en": "MidJourney Style: Model",
+    "description": "MidJourney V5风格关键词'Model'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Model', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-model/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Words",
+    "title_en": "MidJourney Style: Words",
+    "description": "MidJourney V5风格关键词'Words'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Words', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-words/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Centered-Shot",
+    "title_en": "MidJourney Style: Centered-Shot",
+    "description": "MidJourney V5风格关键词'Centered-Shot'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Centered-Shot', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-centered-shot/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Sport",
+    "title_en": "MidJourney Style: Sport",
+    "description": "MidJourney V5风格关键词'Sport'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Sport', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-sport/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Beef",
+    "title_en": "MidJourney Style: Beef",
+    "description": "MidJourney V5风格关键词'Beef'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Beef', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-beef/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Cake",
+    "title_en": "MidJourney Style: Cake",
+    "description": "MidJourney V5风格关键词'Cake'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Cake', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-cake/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Mayan",
+    "title_en": "MidJourney Style: Mayan",
+    "description": "MidJourney V5风格关键词'Mayan'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Mayan', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-mayan/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Bagan",
+    "title_en": "MidJourney Style: Bagan",
+    "description": "MidJourney V5风格关键词'Bagan'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Bagan', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-bagan/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Blurred",
+    "title_en": "MidJourney Style: Blurred",
+    "description": "MidJourney V5风格关键词'Blurred'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Blurred', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-blurred/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Hay",
+    "title_en": "MidJourney Style: Hay",
+    "description": "MidJourney V5风格关键词'Hay'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Hay', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-hay/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Volume",
+    "title_en": "MidJourney Style: Volume",
+    "description": "MidJourney V5风格关键词'Volume'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Volume', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-volume/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Motion",
+    "title_en": "MidJourney Style: Motion",
+    "description": "MidJourney V5风格关键词'Motion'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Motion', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-motion/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Doodle",
+    "title_en": "MidJourney Style: Doodle",
+    "description": "MidJourney V5风格关键词'Doodle'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Doodle', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-doodle/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：0-Dimensional",
+    "title_en": "MidJourney Style: 0-Dimensional",
+    "description": "MidJourney V5风格关键词'0-Dimensional'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '0-Dimensional', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-0-dimensional/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：NFT",
+    "title_en": "MidJourney Style: NFT",
+    "description": "MidJourney V5风格关键词'NFT'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'NFT', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-nft/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Top-View",
+    "title_en": "MidJourney Style: Top-View",
+    "description": "MidJourney V5风格关键词'Top-View'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Top-View', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-top-view/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Link",
+    "title_en": "MidJourney Style: Link",
+    "description": "MidJourney V5风格关键词'Link'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Link', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-link/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：NES",
+    "title_en": "MidJourney Style: NES",
+    "description": "MidJourney V5风格关键词'NES'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'NES', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-nes/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：DNA",
+    "title_en": "MidJourney Style: DNA",
+    "description": "MidJourney V5风格关键词'DNA'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'DNA', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-dna/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Jpeg",
+    "title_en": "MidJourney Style: Jpeg",
+    "description": "MidJourney V5风格关键词'Jpeg'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Jpeg', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-jpeg/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Minoan",
+    "title_en": "MidJourney Style: Minoan",
+    "description": "MidJourney V5风格关键词'Minoan'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Minoan', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-minoan/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Closeup",
+    "title_en": "MidJourney Style: Closeup",
+    "description": "MidJourney V5风格关键词'Closeup'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Closeup', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-closeup/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Meme",
+    "title_en": "MidJourney Style: Meme",
+    "description": "MidJourney V5风格关键词'Meme'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Meme', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-meme/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Boss",
+    "title_en": "MidJourney Style: Boss",
+    "description": "MidJourney V5风格关键词'Boss'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Boss', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-boss/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：2-Dimensional",
+    "title_en": "MidJourney Style: 2-Dimensional",
+    "description": "MidJourney V5风格关键词'2-Dimensional'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '2-Dimensional', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-2-dimensional/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Oil",
+    "title_en": "MidJourney Style: Oil",
+    "description": "MidJourney V5风格关键词'Oil'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Oil', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-oil/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Mali",
+    "title_en": "MidJourney Style: Mali",
+    "description": "MidJourney V5风格关键词'Mali'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Mali', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-mali/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Net",
+    "title_en": "MidJourney Style: Net",
+    "description": "MidJourney V5风格关键词'Net'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Net', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-net/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Paint",
+    "title_en": "MidJourney Style: Paint",
+    "description": "MidJourney V5风格关键词'Paint'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Paint', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-paint/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：2.5-Dimensional",
+    "title_en": "MidJourney Style: 2.5-Dimensional",
+    "description": "MidJourney V5风格关键词'2.5-Dimensional'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '2.5-Dimensional', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-2-5-dimensional/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Pork",
+    "title_en": "MidJourney Style: Pork",
+    "description": "MidJourney V5风格关键词'Pork'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Pork', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-pork/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Sketch",
+    "title_en": "MidJourney Style: Sketch",
+    "description": "MidJourney V5风格关键词'Sketch'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Sketch', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-sketch/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：SNES",
+    "title_en": "MidJourney Style: SNES",
+    "description": "MidJourney V5风格关键词'SNES'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'SNES', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-snes/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Wine",
+    "title_en": "MidJourney Style: Wine",
+    "description": "MidJourney V5风格关键词'Wine'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Wine', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-wine/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：1-D",
+    "title_en": "MidJourney Style: 1-D",
+    "description": "MidJourney V5风格关键词'1-D'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '1-D', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-1-d/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：2D",
+    "title_en": "MidJourney Style: 2D",
+    "description": "MidJourney V5风格关键词'2D'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '2D', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-2d/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Cork",
+    "title_en": "MidJourney Style: Cork",
+    "description": "MidJourney V5风格关键词'Cork'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Cork', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-cork/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Sign",
+    "title_en": "MidJourney Style: Sign",
+    "description": "MidJourney V5风格关键词'Sign'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Sign', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-sign/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：AI",
+    "title_en": "MidJourney Style: AI",
+    "description": "MidJourney V5风格关键词'AI'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'AI', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-ai/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Atom",
+    "title_en": "MidJourney Style: Atom",
+    "description": "MidJourney V5风格关键词'Atom'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Atom', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-atom/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Dusk",
+    "title_en": "MidJourney Style: Dusk",
+    "description": "MidJourney V5风格关键词'Dusk'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Dusk', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-dusk/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Frame",
+    "title_en": "MidJourney Style: Frame",
+    "description": "MidJourney V5风格关键词'Frame'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Frame', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-frame/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Cutaway-View",
+    "title_en": "MidJourney Style: Cutaway-View",
+    "description": "MidJourney V5风格关键词'Cutaway-View'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Cutaway-View', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-cutaway-view/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Egg",
+    "title_en": "MidJourney Style: Egg",
+    "description": "MidJourney V5风格关键词'Egg'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Egg', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-egg/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Isometric",
+    "title_en": "MidJourney Style: Isometric",
+    "description": "MidJourney V5风格关键词'Isometric'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Isometric', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-isometric/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Rock",
+    "title_en": "MidJourney Style: Rock",
+    "description": "MidJourney V5风格关键词'Rock'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Rock', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-rock/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Fur",
+    "title_en": "MidJourney Style: Fur",
+    "description": "MidJourney V5风格关键词'Fur'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Fur', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-fur/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Rural",
+    "title_en": "MidJourney Style: Rural",
+    "description": "MidJourney V5风格关键词'Rural'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Rural', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-rural/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：1-Dimensional",
+    "title_en": "MidJourney Style: 1-Dimensional",
+    "description": "MidJourney V5风格关键词'1-Dimensional'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '1-Dimensional', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-1-dimensional/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Arabic",
+    "title_en": "MidJourney Style: Arabic",
+    "description": "MidJourney V5风格关键词'Arabic'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Arabic', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-arabic/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Low Angle",
+    "title_en": "MidJourney Style: Low Angle",
+    "description": "MidJourney V5风格关键词'Low Angle'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Low Angle', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-low-angle/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Mesa",
+    "title_en": "MidJourney Style: Mesa",
+    "description": "MidJourney V5风格关键词'Mesa'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Mesa', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-mesa/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Emboss",
+    "title_en": "MidJourney Style: Emboss",
+    "description": "MidJourney V5风格关键词'Emboss'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Emboss', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-emboss/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Lake",
+    "title_en": "MidJourney Style: Lake",
+    "description": "MidJourney V5风格关键词'Lake'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Lake', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-lake/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Orthographic",
+    "title_en": "MidJourney Style: Orthographic",
+    "description": "MidJourney V5风格关键词'Orthographic'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Orthographic', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-orthographic/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Closeup-View",
+    "title_en": "MidJourney Style: Closeup-View",
+    "description": "MidJourney V5风格关键词'Closeup-View'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Closeup-View', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-closeup-view/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Mural",
+    "title_en": "MidJourney Style: Mural",
+    "description": "MidJourney V5风格关键词'Mural'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Mural', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-mural/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Subdimensional",
+    "title_en": "MidJourney Style: Subdimensional",
+    "description": "MidJourney V5风格关键词'Subdimensional'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Subdimensional', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-subdimensional/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：2.5D",
+    "title_en": "MidJourney Style: 2.5D",
+    "description": "MidJourney V5风格关键词'2.5D'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '2.5D', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-2-5d/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：3D",
+    "title_en": "MidJourney Style: 3D",
+    "description": "MidJourney V5风格关键词'3D'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '3D', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-3d/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Blur",
+    "title_en": "MidJourney Style: Blur",
+    "description": "MidJourney V5风格关键词'Blur'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Blur', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-blur/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Road",
+    "title_en": "MidJourney Style: Road",
+    "description": "MidJourney V5风格关键词'Road'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Road', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-road/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：TXAA",
+    "title_en": "MidJourney Style: TXAA",
+    "description": "MidJourney V5风格关键词'TXAA'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'TXAA', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-txaa/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Fox",
+    "title_en": "MidJourney Style: Fox",
+    "description": "MidJourney V5风格关键词'Fox'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Fox', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-fox/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Dimensionality",
+    "title_en": "MidJourney Style: Dimensionality",
+    "description": "MidJourney V5风格关键词'Dimensionality'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Dimensionality', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-dimensionality/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：4-Dimensional",
+    "title_en": "MidJourney Style: 4-Dimensional",
+    "description": "MidJourney V5风格关键词'4-Dimensional'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '4-Dimensional', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-4-dimensional/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Car",
+    "title_en": "MidJourney Style: Car",
+    "description": "MidJourney V5风格关键词'Car'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Car', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-car/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Nation",
+    "title_en": "MidJourney Style: Nation",
+    "description": "MidJourney V5风格关键词'Nation'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Nation', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-nation/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Rugby",
+    "title_en": "MidJourney Style: Rugby",
+    "description": "MidJourney V5风格关键词'Rugby'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Rugby', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-rugby/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Says",
+    "title_en": "MidJourney Style: Says",
+    "description": "MidJourney V5风格关键词'Says'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Says', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-says/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Stamp",
+    "title_en": "MidJourney Style: Stamp",
+    "description": "MidJourney V5风格关键词'Stamp'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Stamp', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-stamp/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Font",
+    "title_en": "MidJourney Style: Font",
+    "description": "MidJourney V5风格关键词'Font'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Font', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-font/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Dog",
+    "title_en": "MidJourney Style: Dog",
+    "description": "MidJourney V5风格关键词'Dog'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Dog', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-dog/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Noon",
+    "title_en": "MidJourney Style: Noon",
+    "description": "MidJourney V5风格关键词'Noon'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Noon', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-noon/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Xbox",
+    "title_en": "MidJourney Style: Xbox",
+    "description": "MidJourney V5风格关键词'Xbox'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Xbox', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-xbox/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Erode",
+    "title_en": "MidJourney Style: Erode",
+    "description": "MidJourney V5风格关键词'Erode'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Erode', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-erode/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Iron",
+    "title_en": "MidJourney Style: Iron",
+    "description": "MidJourney V5风格关键词'Iron'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Iron', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-iron/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Spray",
+    "title_en": "MidJourney Style: Spray",
+    "description": "MidJourney V5风格关键词'Spray'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Spray', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-spray/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Bog",
+    "title_en": "MidJourney Style: Bog",
+    "description": "MidJourney V5风格关键词'Bog'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Bog', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-bog/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Owl",
+    "title_en": "MidJourney Style: Owl",
+    "description": "MidJourney V5风格关键词'Owl'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Owl', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-owl/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Sea",
+    "title_en": "MidJourney Style: Sea",
+    "description": "MidJourney V5风格关键词'Sea'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Sea', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-sea/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Wide Shot",
+    "title_en": "MidJourney Style: Wide Shot",
+    "description": "MidJourney V5风格关键词'Wide Shot'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Wide Shot', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-wide-shot/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：DOS",
+    "title_en": "MidJourney Style: DOS",
+    "description": "MidJourney V5风格关键词'DOS'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'DOS', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-dos/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Morph",
+    "title_en": "MidJourney Style: Morph",
+    "description": "MidJourney V5风格关键词'Morph'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Morph', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-morph/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Aerial View",
+    "title_en": "MidJourney Style: Aerial View",
+    "description": "MidJourney V5风格关键词'Aerial View'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Aerial View', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-aerial-view/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Cutaway",
+    "title_en": "MidJourney Style: Cutaway",
+    "description": "MidJourney V5风格关键词'Cutaway'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Cutaway', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-cutaway/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Air",
+    "title_en": "MidJourney Style: Air",
+    "description": "MidJourney V5风格关键词'Air'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Air', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-air/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：iOS",
+    "title_en": "MidJourney Style: iOS",
+    "description": "MidJourney V5风格关键词'iOS'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'iOS', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-ios/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Soda",
+    "title_en": "MidJourney Style: Soda",
+    "description": "MidJourney V5风格关键词'Soda'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Soda', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-soda/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Game",
+    "title_en": "MidJourney Style: Game",
+    "description": "MidJourney V5风格关键词'Game'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Game', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-game/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Park",
+    "title_en": "MidJourney Style: Park",
+    "description": "MidJourney V5风格关键词'Park'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Park', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-park/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Dilate",
+    "title_en": "MidJourney Style: Dilate",
+    "description": "MidJourney V5风格关键词'Dilate'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Dilate', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-dilate/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Icon",
+    "title_en": "MidJourney Style: Icon",
+    "description": "MidJourney V5风格关键词'Icon'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Icon', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-icon/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Wii",
+    "title_en": "MidJourney Style: Wii",
+    "description": "MidJourney V5风格关键词'Wii'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Wii', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-wii/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Selfie",
+    "title_en": "MidJourney Style: Selfie",
+    "description": "MidJourney V5风格关键词'Selfie'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Selfie', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-selfie/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Dust",
+    "title_en": "MidJourney Style: Dust",
+    "description": "MidJourney V5风格关键词'Dust'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Dust', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-dust/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Glaze",
+    "title_en": "MidJourney Style: Glaze",
+    "description": "MidJourney V5风格关键词'Glaze'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Glaze', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-glaze/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Decal",
+    "title_en": "MidJourney Style: Decal",
+    "description": "MidJourney V5风格关键词'Decal'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Decal', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-decal/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：3-Dimensional",
+    "title_en": "MidJourney Style: 3-Dimensional",
+    "description": "MidJourney V5风格关键词'3-Dimensional'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '3-Dimensional', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-3-dimensional/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Anamorphosis",
+    "title_en": "MidJourney Style: Anamorphosis",
+    "description": "MidJourney V5风格关键词'Anamorphosis'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Anamorphosis', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-anamorphosis/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：FXAA",
+    "title_en": "MidJourney Style: FXAA",
+    "description": "MidJourney V5风格关键词'FXAA'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'FXAA', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-fxaa/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Multiverse",
+    "title_en": "MidJourney Style: Multiverse",
+    "description": "MidJourney V5风格关键词'Multiverse'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Multiverse', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-multiverse/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Everdimensional",
+    "title_en": "MidJourney Style: Everdimensional",
+    "description": "MidJourney V5风格关键词'Everdimensional'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Everdimensional', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-everdimensional/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Text",
+    "title_en": "MidJourney Style: Text",
+    "description": "MidJourney V5风格关键词'Text'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Text', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-text/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Ice",
+    "title_en": "MidJourney Style: Ice",
+    "description": "MidJourney V5风格关键词'Ice'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Ice', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-ice/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Incan",
+    "title_en": "MidJourney Style: Incan",
+    "description": "MidJourney V5风格关键词'Incan'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Incan', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-incan/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Map",
+    "title_en": "MidJourney Style: Map",
+    "description": "MidJourney V5风格关键词'Map'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Map', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-map/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Toy",
+    "title_en": "MidJourney Style: Toy",
+    "description": "MidJourney V5风格关键词'Toy'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Toy', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-toy/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Wax",
+    "title_en": "MidJourney Style: Wax",
+    "description": "MidJourney V5风格关键词'Wax'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Wax', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-wax/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：20s",
+    "title_en": "MidJourney Style: 20s",
+    "description": "MidJourney V5风格关键词'20s'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '20s', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-20s/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Pig",
+    "title_en": "MidJourney Style: Pig",
+    "description": "MidJourney V5风格关键词'Pig'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Pig', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-pig/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：30s",
+    "title_en": "MidJourney Style: 30s",
+    "description": "MidJourney V5风格关键词'30s'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '30s', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-30s/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Chalk",
+    "title_en": "MidJourney Style: Chalk",
+    "description": "MidJourney V5风格关键词'Chalk'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Chalk', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-chalk/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：40s",
+    "title_en": "MidJourney Style: 40s",
+    "description": "MidJourney V5风格关键词'40s'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '40s', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-40s/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：DVD",
+    "title_en": "MidJourney Style: DVD",
+    "description": "MidJourney V5风格关键词'DVD'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'DVD', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-dvd/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Slag",
+    "title_en": "MidJourney Style: Slag",
+    "description": "MidJourney V5风格关键词'Slag'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Slag', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-slag/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：SSAO",
+    "title_en": "MidJourney Style: SSAO",
+    "description": "MidJourney V5风格关键词'SSAO'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'SSAO', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-ssao/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：50s",
+    "title_en": "MidJourney Style: 50s",
+    "description": "MidJourney V5风格关键词'50s'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '50s', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-50s/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：5-Dimensional",
+    "title_en": "MidJourney Style: 5-Dimensional",
+    "description": "MidJourney V5风格关键词'5-Dimensional'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '5-Dimensional', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-5-dimensional/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：60s",
+    "title_en": "MidJourney Style: 60s",
+    "description": "MidJourney V5风格关键词'60s'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '60s', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-60s/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Image",
+    "title_en": "MidJourney Style: Image",
+    "description": "MidJourney V5风格关键词'Image'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Image', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-image/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "小红书爆款文案生成器",
     "title_en": "Xiaohongshu Viral Copy Generator",
     "description": "一键生成小红书风格的爆款文案，包含emoji和话题标签",
@@ -944,6 +3958,72 @@
     "verified": false
   },
   {
+    "title": "MidJourney风格：70s",
+    "title_en": "MidJourney Style: 70s",
+    "description": "MidJourney V5风格关键词'70s'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '70s', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-70s/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：80s",
+    "title_en": "MidJourney Style: 80s",
+    "description": "MidJourney V5风格关键词'80s'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '80s', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-80s/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Thai",
+    "title_en": "MidJourney Style: Thai",
+    "description": "MidJourney V5风格关键词'Thai'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Thai', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-thai/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "Midjourney提示词生成器",
     "title_en": "Midjourney Prompt Generator",
     "description": "将简单描述转化为专业Midjourney提示词，包含风格、光照、构图等参数",
@@ -966,6 +4046,138 @@
     "verified": false
   },
   {
+    "title": "MidJourney风格：90s",
+    "title_en": "MidJourney Style: 90s",
+    "description": "MidJourney V5风格关键词'90s'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '90s', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-90s/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：0-D",
+    "title_en": "MidJourney Style: 0-D",
+    "description": "MidJourney V5风格关键词'0-D'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '0-D', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-0-d/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Cropped",
+    "title_en": "MidJourney Style: Cropped",
+    "description": "MidJourney V5风格关键词'Cropped'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Cropped', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-cropped/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Hat",
+    "title_en": "MidJourney Style: Hat",
+    "description": "MidJourney V5风格关键词'Hat'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Hat', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-hat/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Neo",
+    "title_en": "MidJourney Style: Neo",
+    "description": "MidJourney V5风格关键词'Neo'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Neo', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-neo/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Side-View",
+    "title_en": "MidJourney Style: Side-View",
+    "description": "MidJourney V5风格关键词'Side-View'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Side-View', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-side-view/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "Midjourney提示生成器",
     "title_en": "Midjourney Prompt Generator",
     "description": "通过详细创意的描述，激发Midjourney生成独特有趣的图像",
@@ -986,6 +4198,72 @@
     "source": "",
     "language": "zh",
     "verified": false
+  },
+  {
+    "title": "MidJourney风格：LSD",
+    "title_en": "MidJourney Style: LSD",
+    "description": "MidJourney V5风格关键词'LSD'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'LSD', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-lsd/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Agar",
+    "title_en": "MidJourney Style: Agar",
+    "description": "MidJourney V5风格关键词'Agar'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Agar', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-agar/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：DMT",
+    "title_en": "MidJourney Style: DMT",
+    "description": "MidJourney V5风格关键词'DMT'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'DMT', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-dmt/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
   },
   {
     "title": "代码审查专家",
@@ -1032,6 +4310,28 @@
     "verified": false
   },
   {
+    "title": "MidJourney风格：Cut",
+    "title_en": "MidJourney Style: Cut",
+    "description": "MidJourney V5风格关键词'Cut'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Cut', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-cut/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "提示词优化器",
     "title_en": "Prompt Optimizer",
     "description": "让AI重新撰写提示词，使其更容易被理解",
@@ -1052,6 +4352,72 @@
     "source": "",
     "language": "zh",
     "verified": false
+  },
+  {
+    "title": "MidJourney风格：Flat",
+    "title_en": "MidJourney Style: Flat",
+    "description": "MidJourney V5风格关键词'Flat'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Flat', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-flat/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Grid",
+    "title_en": "MidJourney Style: Grid",
+    "description": "MidJourney V5风格关键词'Grid'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Grid', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-grid/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Pond",
+    "title_en": "MidJourney Style: Pond",
+    "description": "MidJourney V5风格关键词'Pond'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Pond', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-pond/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
   },
   {
     "title": "数据可视化专家",
@@ -1076,6 +4442,358 @@
     "verified": false
   },
   {
+    "title": "MidJourney风格：Luxe",
+    "title_en": "MidJourney Style: Luxe",
+    "description": "MidJourney V5风格关键词'Luxe'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Luxe', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-luxe/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Aura",
+    "title_en": "MidJourney Style: Aura",
+    "description": "MidJourney V5风格关键词'Aura'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Aura', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-aura/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Gas",
+    "title_en": "MidJourney Style: Gas",
+    "description": "MidJourney V5风格关键词'Gas'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Gas', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-gas/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Gold",
+    "title_en": "MidJourney Style: Gold",
+    "description": "MidJourney V5风格关键词'Gold'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Gold', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-gold/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：App",
+    "title_en": "MidJourney Style: App",
+    "description": "MidJourney V5风格关键词'App'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'App', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-app/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：CGI",
+    "title_en": "MidJourney Style: CGI",
+    "description": "MidJourney V5风格关键词'CGI'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'CGI', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-cgi/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Smudged",
+    "title_en": "MidJourney Style: Smudged",
+    "description": "MidJourney V5风格关键词'Smudged'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Smudged', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-smudged/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Soul",
+    "title_en": "MidJourney Style: Soul",
+    "description": "MidJourney V5风格关键词'Soul'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Soul', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-soul/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Goth",
+    "title_en": "MidJourney Style: Goth",
+    "description": "MidJourney V5风格关键词'Goth'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Goth', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-goth/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Blurry",
+    "title_en": "MidJourney Style: Blurry",
+    "description": "MidJourney V5风格关键词'Blurry'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Blurry', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-blurry/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Deco",
+    "title_en": "MidJourney Style: Deco",
+    "description": "MidJourney V5风格关键词'Deco'，设计风格类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Deco', Design Styles category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "设计风格"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "design-styles"
+    ],
+    "url": "/prompts/mj-style-deco/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Golf",
+    "title_en": "MidJourney Style: Golf",
+    "description": "MidJourney V5风格关键词'Golf'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Golf', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-golf/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Foil",
+    "title_en": "MidJourney Style: Foil",
+    "description": "MidJourney V5风格关键词'Foil'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Foil', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-foil/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Tea",
+    "title_en": "MidJourney Style: Tea",
+    "description": "MidJourney V5风格关键词'Tea'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Tea', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-tea/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：UV",
+    "title_en": "MidJourney Style: UV",
+    "description": "MidJourney V5风格关键词'UV'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'UV', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-uv/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Dim",
+    "title_en": "MidJourney Style: Dim",
+    "description": "MidJourney V5风格关键词'Dim'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Dim', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-dim/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "深度对话引导师",
     "title_en": "Deep Conversation Guide",
     "description": "通过苏格拉底式提问，引导用户深入思考复杂问题",
@@ -1096,6 +4814,204 @@
     "source": "",
     "language": "zh",
     "verified": false
+  },
+  {
+    "title": "MidJourney风格：CFL",
+    "title_en": "MidJourney Style: CFL",
+    "description": "MidJourney V5风格关键词'CFL'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'CFL', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-cfl/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Elf",
+    "title_en": "MidJourney Style: Elf",
+    "description": "MidJourney V5风格关键词'Elf'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Elf', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-elf/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Gum",
+    "title_en": "MidJourney Style: Gum",
+    "description": "MidJourney V5风格关键词'Gum'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Gum', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-gum/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：RTX",
+    "title_en": "MidJourney Style: RTX",
+    "description": "MidJourney V5风格关键词'RTX'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'RTX', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-rtx/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：CRT",
+    "title_en": "MidJourney Style: CRT",
+    "description": "MidJourney V5风格关键词'CRT'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'CRT', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-crt/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Fog",
+    "title_en": "MidJourney Style: Fog",
+    "description": "MidJourney V5风格关键词'Fog'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Fog', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-fog/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：LCD",
+    "title_en": "MidJourney Style: LCD",
+    "description": "MidJourney V5风格关键词'LCD'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'LCD', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-lcd/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Santa",
+    "title_en": "MidJourney Style: Santa",
+    "description": "MidJourney V5风格关键词'Santa'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Santa', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-santa/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：SFX",
+    "title_en": "MidJourney Style: SFX",
+    "description": "MidJourney V5风格关键词'SFX'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'SFX', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-sfx/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
   },
   {
     "title": "前端开发专家",
@@ -1120,6 +5036,116 @@
     "verified": false
   },
   {
+    "title": "MidJourney风格：Cow",
+    "title_en": "MidJourney Style: Cow",
+    "description": "MidJourney V5风格关键词'Cow'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Cow', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-cow/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：LED",
+    "title_en": "MidJourney Style: LED",
+    "description": "MidJourney V5风格关键词'LED'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'LED', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-led/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Axonometric",
+    "title_en": "MidJourney Style: Axonometric",
+    "description": "MidJourney V5风格关键词'Axonometric'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Axonometric', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-axonometric/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Gobo",
+    "title_en": "MidJourney Style: Gobo",
+    "description": "MidJourney V5风格关键词'Gobo'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Gobo', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-gobo/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：OLED",
+    "title_en": "MidJourney Style: OLED",
+    "description": "MidJourney V5风格关键词'OLED'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'OLED', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-oled/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "全栈程序员",
     "title_en": "Full Stack Developer",
     "description": "从前后端全面思考，提供部署策略",
@@ -1140,6 +5166,50 @@
     "source": "",
     "language": "zh",
     "verified": false
+  },
+  {
+    "title": "MidJourney风格：Mayo",
+    "title_en": "MidJourney Style: Mayo",
+    "description": "MidJourney V5风格关键词'Mayo'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Mayo', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-mayo/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Torch",
+    "title_en": "MidJourney Style: Torch",
+    "description": "MidJourney V5风格关键词'Torch'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Torch', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-torch/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
   },
   {
     "title": "提示词生成器",
@@ -1164,6 +5234,226 @@
     "verified": false
   },
   {
+    "title": "MidJourney风格：Laser",
+    "title_en": "MidJourney Style: Laser",
+    "description": "MidJourney V5风格关键词'Laser'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Laser', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-laser/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Third-Person",
+    "title_en": "MidJourney Style: Third-Person",
+    "description": "MidJourney V5风格关键词'Third-Person'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Third-Person', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-third-person/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Ant",
+    "title_en": "MidJourney Style: Ant",
+    "description": "MidJourney V5风格关键词'Ant'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Ant', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-ant/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Bard",
+    "title_en": "MidJourney Style: Bard",
+    "description": "MidJourney V5风格关键词'Bard'，地理与文化类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Bard', Geography & Culture category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "地理与文化"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "geography-and-culture"
+    ],
+    "url": "/prompts/mj-style-bard/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：CD",
+    "title_en": "MidJourney Style: CD",
+    "description": "MidJourney V5风格关键词'CD'，物件类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'CD', Objects category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "物件"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "objects"
+    ],
+    "url": "/prompts/mj-style-cd/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Flare",
+    "title_en": "MidJourney Style: Flare",
+    "description": "MidJourney V5风格关键词'Flare'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Flare', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-flare/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Rug",
+    "title_en": "MidJourney Style: Rug",
+    "description": "MidJourney V5风格关键词'Rug'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Rug', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-rug/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Unix",
+    "title_en": "MidJourney Style: Unix",
+    "description": "MidJourney V5风格关键词'Unix'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Unix', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-unix/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Resin",
+    "title_en": "MidJourney Style: Resin",
+    "description": "MidJourney V5风格关键词'Resin'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Resin', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-resin/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：X-Ray",
+    "title_en": "MidJourney Style: X-Ray",
+    "description": "MidJourney V5风格关键词'X-Ray'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'X-Ray', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-x-ray/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "UX/UI界面设计",
     "title_en": "UX/UI Interface Design",
     "description": "基于产品描述、项目目标和受众群体，提供界面设计建议",
@@ -1184,6 +5474,270 @@
     "source": "",
     "language": "zh",
     "verified": false
+  },
+  {
+    "title": "MidJourney风格：Strobe",
+    "title_en": "MidJourney Style: Strobe",
+    "description": "MidJourney V5风格关键词'Strobe'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Strobe', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-strobe/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Bright",
+    "title_en": "MidJourney Style: Bright",
+    "description": "MidJourney V5风格关键词'Bright'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Bright', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-bright/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Conte",
+    "title_en": "MidJourney Style: Conte",
+    "description": "MidJourney V5风格关键词'Conte'，绘画与艺术媒介类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Conte', Drawing & Art Mediums category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "绘画与艺术媒介"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "drawing-and-art-mediums"
+    ],
+    "url": "/prompts/mj-style-conte/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：AMOLED",
+    "title_en": "MidJourney Style: AMOLED",
+    "description": "MidJourney V5风格关键词'AMOLED'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'AMOLED', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-amoled/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：VFX",
+    "title_en": "MidJourney Style: VFX",
+    "description": "MidJourney V5风格关键词'VFX'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'VFX', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-vfx/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Shadow",
+    "title_en": "MidJourney Style: Shadow",
+    "description": "MidJourney V5风格关键词'Shadow'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Shadow', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-shadow/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Fen",
+    "title_en": "MidJourney Style: Fen",
+    "description": "MidJourney V5风格关键词'Fen'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Fen', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-fen/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Marquee",
+    "title_en": "MidJourney Style: Marquee",
+    "description": "MidJourney V5风格关键词'Marquee'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Marquee', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-marquee/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Godrays",
+    "title_en": "MidJourney Style: Godrays",
+    "description": "MidJourney V5风格关键词'Godrays'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Godrays', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-godrays/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Day",
+    "title_en": "MidJourney Style: Day",
+    "description": "MidJourney V5风格关键词'Day'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Day', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-day/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Halogen",
+    "title_en": "MidJourney Style: Halogen",
+    "description": "MidJourney V5风格关键词'Halogen'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Halogen', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-halogen/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：PSP",
+    "title_en": "MidJourney Style: PSP",
+    "description": "MidJourney V5风格关键词'PSP'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'PSP', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-psp/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
   },
   {
     "title": "小红书风格转换",
@@ -1208,6 +5762,490 @@
     "verified": false
   },
   {
+    "title": "MidJourney风格：Cat",
+    "title_en": "MidJourney Style: Cat",
+    "description": "MidJourney V5风格关键词'Cat'，自然与动物类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Cat', Nature & Animals category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "自然与动物"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "nature-and-animals"
+    ],
+    "url": "/prompts/mj-style-cat/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Haze",
+    "title_en": "MidJourney Style: Haze",
+    "description": "MidJourney V5风格关键词'Haze'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Haze', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-haze/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：High Angle",
+    "title_en": "MidJourney Style: High Angle",
+    "description": "MidJourney V5风格关键词'High Angle'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'High Angle', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-high-angle/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Lantern",
+    "title_en": "MidJourney Style: Lantern",
+    "description": "MidJourney V5风格关键词'Lantern'，光影类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Lantern', Lighting category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "光影"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "lighting"
+    ],
+    "url": "/prompts/mj-style-lantern/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：8-bit",
+    "title_en": "MidJourney Style: 8-bit",
+    "description": "MidJourney V5风格关键词'8-bit'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '8-bit', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-8-bit/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：F22",
+    "title_en": "MidJourney Style: F22",
+    "description": "MidJourney V5风格关键词'F22'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'F22', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-f22/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：DOF",
+    "title_en": "MidJourney Style: DOF",
+    "description": "MidJourney V5风格关键词'DOF'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'DOF', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-dof/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Pan",
+    "title_en": "MidJourney Style: Pan",
+    "description": "MidJourney V5风格关键词'Pan'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Pan', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-pan/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：4D",
+    "title_en": "MidJourney Style: 4D",
+    "description": "MidJourney V5风格关键词'4D'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '4D', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-4d/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：5D",
+    "title_en": "MidJourney Style: 5D",
+    "description": "MidJourney V5风格关键词'5D'，维度类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '5D', Dimensionality category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "维度"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "dimensionality"
+    ],
+    "url": "/prompts/mj-style-5d/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Pose",
+    "title_en": "MidJourney Style: Pose",
+    "description": "MidJourney V5风格关键词'Pose'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Pose', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-pose/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Tracers",
+    "title_en": "MidJourney Style: Tracers",
+    "description": "MidJourney V5风格关键词'Tracers'，特效与着色器类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Tracers', SFX & Shaders category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "特效与着色器"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "sfx-and-shaders"
+    ],
+    "url": "/prompts/mj-style-tracers/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：CCTV",
+    "title_en": "MidJourney Style: CCTV",
+    "description": "MidJourney V5风格关键词'CCTV'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'CCTV', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-cctv/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：DSLR",
+    "title_en": "MidJourney Style: DSLR",
+    "description": "MidJourney V5风格关键词'DSLR'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'DSLR', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-dslr/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Perspective",
+    "title_en": "MidJourney Style: Perspective",
+    "description": "MidJourney V5风格关键词'Perspective'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Perspective', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-perspective/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Coal",
+    "title_en": "MidJourney Style: Coal",
+    "description": "MidJourney V5风格关键词'Coal'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Coal', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-coal/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Lomo",
+    "title_en": "MidJourney Style: Lomo",
+    "description": "MidJourney V5风格关键词'Lomo'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Lomo', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-lomo/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：OS",
+    "title_en": "MidJourney Style: OS",
+    "description": "MidJourney V5风格关键词'OS'，数字艺术类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'OS', Digital category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "数字艺术"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "digital"
+    ],
+    "url": "/prompts/mj-style-os/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：35mm",
+    "title_en": "MidJourney Style: 35mm",
+    "description": "MidJourney V5风格关键词'35mm'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword '35mm', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-35mm/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：F2.8",
+    "title_en": "MidJourney Style: F2.8",
+    "description": "MidJourney V5风格关键词'F2.8'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'F2.8', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-f2-8/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Product-View",
+    "title_en": "MidJourney Style: Product-View",
+    "description": "MidJourney V5风格关键词'Product-View'，视角类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Product-View', Perspective category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "视角"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "perspective"
+    ],
+    "url": "/prompts/mj-style-product-view/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Zoom",
+    "title_en": "MidJourney Style: Zoom",
+    "description": "MidJourney V5风格关键词'Zoom'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Zoom', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-zoom/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "无声对峙",
     "title_en": "The Silent Standoff",
     "description": "AI图片生成提示词：无声对峙",
@@ -1225,6 +6263,28 @@
     "category": "音乐艺术",
     "source": "Awesome-ChatGPT-Prompts",
     "language": "en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Tilt",
+    "title_en": "MidJourney Style: Tilt",
+    "description": "MidJourney V5风格关键词'Tilt'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Tilt', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-tilt/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
     "verified": true
   },
   {
@@ -1248,6 +6308,28 @@
     "verified": true
   },
   {
+    "title": "MidJourney风格：Scene",
+    "title_en": "MidJourney Style: Scene",
+    "description": "MidJourney V5风格关键词'Scene'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Scene', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-scene/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "等距3D天气城市景观（PBR纹理）",
     "title_en": "Isometric 3D Weather Cityscapes (PBR Textures)",
     "description": "AI图片生成提示词：等距3D天气城市景观（PBR纹理）",
@@ -1265,6 +6347,28 @@
     "category": "音乐艺术",
     "source": "Awesome-ChatGPT-Prompts",
     "language": "en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Bokeh",
+    "title_en": "MidJourney Style: Bokeh",
+    "description": "MidJourney V5风格关键词'Bokeh'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Bokeh', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-bokeh/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
     "verified": true
   },
   {
@@ -1288,6 +6392,28 @@
     "verified": true
   },
   {
+    "title": "MidJourney风格：Macro",
+    "title_en": "MidJourney Style: Macro",
+    "description": "MidJourney V5风格关键词'Macro'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Macro', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-macro/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "世界地标：超写实3D立体模型",
     "title_en": "World Landmarks: Hyper-Realistic 3D Dioramas",
     "description": "AI图片生成提示词：世界地标：超写实3D立体模型",
@@ -1305,6 +6431,28 @@
     "category": "音乐艺术",
     "source": "Awesome-ChatGPT-Prompts",
     "language": "en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Gamma",
+    "title_en": "MidJourney Style: Gamma",
+    "description": "MidJourney V5风格关键词'Gamma'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Gamma', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-gamma/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
     "verified": true
   },
   {
@@ -1328,6 +6476,28 @@
     "verified": true
   },
   {
+    "title": "MidJourney风格：Depth",
+    "title_en": "MidJourney Style: Depth",
+    "description": "MidJourney V5风格关键词'Depth'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Depth', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-depth/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "建筑草图与标注叠加",
     "title_en": "Architectural Sketch & Markup Overlay",
     "description": "AI图片生成提示词：建筑草图与标注叠加",
@@ -1345,6 +6515,28 @@
     "category": "音乐艺术",
     "source": "Awesome-ChatGPT-Prompts",
     "language": "en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Filmic",
+    "title_en": "MidJourney Style: Filmic",
+    "description": "MidJourney V5风格关键词'Filmic'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Filmic', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-filmic/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
     "verified": true
   },
   {
@@ -1368,6 +6560,28 @@
     "verified": true
   },
   {
+    "title": "MidJourney风格：Instax",
+    "title_en": "MidJourney Style: Instax",
+    "description": "MidJourney V5风格关键词'Instax'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Instax', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-instax/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "导演变体网格：一景八导重拍",
     "title_en": "Director Variation Grid: One Still, Eight Auteur Re-Shoots",
     "description": "AI图片生成提示词：Create a single 3x3 grid image (square, 2048x2048, high detail). The center tile (row 2, col 2) must...",
@@ -1385,6 +6599,28 @@
     "category": "音乐艺术",
     "source": "Awesome-ChatGPT-Prompts",
     "language": "en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Provia",
+    "title_en": "MidJourney Style: Provia",
+    "description": "MidJourney V5风格关键词'Provia'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Provia', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-provia/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
     "verified": true
   },
   {
@@ -1408,6 +6644,28 @@
     "verified": true
   },
   {
+    "title": "MidJourney风格：Velvia",
+    "title_en": "MidJourney Style: Velvia",
+    "description": "MidJourney V5风格关键词'Velvia'，相机/镜头类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Velvia', Camera category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "相机/镜头"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "camera"
+    ],
+    "url": "/prompts/mj-style-velvia/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "写实食物图片生成器",
     "title_en": "Realistic Food Image Generator",
     "description": "AI图片生成提示词：写实食物图片生成器",
@@ -1425,6 +6683,28 @@
     "category": "音乐艺术",
     "source": "Awesome-ChatGPT-Prompts",
     "language": "en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Red",
+    "title_en": "MidJourney Style: Red",
+    "description": "MidJourney V5风格关键词'Red'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Red', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-red/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
     "verified": true
   },
   {
@@ -1448,6 +6728,28 @@
     "verified": true
   },
   {
+    "title": "MidJourney风格：Tan",
+    "title_en": "MidJourney Style: Tan",
+    "description": "MidJourney V5风格关键词'Tan'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Tan', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-tan/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "双重曝光人像",
     "title_en": "Double Exposure Portrait",
     "description": "AI图片生成提示词：双重曝光人像",
@@ -1465,6 +6767,28 @@
     "category": "音乐艺术",
     "source": "Awesome-ChatGPT-Prompts",
     "language": "en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Hue",
+    "title_en": "MidJourney Style: Hue",
+    "description": "MidJourney V5风格关键词'Hue'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Hue', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-hue/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
     "verified": true
   },
   {
@@ -1488,6 +6812,28 @@
     "verified": true
   },
   {
+    "title": "MidJourney风格：RGB",
+    "title_en": "MidJourney Style: RGB",
+    "description": "MidJourney V5风格关键词'RGB'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'RGB', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-rgb/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "黏土微缩城：迷你[CITY NAME]世界",
     "title_en": "A Clay-Crafted City: Mini [CITY NAME] World",
     "description": "AI图片生成提示词：黏土微缩城：迷你[CITY NAME]世界",
@@ -1505,6 +6851,28 @@
     "category": "音乐艺术",
     "source": "Awesome-ChatGPT-Prompts",
     "language": "en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：HSV",
+    "title_en": "MidJourney Style: HSV",
+    "description": "MidJourney V5风格关键词'HSV'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'HSV', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-hsv/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
     "verified": true
   },
   {
@@ -1528,6 +6896,28 @@
     "verified": true
   },
   {
+    "title": "MidJourney风格：HSL",
+    "title_en": "MidJourney Style: HSL",
+    "description": "MidJourney V5风格关键词'HSL'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'HSL', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-hsl/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "洁净诊所人像",
     "title_en": "Clean Clinic Portrait",
     "description": "AI图片生成提示词：洁净诊所人像",
@@ -1545,6 +6935,28 @@
     "category": "音乐艺术",
     "source": "Awesome-ChatGPT-Prompts",
     "language": "en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：HCL",
+    "title_en": "MidJourney Style: HCL",
+    "description": "MidJourney V5风格关键词'HCL'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'HCL', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-hcl/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
     "verified": true
   },
   {
@@ -1568,6 +6980,28 @@
     "verified": true
   },
   {
+    "title": "MidJourney风格：VGA",
+    "title_en": "MidJourney Style: VGA",
+    "description": "MidJourney V5风格关键词'VGA'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'VGA', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-vga/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "超写实黑色人像创作",
     "title_en": "Ultra-Realistic Noir Portrait Creation",
     "description": "AI图片生成提示词：超写实黑色人像创作",
@@ -1585,6 +7019,28 @@
     "category": "音乐艺术",
     "source": "Awesome-ChatGPT-Prompts",
     "language": "en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：EGA",
+    "title_en": "MidJourney Style: EGA",
+    "description": "MidJourney V5风格关键词'EGA'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'EGA', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-ega/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
     "verified": true
   },
   {
@@ -1608,6 +7064,28 @@
     "verified": true
   },
   {
+    "title": "MidJourney风格：CGA",
+    "title_en": "MidJourney Style: CGA",
+    "description": "MidJourney V5风格关键词'CGA'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'CGA', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-cga/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
     "title": "照片转辛普森场景",
     "title_en": "Turn Your Photo Into a Simpsons Scene",
     "description": "AI图片生成提示词：照片转辛普森场景",
@@ -1625,6 +7103,688 @@
     "category": "音乐艺术",
     "source": "Awesome-ChatGPT-Prompts",
     "language": "en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：HDR",
+    "title_en": "MidJourney Style: HDR",
+    "description": "MidJourney V5风格关键词'HDR'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'HDR', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-hdr/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Gray",
+    "title_en": "MidJourney Style: Gray",
+    "description": "MidJourney V5风格关键词'Gray'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Gray', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-gray/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Lime",
+    "title_en": "MidJourney Style: Lime",
+    "description": "MidJourney V5风格关键词'Lime'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Lime', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-lime/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Cyan",
+    "title_en": "MidJourney Style: Cyan",
+    "description": "MidJourney V5风格关键词'Cyan'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Cyan', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-cyan/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Teal",
+    "title_en": "MidJourney Style: Teal",
+    "description": "MidJourney V5风格关键词'Teal'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Teal', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-teal/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Blue",
+    "title_en": "MidJourney Style: Blue",
+    "description": "MidJourney V5风格关键词'Blue'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Blue', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-blue/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Pink",
+    "title_en": "MidJourney Style: Pink",
+    "description": "MidJourney V5风格关键词'Pink'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Pink', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-pink/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Aqua",
+    "title_en": "MidJourney Style: Aqua",
+    "description": "MidJourney V5风格关键词'Aqua'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Aqua', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-aqua/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Tone",
+    "title_en": "MidJourney Style: Tone",
+    "description": "MidJourney V5风格关键词'Tone'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Tone', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-tone/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Pure",
+    "title_en": "MidJourney Style: Pure",
+    "description": "MidJourney V5风格关键词'Pure'，色彩与调色板类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Pure', Colors & Palettes category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "色彩与调色板"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "colors-and-palettes"
+    ],
+    "url": "/prompts/mj-style-pure/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Icy",
+    "title_en": "MidJourney Style: Icy",
+    "description": "MidJourney V5风格关键词'Icy'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Icy', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-icy/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Soft",
+    "title_en": "MidJourney Style: Soft",
+    "description": "MidJourney V5风格关键词'Soft'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Soft', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-soft/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Hard",
+    "title_en": "MidJourney Style: Hard",
+    "description": "MidJourney V5风格关键词'Hard'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Hard', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-hard/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Thin",
+    "title_en": "MidJourney Style: Thin",
+    "description": "MidJourney V5风格关键词'Thin'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Thin', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-thin/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Rough",
+    "title_en": "MidJourney Style: Rough",
+    "description": "MidJourney V5风格关键词'Rough'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Rough', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-rough/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Matte",
+    "title_en": "MidJourney Style: Matte",
+    "description": "MidJourney V5风格关键词'Matte'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Matte', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-matte/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Shiny",
+    "title_en": "MidJourney Style: Shiny",
+    "description": "MidJourney V5风格关键词'Shiny'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Shiny', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-shiny/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Glare",
+    "title_en": "MidJourney Style: Glare",
+    "description": "MidJourney V5风格关键词'Glare'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Glare', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-glare/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Solid",
+    "title_en": "MidJourney Style: Solid",
+    "description": "MidJourney V5风格关键词'Solid'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Solid', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-solid/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Thick",
+    "title_en": "MidJourney Style: Thick",
+    "description": "MidJourney V5风格关键词'Thick'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Thick', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-thick/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Blobs",
+    "title_en": "MidJourney Style: Blobs",
+    "description": "MidJourney V5风格关键词'Blobs'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Blobs', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-blobs/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Dirty",
+    "title_en": "MidJourney Style: Dirty",
+    "description": "MidJourney V5风格关键词'Dirty'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Dirty', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-dirty/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Opaque",
+    "title_en": "MidJourney Style: Opaque",
+    "description": "MidJourney V5风格关键词'Opaque'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Opaque', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-opaque/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Optics",
+    "title_en": "MidJourney Style: Optics",
+    "description": "MidJourney V5风格关键词'Optics'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Optics', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-optics/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Glossy",
+    "title_en": "MidJourney Style: Glossy",
+    "description": "MidJourney V5风格关键词'Glossy'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Glossy', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-glossy/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Blobby",
+    "title_en": "MidJourney Style: Blobby",
+    "description": "MidJourney V5风格关键词'Blobby'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Blobby', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-blobby/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Cracks",
+    "title_en": "MidJourney Style: Cracks",
+    "description": "MidJourney V5风格关键词'Cracks'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Cracks', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-cracks/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Opacity",
+    "title_en": "MidJourney Style: Opacity",
+    "description": "MidJourney V5风格关键词'Opacity'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Opacity', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-opacity/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Glitter",
+    "title_en": "MidJourney Style: Glitter",
+    "description": "MidJourney V5风格关键词'Glitter'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Glitter', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-glitter/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Sparkly",
+    "title_en": "MidJourney Style: Sparkly",
+    "description": "MidJourney V5风格关键词'Sparkly'，材质属性类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Sparkly', Material Properties category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质属性"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "material-properties"
+    ],
+    "url": "/prompts/mj-style-sparkly/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
+    "verified": true
+  },
+  {
+    "title": "MidJourney风格：Tin",
+    "title_en": "MidJourney Style: Tin",
+    "description": "MidJourney V5风格关键词'Tin'，材质类别，附效果图示例",
+    "description_en": "MidJourney V5 style keyword 'Tin', Materials category, with example image",
+    "tags": [
+      "MidJourney",
+      "风格关键词",
+      "材质"
+    ],
+    "tags_en": [
+      "midjourney",
+      "style-keyword",
+      "materials"
+    ],
+    "url": "/prompts/mj-style-tin/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "MidJourney-Styles-and-Keywords-Reference",
+    "language": "zh-en",
     "verified": true
   },
   {

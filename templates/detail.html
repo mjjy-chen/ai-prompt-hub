@@ -73,12 +73,22 @@
         {% if item.prompt_type == 'image' %}
         <div class="image-preview-section">
             <h3>🎨 效果预览 <span class="content-en">Preview</span></h3>
+            {% if item.image_url %}
+            <div class="image-preview-grid">
+                <div class="image-preview-item">
+                    <img src="{{ item.image_url }}" alt="{{ item.title }}" loading="lazy" />
+                    <div class="image-caption">{{ item.title }} 效果示例</div>
+                </div>
+            </div>
+            <p class="image-preview-note">💡 将提示词复制到 Midjourney、DALL·E、Stable Diffusion 等AI绘图工具中使用</p>
+            {% else %}
             <div class="image-preview-placeholder">
                 <div class="placeholder-icon">🖼️</div>
                 <p class="placeholder-text">使用此提示词可生成{{ item.title }}风格的图片</p>
                 <p class="placeholder-text-en">Use this prompt to generate {{ item.title_en or item.title }} style images</p>
                 <p class="placeholder-hint">💡 将提示词复制到 Midjourney、DALL·E、Stable Diffusion 等AI绘图工具中使用</p>
             </div>
+            {% endif %}
         </div>
         {% endif %}
         
