@@ -69,6 +69,19 @@
 
 <section class="detail-content">
     <div class="detail-container">
+        <!-- 图片提示词效果展示 -->
+        {% if item.prompt_type == 'image' %}
+        <div class="image-preview-section">
+            <h3>🎨 效果预览 <span class="content-en">Preview</span></h3>
+            <div class="image-preview-placeholder">
+                <div class="placeholder-icon">🖼️</div>
+                <p class="placeholder-text">使用此提示词可生成{{ item.title }}风格的图片</p>
+                <p class="placeholder-text-en">Use this prompt to generate {{ item.title_en or item.title }} style images</p>
+                <p class="placeholder-hint">💡 将提示词复制到 Midjourney、DALL·E、Stable Diffusion 等AI绘图工具中使用</p>
+            </div>
+        </div>
+        {% endif %}
+        
         <!-- 语言切换标签 -->
         {% if item.language == 'zh' or item.language == 'en' %}
         <div class="lang-tabs">
@@ -129,7 +142,12 @@
 
 <section class="detail-nav">
     <div class="detail-container">
-        <a href="../" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
+        {% if type == 'agent' %}
+        <a href="{{ base_path }}agents/" class="btn btn-secondary">← 返回人格设定 <span class="nav-en">Back to Agents</span></a>
+        {% else %}
+        <a href="{{ base_path }}prompts/" class="btn btn-secondary">← 返回提示词 <span class="nav-en">Back to Prompts</span></a>
+        {% endif %}
+        <a href="{{ base_path }}" class="btn btn-secondary">🏠 首页 <span class="nav-en">Home</span></a>
     </div>
 </section>
 

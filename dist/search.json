@@ -1208,6 +1208,426 @@
     "verified": false
   },
   {
+    "title": "无声对峙",
+    "title_en": "The Silent Standoff",
+    "description": "AI图片生成提示词：无声对峙",
+    "description_en": "AI image generation prompt: High-angle top-down view of a dimly lit abandoned courtyard, cracked concrete ground, scattered old ...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-the-silent-standoff/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "生活方式产品图",
+    "title_en": "Lifestyle Product Images",
+    "description": "AI图片生成提示词：生活方式产品图",
+    "description_en": "AI image generation prompt: Using the uploaded product image of ${Product Name:MacBook Pro}, create an engaging lifestyle scene ...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-lifestyle-product-images/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "等距3D天气城市景观（PBR纹理）",
+    "title_en": "Isometric 3D Weather Cityscapes (PBR Textures)",
+    "description": "AI图片生成提示词：等距3D天气城市景观（PBR纹理）",
+    "description_en": "AI image generation prompt: Present a clear, 45° top-down isometric miniature 3D cartoon scene of ${city_name:İSTANBUL}, featuri...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-isometric-3d-weather-cityscapes-pbr-textures/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "奇趣3D品牌微缩模型",
+    "title_en": "Whimsical 3D Brand Miniatures",
+    "description": "AI图片生成提示词：奇趣3D品牌微缩模型",
+    "description_en": "AI image generation prompt: 3D chibi-style miniature concept store of ${Brand Name:Mc Donalds}, creatively designed with an exte...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-whimsical-3d-brand-miniatures/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "世界地标：超写实3D立体模型",
+    "title_en": "World Landmarks: Hyper-Realistic 3D Dioramas",
+    "description": "AI图片生成提示词：世界地标：超写实3D立体模型",
+    "description_en": "AI image generation prompt: Create a hyper-realistic 3D diorama-style model of ${Landmark Name:EIFFEL TOWER}. The model should a...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-world-landmarks-hyper-realistic-3d-dioramas/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "3D等距微缩模型",
+    "title_en": "3D Isometric Miniature Diorama",
+    "description": "AI图片生成提示词：3D等距微缩模型",
+    "description_en": "AI image generation prompt: 'When I give you a movie quote, never reply with text or a prompt. Instead, analyze the scene where ...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-3d-isometric-miniature-diorama/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "建筑草图与标注叠加",
+    "title_en": "Architectural Sketch & Markup Overlay",
+    "description": "AI图片生成提示词：建筑草图与标注叠加",
+    "description_en": "AI image generation prompt: Based on the source image, overlay an architect's busy working process onto the entire scene. The im...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-architectural-sketch-markup-overlay/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "漂浮城市岛 - 逼真4K海报",
+    "title_en": "Floating City Island - Photoreal 4K Poster",
+    "description": "AI图片生成提示词：漂浮城市岛 - 逼真4K海报",
+    "description_en": "AI image generation prompt: Design a 'floating miniature island' shaped like the ${city:denizli} map/silhouette, gliding above w...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-floating-city-island-photoreal-4k-poster/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "导演变体网格：一景八导重拍",
+    "title_en": "Director Variation Grid: One Still, Eight Auteur Re-Shoots",
+    "description": "AI图片生成提示词：Create a single 3x3 grid image (square, 2048x2048, high detail). The center tile (row 2, col 2) must...",
+    "description_en": "AI image generation prompt: Create a single 3x3 grid image (square, 2048x2048, high detail). The center tile (row 2, col 2) must...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-director-variation-grid-one-still-eight-auteur-re-shoots/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "与最爱球星的场边通道时刻",
+    "title_en": "Pitchside Tunnel Moment with Your Favorite Footballer",
+    "description": "AI图片生成提示词：与最爱球星的场边通道时刻",
+    "description_en": "AI image generation prompt: Inputs\nReference 1: User’s uploaded photo\nReference 2: ${Footballer Name}\nJersey Number: ${Jersey...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-pitchside-tunnel-moment-with-your-favorite-footballer/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "写实食物图片生成器",
+    "title_en": "Realistic Food Image Generator",
+    "description": "AI图片生成提示词：写实食物图片生成器",
+    "description_en": "AI image generation prompt: Ultra-realistic food photography–style image of ${FOOD_NAME:Fried chicken tenders with french fries}...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-realistic-food-image-generator/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "都市休闲自信",
+    "title_en": "Urban Casual Confidence",
+    "description": "AI图片生成提示词：都市休闲自信",
+    "description_en": "AI image generation prompt: Hyper-realistic portrait of a ${gender:man} in tailored casual wear (dark jeans, quality sweater) ${...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-urban-casual-confidence/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "双重曝光人像",
+    "title_en": "Double Exposure Portrait",
+    "description": "AI图片生成提示词：双重曝光人像",
+    "description_en": "AI image generation prompt: A double exposure portrait set in a ${name:sunny forest}. A left-facing profile silhouette showing t...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-double-exposure-portrait/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "时间层摄影",
+    "title_en": "Time Layer Photography",
+    "description": "AI图片生成提示词：时间层摄影",
+    "description_en": "AI image generation prompt: A single photograph of ${location:Galata Tower, Istanbul} where the frame is divided into organic, f...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-time-layer-photography/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "黏土微缩城：迷你[CITY NAME]世界",
+    "title_en": "A Clay-Crafted City: Mini [CITY NAME] World",
+    "description": "AI图片生成提示词：黏土微缩城：迷你[CITY NAME]世界",
+    "description_en": "AI image generation prompt: Generate a whimsical miniature world featuring ${landmark_name} crafted entirely from colorful model...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-a-clay-crafted-city-mini-city-name-world/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "建筑研究图集：[历史遗址名称]",
+    "title_en": "Architectural Study Sheet: [HISTORIC_SITE_NAME]",
+    "description": "AI图片生成提示词：建筑研究图集：[历史遗址名称]",
+    "description_en": "AI image generation prompt: A vintage architectural infographic of ${historic_site_name} that blends art and technical clarity: ...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-architectural-study-sheet-historic-site-name/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "洁净诊所人像",
+    "title_en": "Clean Clinic Portrait",
+    "description": "AI图片生成提示词：洁净诊所人像",
+    "description_en": "AI image generation prompt: Use the uploaded photo of the person as the main subject. Keep the face, hair and identity identical...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-clean-clinic-portrait/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "超写实照片模板黏土半身像",
+    "title_en": "Hyper-Realistic Clay Bust From Photo Template",
+    "description": "AI图片生成提示词：超写实照片模板黏土半身像",
+    "description_en": "AI image generation prompt: Use the uploaded photo as the only identity reference. Transform the person into a hyper-realistic h...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-hyper-realistic-clay-bust-from-photo-template/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "超写实黑色人像创作",
+    "title_en": "Ultra-Realistic Noir Portrait Creation",
+    "description": "AI图片生成提示词：超写实黑色人像创作",
+    "description_en": "AI image generation prompt: Please upload your selfie to generate an ultra-realistic black-and-white portrait. The portrait will...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-ultra-realistic-noir-portrait-creation/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "圣诞海报 - 节日场景",
+    "title_en": "Christmas Poster - Festive Holiday Scene",
+    "description": "AI图片生成提示词：圣诞海报 - 节日场景",
+    "description_en": "AI image generation prompt: Design a Christmas-themed poster that captures the festive holiday spirit. Include elements such as ...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-christmas-poster-festive-holiday-scene/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "照片转辛普森场景",
+    "title_en": "Turn Your Photo Into a Simpsons Scene",
+    "description": "AI图片生成提示词：照片转辛普森场景",
+    "description_en": "AI image generation prompt: Use the uploaded photo as the ONLY reference for composition and subjects. Recreate it as a clean, b...",
+    "tags": [
+      "图片生成",
+      "AI绘图"
+    ],
+    "tags_en": [
+      "image-generation",
+      "ai-art"
+    ],
+    "url": "/prompts/img-turn-your-photo-into-a-simpsons-scene/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
     "title": "产品经理助手",
     "title_en": "Product Manager Assistant",
     "description": "专业的产品经理AI助手，协助需求分析、PRD撰写、竞品分析",
