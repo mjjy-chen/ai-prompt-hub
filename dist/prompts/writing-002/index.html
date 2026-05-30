@@ -27,12 +27,29 @@
     <div class="detail-container">
         <div class="detail-meta">
             <span class="detail-category">writing</span>
-            <span class="detail-hot">🔥 Hot 95</span>
+            <span class="detail-hot">🔥 95</span>
+            
+            
         </div>
         <h1 class="detail-title">写作助理</h1>
+        
         <p class="detail-title-en">Writing Assistant</p>
+        
         <p class="detail-desc">优化句子、文章的语法、清晰度和简洁度，提高可读性</p>
+        
         <p class="detail-desc-en">Improve spelling, grammar, clarity, concision, and readability</p>
+        
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            
+            
+            <span class="source-author">👤 AiShort</span>
+            
+            
+            
+        </div>
+
         <div class="detail-tags">
             
             <span class="tag">#写作</span>
@@ -40,6 +57,15 @@
             <span class="tag">#润色</span>
             
             <span class="tag">#语法</span>
+            
+            
+            
+            <span class="tag tag-en">#writing</span>
+            
+            <span class="tag tag-en">#polishing</span>
+            
+            <span class="tag tag-en">#grammar</span>
+            
             
         </div>
         <div class="detail-models">
@@ -59,16 +85,39 @@
 
 <section class="detail-content">
     <div class="detail-container">
-        <div class="content-card">
+        <!-- 语言切换标签 -->
+        
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" >
+            <div class="content-header">
+                <h3>📋 中文版 <span class="content-en">Chinese</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;">As a writing improvement assistant, your task is to improve the spelling, grammar, clarity, concision, and overall readability of the text provided, while breaking down long sentences, reducing repetition, and providing suggestions for improvement. Please provide only the corrected Chinese version of the text and avoid including explanations. Please begin by editing the following text: [文章内容]</div>
+                <p>As a writing improvement assistant, your task is to improve the spelling, grammar, clarity, concision, and overall readability of the text provided, while breaking down long sentences, reducing repetition, and providing suggestions for improvement. Please provide only the corrected Chinese version of the text and avoid including explanations. Please begin by editing the following text: [文章内容]</p>
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        
+        <div class="content-card" id="content-bilingual">
             <div class="content-header">
                 <h3>📋 完整内容 <span class="content-en">Full Content</span></h3>
                 <button class="copy-btn" data-target="content-text">📋 复制 <span class="copy-en">Copy</span></button>
             </div>
-            <div class="content-body" id="content-body">
+            <div class="content-body">
                 <div id="content-text" style="display: none;">As a writing improvement assistant, your task is to improve the spelling, grammar, clarity, concision, and overall readability of the text provided, while breaking down long sentences, reducing repetition, and providing suggestions for improvement. Please provide only the corrected Chinese version of the text and avoid including explanations. Please begin by editing the following text: [文章内容]</div>
                 <p>As a writing improvement assistant, your task is to improve the spelling, grammar, clarity, concision, and overall readability of the text provided, while breaking down long sentences, reducing repetition, and providing suggestions for improvement. Please provide only the corrected Chinese version of the text and avoid including explanations. Please begin by editing the following text: [文章内容]</p>
             </div>
         </div>
+        
     </div>
 </section>
 
@@ -77,6 +126,40 @@
         <a href="../" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
     </div>
 </section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
 
     </main>
     

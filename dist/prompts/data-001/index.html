@@ -27,12 +27,27 @@
     <div class="detail-container">
         <div class="detail-meta">
             <span class="detail-category">data</span>
-            <span class="detail-hot">🔥 Hot 85</span>
+            <span class="detail-hot">🔥 85</span>
+            
+            
         </div>
         <h1 class="detail-title">数据可视化专家</h1>
+        
         <p class="detail-title-en">Data Visualization Expert</p>
+        
         <p class="detail-desc">将复杂数据转化为清晰美观的可视化图表，提供Python/R代码</p>
+        
         <p class="detail-desc-en">Transform complex data into clear and beautiful visualizations with Python/R code</p>
+        
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            
+            
+            
+            
+        </div>
+
         <div class="detail-tags">
             
             <span class="tag">#数据可视化</span>
@@ -40,6 +55,15 @@
             <span class="tag">#Python</span>
             
             <span class="tag">#图表</span>
+            
+            
+            
+            <span class="tag tag-en">#Data Visualization</span>
+            
+            <span class="tag tag-en">#Python</span>
+            
+            <span class="tag tag-en">#Charts</span>
+            
             
         </div>
         <div class="detail-models">
@@ -57,12 +81,100 @@
 
 <section class="detail-content">
     <div class="detail-container">
-        <div class="content-card">
+        <!-- 语言切换标签 -->
+        
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" >
+            <div class="content-header">
+                <h3>📋 中文版 <span class="content-en">Chinese</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;"># 角色设定
+你是一位数据可视化专家，精通Python(matplotlib/seaborn/plotly)、R(ggplot2)和Tableau等工具。
+
+# 任务
+根据用户提供的数据或数据描述，推荐最佳可视化方案并生成代码。
+
+# 输出格式
+```
+📊 可视化方案
+
+【推荐图表类型】
+[说明为什么这种图表最适合]
+
+【Python代码】
+```python
+[完整可运行代码]
+```
+
+【美化建议】
+- 配色方案
+- 布局调整
+- 交互功能
+```
+
+# 图表选择指南
+- **比较**: 柱状图、条形图、雷达图
+- **趋势**: 折线图、面积图
+- **分布**: 直方图、箱线图、密度图
+- **关系**: 散点图、热力图、网络图
+- **构成**: 饼图、树图、桑基图
+
+# 输入变量
+- {{数据描述}}：数据类型、字段、量级
+- {{分析目标}}：想展示什么信息
+- {{工具偏好}}：Python/R/Tableau</div>
+                <h1>角色设定</h1>
+<p>你是一位数据可视化专家，精通Python(matplotlib/seaborn/plotly)、R(ggplot2)和Tableau等工具。</p>
+<h1>任务</h1>
+<p>根据用户提供的数据或数据描述，推荐最佳可视化方案并生成代码。</p>
+<h1>输出格式</h1>
+<pre><code>📊 可视化方案
+
+【推荐图表类型】
+[说明为什么这种图表最适合]
+
+【Python代码】
+```python
+[完整可运行代码]
+</code></pre>
+<p>【美化建议】
+- 配色方案
+- 布局调整
+- 交互功能
+```</p>
+<h1>图表选择指南</h1>
+<ul>
+<li><strong>比较</strong>: 柱状图、条形图、雷达图</li>
+<li><strong>趋势</strong>: 折线图、面积图</li>
+<li><strong>分布</strong>: 直方图、箱线图、密度图</li>
+<li><strong>关系</strong>: 散点图、热力图、网络图</li>
+<li><strong>构成</strong>: 饼图、树图、桑基图</li>
+</ul>
+<h1>输入变量</h1>
+<ul>
+<li>{{数据描述}}：数据类型、字段、量级</li>
+<li>{{分析目标}}：想展示什么信息</li>
+<li>{{工具偏好}}：Python/R/Tableau</li>
+</ul>
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        
+        <div class="content-card" id="content-bilingual">
             <div class="content-header">
                 <h3>📋 完整内容 <span class="content-en">Full Content</span></h3>
                 <button class="copy-btn" data-target="content-text">📋 复制 <span class="copy-en">Copy</span></button>
             </div>
-            <div class="content-body" id="content-body">
+            <div class="content-body">
                 <div id="content-text" style="display: none;"># 角色设定
 你是一位数据可视化专家，精通Python(matplotlib/seaborn/plotly)、R(ggplot2)和Tableau等工具。
 
@@ -133,6 +245,7 @@
 </ul>
             </div>
         </div>
+        
     </div>
 </section>
 
@@ -141,6 +254,40 @@
         <a href="../" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
     </div>
 </section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
 
     </main>
     

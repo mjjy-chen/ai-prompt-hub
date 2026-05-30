@@ -1,278 +1,1408 @@
 [
   {
+    "title": "英文翻译与润色员",
+    "title_en": "English Translator and Improver",
+    "description": "让AI扮演英文翻译与润色员的专业提示词",
+    "description_en": "Professional prompt for AI to act as English Translator and Improver",
+    "tags": [
+      "语言/翻译"
+    ],
+    "tags_en": [
+      "english-translator-and-improver"
+    ],
+    "url": "/prompts/awesome-english-translator-and-improver/",
+    "type": "prompt",
+    "category": "语言/翻译",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "面试官",
+    "title_en": "Job Interviewer",
+    "description": "让AI扮演面试官的专业提示词",
+    "description_en": "Professional prompt for AI to act as Job Interviewer",
+    "tags": [
+      "教育/学生"
+    ],
+    "tags_en": [
+      "job-interviewer"
+    ],
+    "url": "/prompts/awesome-job-interviewer/",
+    "type": "prompt",
+    "category": "教育/学生",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "表格页",
+    "title_en": "Excel Sheet",
+    "description": "让AI扮演表格页的专业提示词",
+    "description_en": "Professional prompt for AI to act as Excel Sheet",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "excel-sheet"
+    ],
+    "url": "/prompts/awesome-excel-sheet/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "英语发音助手",
+    "title_en": "English Pronunciation Helper",
+    "description": "让AI扮演英语发音助手的专业提示词",
+    "description_en": "Professional prompt for AI to act as English Pronunciation Helper",
+    "tags": [
+      "语言/翻译"
+    ],
+    "tags_en": [
+      "english-pronunciation-helper"
+    ],
+    "url": "/prompts/awesome-english-pronunciation-helper/",
+    "type": "prompt",
+    "category": "语言/翻译",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Spoken English Teacher and Improver",
+    "title_en": "Spoken English Teacher and Improver",
+    "description": "让AI扮演Spoken English Teacher and Improver角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Spoken English Teacher and Improver",
+    "tags": [
+      "语言/翻译"
+    ],
+    "tags_en": [
+      "spoken-english-teacher-and-improver"
+    ],
+    "url": "/prompts/awesome-spoken-english-teacher-and-improver/",
+    "type": "prompt",
+    "category": "语言/翻译",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Travel Guide",
+    "title_en": "Travel Guide",
+    "description": "让AI扮演Travel Guide角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Travel Guide",
+    "tags": [
+      "生活百科"
+    ],
+    "tags_en": [
+      "travel-guide"
+    ],
+    "url": "/prompts/awesome-travel-guide/",
+    "type": "prompt",
+    "category": "生活百科",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Plagiarism Checker",
+    "title_en": "Plagiarism Checker",
+    "description": "让AI扮演Plagiarism Checker角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Plagiarism Checker",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "plagiarism-checker"
+    ],
+    "url": "/prompts/awesome-plagiarism-checker/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "角色",
+    "title_en": "Character",
+    "description": "让AI扮演角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Character",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "character"
+    ],
+    "url": "/prompts/awesome-character/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "广告商",
+    "title_en": "Advertiser",
+    "description": "让AI扮演广告商的专业提示词",
+    "description_en": "Professional prompt for AI to act as Advertiser",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "advertiser"
+    ],
+    "url": "/prompts/awesome-advertiser/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Storyteller",
+    "title_en": "Storyteller",
+    "description": "让AI扮演Storyteller角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Storyteller",
+    "tags": [
+      "写作辅助"
+    ],
+    "tags_en": [
+      "storyteller"
+    ],
+    "url": "/prompts/awesome-storyteller/",
+    "type": "prompt",
+    "category": "写作辅助",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "足球解说员",
+    "title_en": "Football Commentator",
+    "description": "让AI扮演足球解说员的专业提示词",
+    "description_en": "Professional prompt for AI to act as Football Commentator",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "football-commentator"
+    ],
+    "url": "/prompts/awesome-football-commentator/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Stand-up Comedian",
+    "title_en": "Stand-up Comedian",
+    "description": "让AI扮演Stand-up Comedian角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Stand-up Comedian",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "stand-up-comedian"
+    ],
+    "url": "/prompts/awesome-stand-up-comedian/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "激励教练",
+    "title_en": "Motivational Coach",
+    "description": "让AI扮演激励教练的专业提示词",
+    "description_en": "Professional prompt for AI to act as Motivational Coach",
+    "tags": [
+      "生活质量"
+    ],
+    "tags_en": [
+      "motivational-coach"
+    ],
+    "url": "/prompts/awesome-motivational-coach/",
+    "type": "prompt",
+    "category": "生活质量",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "作曲家",
+    "title_en": "Composer",
+    "description": "让AI扮演作曲家的专业提示词",
+    "description_en": "Professional prompt for AI to act as Composer",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "composer"
+    ],
+    "url": "/prompts/awesome-composer/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "辩手",
+    "title_en": "Debater",
+    "description": "让AI扮演辩手的专业提示词",
+    "description_en": "Professional prompt for AI to act as Debater",
+    "tags": [
+      "辩论/演讲"
+    ],
+    "tags_en": [
+      "debater"
+    ],
+    "url": "/prompts/awesome-debater/",
+    "type": "prompt",
+    "category": "辩论/演讲",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "辩论教练",
+    "title_en": "Debate Coach",
+    "description": "让AI扮演辩论教练的专业提示词",
+    "description_en": "Professional prompt for AI to act as Debate Coach",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "debate-coach"
+    ],
+    "url": "/prompts/awesome-debate-coach/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Screenwriter",
+    "title_en": "Screenwriter",
+    "description": "让AI扮演Screenwriter角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Screenwriter",
+    "tags": [
+      "写作辅助"
+    ],
+    "tags_en": [
+      "screenwriter"
+    ],
+    "url": "/prompts/awesome-screenwriter/",
+    "type": "prompt",
+    "category": "写作辅助",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Novelist",
+    "title_en": "Novelist",
+    "description": "让AI扮演Novelist角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Novelist",
+    "tags": [
+      "写作辅助"
+    ],
+    "tags_en": [
+      "novelist"
+    ],
+    "url": "/prompts/awesome-novelist/",
+    "type": "prompt",
+    "category": "写作辅助",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Movie Critic",
+    "title_en": "Movie Critic",
+    "description": "让AI扮演Movie Critic角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Movie Critic",
+    "tags": [
+      "点评/评鉴"
+    ],
+    "tags_en": [
+      "movie-critic"
+    ],
+    "url": "/prompts/awesome-movie-critic/",
+    "type": "prompt",
+    "category": "点评/评鉴",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Relationship Coach",
+    "title_en": "Relationship Coach",
+    "description": "让AI扮演Relationship Coach角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Relationship Coach",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "relationship-coach"
+    ],
+    "url": "/prompts/awesome-relationship-coach/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Poet",
+    "title_en": "Poet",
+    "description": "让AI扮演Poet角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Poet",
+    "tags": [
+      "写作辅助"
+    ],
+    "tags_en": [
+      "poet"
+    ],
+    "url": "/prompts/awesome-poet/",
+    "type": "prompt",
+    "category": "写作辅助",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Rapper",
+    "title_en": "Rapper",
+    "description": "让AI扮演Rapper角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Rapper",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "rapper"
+    ],
+    "url": "/prompts/awesome-rapper/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "励志演说家",
+    "title_en": "Motivational Speaker",
+    "description": "让AI扮演励志演说家的专业提示词",
+    "description_en": "Professional prompt for AI to act as Motivational Speaker",
+    "tags": [
+      "生活质量"
+    ],
+    "tags_en": [
+      "motivational-speaker"
+    ],
+    "url": "/prompts/awesome-motivational-speaker/",
+    "type": "prompt",
+    "category": "生活质量",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Philosophy Teacher",
+    "title_en": "Philosophy Teacher",
+    "description": "让AI扮演Philosophy Teacher角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Philosophy Teacher",
+    "tags": [
+      "教育/学生"
+    ],
+    "tags_en": [
+      "philosophy-teacher"
+    ],
+    "url": "/prompts/awesome-philosophy-teacher/",
+    "type": "prompt",
+    "category": "教育/学生",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Philosopher",
+    "title_en": "Philosopher",
+    "description": "让AI扮演Philosopher角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Philosopher",
+    "tags": [
+      "哲学/宗教"
+    ],
+    "tags_en": [
+      "philosopher"
+    ],
+    "url": "/prompts/awesome-philosopher/",
+    "type": "prompt",
+    "category": "哲学/宗教",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "数学老师",
+    "title_en": "Math Teacher",
+    "description": "让AI扮演数学老师的专业提示词",
+    "description_en": "Professional prompt for AI to act as Math Teacher",
+    "tags": [
+      "教育/学生"
+    ],
+    "tags_en": [
+      "math-teacher"
+    ],
+    "url": "/prompts/awesome-math-teacher/",
+    "type": "prompt",
+    "category": "教育/学生",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "AI写作导师",
+    "title_en": "AI Writing Tutor",
+    "description": "让AI扮演AI写作导师的专业提示词",
+    "description_en": "Professional prompt for AI to act as AI Writing Tutor",
+    "tags": [
+      "教育/学生"
+    ],
+    "tags_en": [
+      "ai-writing-tutor"
+    ],
+    "url": "/prompts/awesome-ai-writing-tutor/",
+    "type": "prompt",
+    "category": "教育/学生",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Recruiter",
+    "title_en": "Recruiter",
+    "description": "让AI扮演Recruiter角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Recruiter",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "recruiter"
+    ],
+    "url": "/prompts/awesome-recruiter/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "人生导师",
+    "title_en": "Life Coach",
+    "description": "让AI扮演人生导师的专业提示词",
+    "description_en": "Professional prompt for AI to act as Life Coach",
+    "tags": [
+      "生活质量"
+    ],
+    "tags_en": [
+      "life-coach"
+    ],
+    "url": "/prompts/awesome-life-coach/",
+    "type": "prompt",
+    "category": "生活质量",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "词源学家",
+    "title_en": "Etymologist",
+    "description": "让AI扮演词源学家的专业提示词",
+    "description_en": "Professional prompt for AI to act as Etymologist",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "etymologist"
+    ],
+    "url": "/prompts/awesome-etymologist/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "评论界",
+    "title_en": "Commentariat",
+    "description": "让AI扮演评论界的专业提示词",
+    "description_en": "Professional prompt for AI to act as Commentariat",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "commentariat"
+    ],
+    "url": "/prompts/awesome-commentariat/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "魔术师",
+    "title_en": "Magician",
+    "description": "让AI扮演魔术师的专业提示词",
+    "description_en": "Professional prompt for AI to act as Magician",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "magician"
+    ],
+    "url": "/prompts/awesome-magician/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "职业顾问",
+    "title_en": "Career Counselor",
+    "description": "让AI扮演职业顾问的专业提示词",
+    "description_en": "Professional prompt for AI to act as Career Counselor",
+    "tags": [
+      "心理/社交"
+    ],
+    "tags_en": [
+      "career-counselor"
+    ],
+    "url": "/prompts/awesome-career-counselor/",
+    "type": "prompt",
+    "category": "心理/社交",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Pet Behaviorist",
+    "title_en": "Pet Behaviorist",
+    "description": "让AI扮演Pet Behaviorist角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Pet Behaviorist",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "pet-behaviorist"
+    ],
+    "url": "/prompts/awesome-pet-behaviorist/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Personal Trainer",
+    "title_en": "Personal Trainer",
+    "description": "让AI扮演Personal Trainer角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Personal Trainer",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "personal-trainer"
+    ],
+    "url": "/prompts/awesome-personal-trainer/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "心理健康顾问",
+    "title_en": "Mental Health Adviser",
+    "description": "让AI扮演心理健康顾问的专业提示词",
+    "description_en": "Professional prompt for AI to act as Mental Health Adviser",
+    "tags": [
+      "医疗健康"
+    ],
+    "tags_en": [
+      "mental-health-adviser"
+    ],
+    "url": "/prompts/awesome-mental-health-adviser/",
+    "type": "prompt",
+    "category": "医疗健康",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Real Estate Agent",
+    "title_en": "Real Estate Agent",
+    "description": "让AI扮演Real Estate Agent角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Real Estate Agent",
+    "tags": [
+      "金融顾问"
+    ],
+    "tags_en": [
+      "real-estate-agent"
+    ],
+    "url": "/prompts/awesome-real-estate-agent/",
+    "type": "prompt",
+    "category": "金融顾问",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "物流师",
+    "title_en": "Logistician",
+    "description": "让AI扮演物流师的专业提示词",
+    "description_en": "Professional prompt for AI to act as Logistician",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "logistician"
+    ],
+    "url": "/prompts/awesome-logistician/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "牙医",
+    "title_en": "Dentist",
+    "description": "让AI扮演牙医的专业提示词",
+    "description_en": "Professional prompt for AI to act as Dentist",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "dentist"
+    ],
+    "url": "/prompts/awesome-dentist/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Web Design Consultant",
+    "title_en": "Web Design Consultant",
+    "description": "让AI扮演Web Design Consultant角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Web Design Consultant",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "web-design-consultant"
+    ],
+    "url": "/prompts/awesome-web-design-consultant/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "AI辅助医生",
+    "title_en": "AI Assisted Doctor",
+    "description": "让AI扮演AI辅助医生的专业提示词",
+    "description_en": "Professional prompt for AI to act as AI Assisted Doctor",
+    "tags": [
+      "医疗健康"
+    ],
+    "tags_en": [
+      "ai-assisted-doctor"
+    ],
+    "url": "/prompts/awesome-ai-assisted-doctor/",
+    "type": "prompt",
+    "category": "医疗健康",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "博士",
+    "title_en": "Doctor",
+    "description": "让AI扮演博士的专业提示词",
+    "description_en": "Professional prompt for AI to act as Doctor",
+    "tags": [
+      "医疗健康"
+    ],
+    "tags_en": [
+      "doctor"
+    ],
+    "url": "/prompts/awesome-doctor/",
+    "type": "prompt",
+    "category": "医疗健康",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "会计",
+    "title_en": "Accountant",
+    "description": "让AI扮演会计的专业提示词",
+    "description_en": "Professional prompt for AI to act as Accountant",
+    "tags": [
+      "金融顾问"
+    ],
+    "tags_en": [
+      "accountant"
+    ],
+    "url": "/prompts/awesome-accountant/",
+    "type": "prompt",
+    "category": "金融顾问",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "厨师",
+    "title_en": "Chef",
+    "description": "让AI扮演厨师的专业提示词",
+    "description_en": "Professional prompt for AI to act as Chef",
+    "tags": [
+      "生活百科"
+    ],
+    "tags_en": [
+      "chef"
+    ],
+    "url": "/prompts/awesome-chef/",
+    "type": "prompt",
+    "category": "生活百科",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "汽修工",
+    "title_en": "Automobile Mechanic",
+    "description": "让AI扮演汽修工的专业提示词",
+    "description_en": "Professional prompt for AI to act as Automobile Mechanic",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "automobile-mechanic"
+    ],
+    "url": "/prompts/awesome-automobile-mechanic/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "艺术顾问",
+    "title_en": "Artist Advisor",
+    "description": "让AI扮演艺术顾问的专业提示词",
+    "description_en": "Professional prompt for AI to act as Artist Advisor",
+    "tags": [
+      "音乐艺术"
+    ],
+    "tags_en": [
+      "artist-advisor"
+    ],
+    "url": "/prompts/awesome-artist-advisor/",
+    "type": "prompt",
+    "category": "音乐艺术",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "金融分析师",
+    "title_en": "Financial Analyst",
+    "description": "让AI扮演金融分析师的专业提示词",
+    "description_en": "Professional prompt for AI to act as Financial Analyst",
+    "tags": [
+      "金融顾问"
+    ],
+    "tags_en": [
+      "financial-analyst"
+    ],
+    "url": "/prompts/awesome-financial-analyst/",
+    "type": "prompt",
+    "category": "金融顾问",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "投资经理",
+    "title_en": "Investment Manager",
+    "description": "让AI扮演投资经理的专业提示词",
+    "description_en": "Professional prompt for AI to act as Investment Manager",
+    "tags": [
+      "金融顾问"
+    ],
+    "tags_en": [
+      "investment-manager"
+    ],
+    "url": "/prompts/awesome-investment-manager/",
+    "type": "prompt",
+    "category": "金融顾问",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "Tea-Taster",
+    "title_en": "Tea-Taster",
+    "description": "让AI扮演Tea-Taster角色的专业提示词",
+    "description_en": "Professional prompt for AI to act as Tea-Taster",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "tea-taster"
+    ],
+    "url": "/prompts/awesome-tea-taster/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
+    "title": "室内装饰师",
+    "title_en": "Interior Decorator",
+    "description": "让AI扮演室内装饰师的专业提示词",
+    "description_en": "Professional prompt for AI to act as Interior Decorator",
+    "tags": [
+      "思维训练"
+    ],
+    "tags_en": [
+      "interior-decorator"
+    ],
+    "url": "/prompts/awesome-interior-decorator/",
+    "type": "prompt",
+    "category": "思维训练",
+    "source": "Awesome-ChatGPT-Prompts",
+    "language": "en",
+    "verified": true
+  },
+  {
     "title": "小红书爆款文案生成器",
+    "title_en": "Xiaohongshu Viral Copy Generator",
     "description": "一键生成小红书风格的爆款文案，包含emoji和话题标签",
+    "description_en": "Generate viral Xiaohongshu-style copy with emojis and hashtags",
     "tags": [
       "小红书",
       "社交媒体",
       "文案"
     ],
+    "tags_en": [
+      "xiaohongshu",
+      "social media",
+      "copywriting"
+    ],
     "url": "/prompts/writing-001/",
     "type": "prompt",
-    "category": "writing"
+    "category": "writing",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "写作助理",
+    "title_en": "Writing Assistant",
     "description": "优化句子、文章的语法、清晰度和简洁度，提高可读性",
+    "description_en": "Improve spelling, grammar, clarity, concision, and readability",
     "tags": [
       "写作",
       "润色",
       "语法"
     ],
+    "tags_en": [
+      "writing",
+      "polishing",
+      "grammar"
+    ],
     "url": "/prompts/writing-002/",
     "type": "prompt",
-    "category": "writing"
+    "category": "writing",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "Midjourney提示词生成器",
+    "title_en": "Midjourney Prompt Generator",
     "description": "将简单描述转化为专业Midjourney提示词，包含风格、光照、构图等参数",
+    "description_en": "Transform simple descriptions into professional Midjourney prompts with style, lighting, and composition parameters",
     "tags": [
       "Midjourney",
       "AI绘画",
       "提示词生成"
     ],
+    "tags_en": [
+      "Midjourney",
+      "AI Art",
+      "Prompt Generation"
+    ],
     "url": "/prompts/drawing-001/",
     "type": "prompt",
-    "category": "drawing"
+    "category": "drawing",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "Midjourney提示生成器",
+    "title_en": "Midjourney Prompt Generator",
     "description": "通过详细创意的描述，激发Midjourney生成独特有趣的图像",
+    "description_en": "Generate detailed creative descriptions for Midjourney",
     "tags": [
       "Midjourney",
       "图像生成",
       "AI绘画"
     ],
+    "tags_en": [
+      "Midjourney",
+      "image generation",
+      "AI drawing"
+    ],
     "url": "/prompts/drawing-002/",
     "type": "prompt",
-    "category": "drawing"
-  },
-  {
-    "title": "IT编程问题解答",
-    "description": "模拟编程社区来回答你的问题，并提供解决代码",
-    "tags": [
-      "编程",
-      "问答",
-      "代码"
-    ],
-    "url": "/prompts/coding-002/",
-    "type": "prompt",
-    "category": "coding"
+    "category": "drawing",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "代码审查专家",
+    "title_en": "Code Review Expert",
     "description": "专业的代码审查助手，提供详细的代码优化建议",
+    "description_en": "Professional code review assistant with detailed optimization suggestions",
     "tags": [
       "代码审查",
       "编程",
       "优化"
     ],
+    "tags_en": [
+      "code review",
+      "programming",
+      "optimization"
+    ],
     "url": "/prompts/coding-001/",
     "type": "prompt",
-    "category": "coding"
+    "category": "coding",
+    "source": "",
+    "language": "zh",
+    "verified": false
+  },
+  {
+    "title": "IT编程问题解答",
+    "title_en": "IT Programming Q&A",
+    "description": "模拟编程社区来回答你的问题，并提供解决代码",
+    "description_en": "Simulate StackOverflow to answer programming questions",
+    "tags": [
+      "编程",
+      "问答",
+      "代码"
+    ],
+    "tags_en": [
+      "programming",
+      "Q&A",
+      "code"
+    ],
+    "url": "/prompts/coding-002/",
+    "type": "prompt",
+    "category": "coding",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "提示词优化器",
+    "title_en": "Prompt Optimizer",
     "description": "让AI重新撰写提示词，使其更容易被理解",
+    "description_en": "Rewrite prompts to make them more understandable",
     "tags": [
       "提示词",
       "优化",
       "改写"
     ],
+    "tags_en": [
+      "prompt",
+      "optimize",
+      "rewrite"
+    ],
     "url": "/prompts/ai-002/",
     "type": "prompt",
-    "category": "other"
+    "category": "other",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "数据可视化专家",
+    "title_en": "Data Visualization Expert",
     "description": "将复杂数据转化为清晰美观的可视化图表，提供Python/R代码",
+    "description_en": "Transform complex data into clear and beautiful visualizations with Python/R code",
     "tags": [
       "数据可视化",
       "Python",
       "图表"
     ],
+    "tags_en": [
+      "Data Visualization",
+      "Python",
+      "Charts"
+    ],
     "url": "/prompts/data-001/",
     "type": "prompt",
-    "category": "data"
+    "category": "data",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "深度对话引导师",
+    "title_en": "Deep Conversation Guide",
     "description": "通过苏格拉底式提问，引导用户深入思考复杂问题",
+    "description_en": "Guide users to think deeply about complex issues through Socratic questioning",
     "tags": [
       "深度对话",
       "苏格拉底",
       "思维引导"
     ],
+    "tags_en": [
+      "Deep Conversation",
+      "Socratic",
+      "Thinking Guide"
+    ],
     "url": "/prompts/chat-001/",
     "type": "prompt",
-    "category": "chat"
+    "category": "chat",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "前端开发专家",
+    "title_en": "Senior Frontend Developer",
     "description": "提供项目目标和依赖，输出前端项目代码",
+    "description_en": "Provide frontend project code based on requirements",
     "tags": [
       "前端",
       "React",
       "开发"
     ],
+    "tags_en": [
+      "frontend",
+      "React",
+      "development"
+    ],
     "url": "/prompts/coding-003/",
     "type": "prompt",
-    "category": "coding"
+    "category": "coding",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "全栈程序员",
+    "title_en": "Full Stack Developer",
     "description": "从前后端全面思考，提供部署策略",
+    "description_en": "Full stack development with deployment strategies",
     "tags": [
       "全栈",
       "开发",
       "部署"
     ],
+    "tags_en": [
+      "full stack",
+      "development",
+      "deployment"
+    ],
     "url": "/prompts/coding-005/",
     "type": "prompt",
-    "category": "coding"
+    "category": "coding",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "提示词生成器",
+    "title_en": "Prompt Generator",
     "description": "根据指定要求，让AI生成高质量的提示词",
+    "description_en": "Generate high-quality prompts based on requirements",
     "tags": [
       "提示词",
       "生成",
       "AI"
     ],
+    "tags_en": [
+      "prompt",
+      "generator",
+      "AI"
+    ],
     "url": "/prompts/ai-001/",
     "type": "prompt",
-    "category": "other"
+    "category": "other",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "UX/UI界面设计",
+    "title_en": "UX/UI Interface Design",
     "description": "基于产品描述、项目目标和受众群体，提供界面设计建议",
+    "description_en": "Provide UI design suggestions based on product description",
     "tags": [
       "UI设计",
       "UX",
       "界面"
     ],
+    "tags_en": [
+      "UI design",
+      "UX",
+      "interface"
+    ],
     "url": "/prompts/coding-004/",
     "type": "prompt",
-    "category": "coding"
+    "category": "coding",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "小红书风格转换",
+    "title_en": "Xiaohongshu Style Converter",
     "description": "将文本改写成类似小红书的 Emoji 风格",
+    "description_en": "Convert text to Xiaohongshu emoji style",
     "tags": [
       "小红书",
       "社交媒体",
       "emoji"
     ],
+    "tags_en": [
+      "xiaohongshu",
+      "social media",
+      "emoji"
+    ],
     "url": "/prompts/writing-003/",
     "type": "prompt",
-    "category": "writing"
+    "category": "writing",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "产品经理助手",
+    "title_en": "Product Manager Assistant",
     "description": "专业的产品经理AI助手，协助需求分析、PRD撰写、竞品分析",
+    "description_en": "Professional PM AI assistant for requirements analysis, PRD writing, and competitive analysis",
     "tags": [
       "产品经理",
       "PRD",
       "需求分析"
     ],
+    "tags_en": [
+      "product manager",
+      "PRD",
+      "requirements analysis"
+    ],
     "url": "/agents/professional-001/",
     "type": "agent",
-    "category": "professional"
+    "category": "professional",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "创意写作伙伴",
+    "title_en": "Creative Writing Partner",
     "description": "激发灵感的创意写作助手，擅长头脑风暴、情节设计和文风模仿",
+    "description_en": "Inspiring creative writing assistant for brainstorming, plot design, and style imitation",
     "tags": [
       "写作",
       "创意",
       "小说"
     ],
+    "tags_en": [
+      "Writing",
+      "Creative",
+      "Fiction"
+    ],
     "url": "/agents/creative-001/",
     "type": "agent",
-    "category": "creative"
+    "category": "creative",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "编程导师",
+    "title_en": "Coding Mentor",
     "description": "耐心的编程导师，从基础概念到高级设计模式，循序渐进引导学习",
+    "description_en": "Patient programming mentor guiding from basics to advanced design patterns",
     "tags": [
       "编程",
       "教学",
       "导师"
     ],
+    "tags_en": [
+      "Programming",
+      "Teaching",
+      "Mentor"
+    ],
     "url": "/agents/professional-002/",
     "type": "agent",
-    "category": "professional"
+    "category": "professional",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "英语口语老师",
+    "title_en": "English Speaking Teacher",
     "description": "纠正语言错误、改善语言表达的专业英语老师",
+    "description_en": "Professional English teacher for correcting language errors and improving expression",
     "tags": [
       "英语",
       "口语",
       "教学"
     ],
+    "tags_en": [
+      "English",
+      "speaking",
+      "teaching"
+    ],
     "url": "/agents/professional-003/",
     "type": "agent",
-    "category": "professional"
+    "category": "professional",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "游戏NPC",
+    "title_en": "Game NPC",
     "description": "沉浸式的游戏角色扮演，拥有完整背景故事和独特性格",
+    "description_en": "Immersive game character roleplay with complete backstory and unique personality",
     "tags": [
       "游戏",
       "角色扮演",
       "娱乐"
     ],
+    "tags_en": [
+      "Game",
+      "RPG",
+      "Entertainment"
+    ],
     "url": "/agents/entertainment-001/",
     "type": "agent",
-    "category": "entertainment"
+    "category": "entertainment",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "室内装饰师",
+    "title_en": "Interior Decorator",
     "description": "提供室内装修主题、色彩搭配、家具摆放等建议",
+    "description_en": "Provide interior decoration themes, color schemes, furniture placement advice",
     "tags": [
       "室内设计",
       "装修",
       "装饰"
     ],
+    "tags_en": [
+      "interior design",
+      "decoration",
+      "home"
+    ],
     "url": "/agents/professional-004/",
     "type": "agent",
-    "category": "professional"
+    "category": "professional",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "足球解说员",
+    "title_en": "Football Commentator",
     "description": "模拟足球比赛进程并进行专业解说",
+    "description_en": "Simulate football matches and provide professional commentary",
     "tags": [
       "足球",
       "解说",
       "体育"
     ],
+    "tags_en": [
+      "football",
+      "commentary",
+      "sports"
+    ],
     "url": "/agents/entertainment-002/",
     "type": "agent",
-    "category": "entertainment"
+    "category": "entertainment",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "宠物行为学家",
+    "title_en": "Pet Behaviorist",
     "description": "分析宠物行为问题，提供训练建议",
+    "description_en": "Analyze pet behavior issues and provide training advice",
     "tags": [
       "宠物",
       "行为",
       "训练"
     ],
+    "tags_en": [
+      "pet",
+      "behavior",
+      "training"
+    ],
     "url": "/agents/professional-005/",
     "type": "agent",
-    "category": "professional"
+    "category": "professional",
+    "source": "",
+    "language": "zh",
+    "verified": false
   },
   {
     "title": "茶艺师",
+    "title_en": "Tea Master",
     "description": "品鉴茶叶，提供专业茶艺建议",
+    "description_en": "Tea tasting and professional tea art advice",
     "tags": [
       "茶艺",
       "品茶",
       "文化"
     ],
+    "tags_en": [
+      "tea art",
+      "tasting",
+      "culture"
+    ],
     "url": "/agents/professional-006/",
     "type": "agent",
-    "category": "professional"
+    "category": "professional",
+    "source": "",
+    "language": "zh",
+    "verified": false
   }
 ]

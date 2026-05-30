@@ -6,8 +6,8 @@
     <div class="page-container">
         <h1>👤 Agent人格设定</h1>
         <p class="page-subtitle">Agent Personas</p>
-        <p>专业助手 + 创意角色，打造专属AI伙伴</p>
-        <p class="page-subtitle">Professional assistants & creative roles</p>
+        <p>全网验证 · 中英双语 · 专业助手+创意角色</p>
+        <p class="page-subtitle">Verified · Bilingual · Professional & Creative</p>
     </div>
 </section>
 
@@ -19,25 +19,70 @@
             <button class="filter-btn" data-filter="{{ cat.id }}">{{ cat.icon }} {{ cat.name }} <span class="filter-en">{{ cat.id|title }}</span></button>
             {% endfor %}
         </div>
+
+        <!-- 语言过滤 -->
+        <div class="filter-bar filter-bar-lang">
+            <button class="filter-btn-lang active" data-lang="all">🌐 全部语言</button>
+            <button class="filter-btn-lang" data-lang="zh">🇨🇳 中文</button>
+            <button class="filter-btn-lang" data-lang="en">🇺🇸 English</button>
+        </div>
         
         <div class="card-grid">
             {% for agent in agents %}
-            <a href="{{ agent.slug }}/" class="card card-agent" data-category="{{ agent.category }}">
+            <a href="{{ agent.slug }}/" class="card card-agent" data-category="{{ agent.category }}" data-language="{{ agent.language or 'zh' }}">
                 <div class="card-header">
                     <span class="card-category">{{ agent.category }}</span>
-                    <span class="card-hot">🔥 {{ agent.hot_score }}</span>
+                    <div class="card-header-right">
+                        {% if agent.language == 'en' %}
+                        <span class="card-lang">🇺🇸</span>
+                        {% elif agent.language == 'zh' %}
+                        <span class="card-lang">🇨🇳</span>
+                        {% elif agent.language == 'zh-en' %}
+                        <span class="card-lang">🌐</span>
+                        {% endif %}
+                        <span class="card-hot">🔥 {{ agent.hot_score }}</span>
+                    </div>
                 </div>
                 <h3 class="card-title">{{ agent.title }}</h3>
-                <p class="card-title-en">{{ agent.title_en or '' }}</p>
+                {% if agent.title_en and agent.title_en != agent.title %}
+                <p class="card-title-en">{{ agent.title_en }}</p>
+                {% endif %}
                 <p class="card-desc">{{ agent.description }}</p>
-                <p class="card-desc-en">{{ agent.description_en or '' }}</p>
+                {% if agent.description_en and agent.description_en != agent.description %}
+                <p class="card-desc-en">{{ agent.description_en }}</p>
+                {% endif %}
                 <div class="card-personality">
                     <span>💡 {{ agent.personality }}</span>
-                    <span class="personality-en">{{ agent.personality_en or '' }}</span>
+                    {% if agent.source %}
+                    <span class="card-source">📌 {{ agent.source }}</span>
+                    {% endif %}
+                    {% if agent.verified %}
+                    <span class="card-verified">✅</span>
+                    {% endif %}
                 </div>
             </a>
             {% endfor %}
         </div>
     </div>
 </section>
+
+<script>
+// 语言过滤
+document.querySelectorAll('.filter-btn-lang').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+        document.querySelectorAll('.filter-btn-lang').forEach(function(b) { b.classList.remove('active'); });
+        this.classList.add('active');
+        
+        var lang = this.dataset.lang;
+        var cards = document.querySelectorAll('.card');
+        cards.forEach(function(card) {
+            if (lang === 'all' || card.dataset.language === lang || card.dataset.language === 'zh-en') {
+                card.style.display = '';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    });
+});
+</script>
 {% endblock %}

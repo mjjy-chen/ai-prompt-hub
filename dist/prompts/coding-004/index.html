@@ -27,12 +27,29 @@
     <div class="detail-container">
         <div class="detail-meta">
             <span class="detail-category">coding</span>
-            <span class="detail-hot">🔥 Hot 68</span>
+            <span class="detail-hot">🔥 68</span>
+            
+            
         </div>
         <h1 class="detail-title">UX/UI界面设计</h1>
+        
         <p class="detail-title-en">UX/UI Interface Design</p>
+        
         <p class="detail-desc">基于产品描述、项目目标和受众群体，提供界面设计建议</p>
+        
         <p class="detail-desc-en">Provide UI design suggestions based on product description</p>
+        
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            
+            
+            <span class="source-author">👤 AiShort</span>
+            
+            
+            
+        </div>
+
         <div class="detail-tags">
             
             <span class="tag">#UI设计</span>
@@ -40,6 +57,15 @@
             <span class="tag">#UX</span>
             
             <span class="tag">#界面</span>
+            
+            
+            
+            <span class="tag tag-en">#UI design</span>
+            
+            <span class="tag tag-en">#UX</span>
+            
+            <span class="tag tag-en">#interface</span>
+            
             
         </div>
         <div class="detail-models">
@@ -59,16 +85,39 @@
 
 <section class="detail-content">
     <div class="detail-container">
-        <div class="content-card">
+        <!-- 语言切换标签 -->
+        
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" >
+            <div class="content-header">
+                <h3>📋 中文版 <span class="content-en">Chinese</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;">I want you to act as a UX/UI developer. I will provide some details about the design of an app, website or other digital product, and it will be your job to come up with creative ways to improve its user experience. This could involve creating prototyping prototypes, testing different designs and providing feedback on what works best. Respond in Chinese. My first request is [应用或网页设计细节]</div>
+                <p>I want you to act as a UX/UI developer. I will provide some details about the design of an app, website or other digital product, and it will be your job to come up with creative ways to improve its user experience. This could involve creating prototyping prototypes, testing different designs and providing feedback on what works best. Respond in Chinese. My first request is [应用或网页设计细节]</p>
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        
+        <div class="content-card" id="content-bilingual">
             <div class="content-header">
                 <h3>📋 完整内容 <span class="content-en">Full Content</span></h3>
                 <button class="copy-btn" data-target="content-text">📋 复制 <span class="copy-en">Copy</span></button>
             </div>
-            <div class="content-body" id="content-body">
+            <div class="content-body">
                 <div id="content-text" style="display: none;">I want you to act as a UX/UI developer. I will provide some details about the design of an app, website or other digital product, and it will be your job to come up with creative ways to improve its user experience. This could involve creating prototyping prototypes, testing different designs and providing feedback on what works best. Respond in Chinese. My first request is [应用或网页设计细节]</div>
                 <p>I want you to act as a UX/UI developer. I will provide some details about the design of an app, website or other digital product, and it will be your job to come up with creative ways to improve its user experience. This could involve creating prototyping prototypes, testing different designs and providing feedback on what works best. Respond in Chinese. My first request is [应用或网页设计细节]</p>
             </div>
         </div>
+        
     </div>
 </section>
 
@@ -77,6 +126,40 @@
         <a href="../" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
     </div>
 </section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
 
     </main>
     

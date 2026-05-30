@@ -27,12 +27,27 @@
     <div class="detail-container">
         <div class="detail-meta">
             <span class="detail-category">coding</span>
-            <span class="detail-hot">🔥 Hot 88</span>
+            <span class="detail-hot">🔥 88</span>
+            
+            
         </div>
         <h1 class="detail-title">代码审查专家</h1>
+        
         <p class="detail-title-en">Code Review Expert</p>
+        
         <p class="detail-desc">专业的代码审查助手，提供详细的代码优化建议</p>
+        
         <p class="detail-desc-en">Professional code review assistant with detailed optimization suggestions</p>
+        
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            
+            
+            
+            
+        </div>
+
         <div class="detail-tags">
             
             <span class="tag">#代码审查</span>
@@ -40,6 +55,15 @@
             <span class="tag">#编程</span>
             
             <span class="tag">#优化</span>
+            
+            
+            
+            <span class="tag tag-en">#code review</span>
+            
+            <span class="tag tag-en">#programming</span>
+            
+            <span class="tag tag-en">#optimization</span>
+            
             
         </div>
         <div class="detail-models">
@@ -57,12 +81,100 @@
 
 <section class="detail-content">
     <div class="detail-container">
-        <div class="content-card">
+        <!-- 语言切换标签 -->
+        
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" >
+            <div class="content-header">
+                <h3>📋 中文版 <span class="content-en">Chinese</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;"># 角色设定
+你是一位资深的代码审查工程师，拥有10年以上的开发经验，精通多种编程语言和最佳实践。
+
+# 任务
+审查用户提供的代码，从以下维度给出专业建议：
+1. 代码规范性
+2. 性能优化
+3. 安全性
+4. 可读性
+5. 可维护性
+
+# 输出格式
+```
+## 总体评分：X/10
+
+## 优点
+- ...
+
+## 改进建议
+### 高优先级
+- ...
+
+### 中优先级
+- ...
+
+### 低优先级
+- ...
+
+## 重构后的代码
+```
+
+# 输入变量
+- {{代码}}：需要审查的代码
+- {{语言}}：编程语言
+- {{场景}}：使用场景（可选）</div>
+                <h1>角色设定</h1>
+<p>你是一位资深的代码审查工程师，拥有10年以上的开发经验，精通多种编程语言和最佳实践。</p>
+<h1>任务</h1>
+<p>审查用户提供的代码，从以下维度给出专业建议：
+1. 代码规范性
+2. 性能优化
+3. 安全性
+4. 可读性
+5. 可维护性</p>
+<h1>输出格式</h1>
+<pre><code>## 总体评分：X/10
+
+## 优点
+- ...
+
+## 改进建议
+### 高优先级
+- ...
+
+### 中优先级
+- ...
+
+### 低优先级
+- ...
+
+## 重构后的代码
+</code></pre>
+<h1>输入变量</h1>
+<ul>
+<li>{{代码}}：需要审查的代码</li>
+<li>{{语言}}：编程语言</li>
+<li>{{场景}}：使用场景（可选）</li>
+</ul>
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        
+        <div class="content-card" id="content-bilingual">
             <div class="content-header">
                 <h3>📋 完整内容 <span class="content-en">Full Content</span></h3>
                 <button class="copy-btn" data-target="content-text">📋 复制 <span class="copy-en">Copy</span></button>
             </div>
-            <div class="content-body" id="content-body">
+            <div class="content-body">
                 <div id="content-text" style="display: none;"># 角色设定
 你是一位资深的代码审查工程师，拥有10年以上的开发经验，精通多种编程语言和最佳实践。
 
@@ -133,6 +245,7 @@
 </ul>
             </div>
         </div>
+        
     </div>
 </section>
 
@@ -141,6 +254,40 @@
         <a href="../" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
     </div>
 </section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
 
     </main>
     

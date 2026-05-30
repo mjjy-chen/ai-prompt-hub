@@ -6,16 +6,57 @@
     <div class="detail-container">
         <div class="detail-meta">
             <span class="detail-category">{{ item.category }}</span>
-            <span class="detail-hot">🔥 Hot {{ item.hot_score }}</span>
+            <span class="detail-hot">🔥 {{ item.hot_score }}</span>
+            {% if item.verified %}
+            <span class="detail-verified">✅ 已验证</span>
+            {% endif %}
+            {% if item.language == 'zh' %}
+            <span class="detail-lang">🇨🇳 中文原文</span>
+            {% elif item.language == 'en' %}
+            <span class="detail-lang">🇺🇸 英文原文</span>
+            {% elif item.language == 'zh-en' %}
+            <span class="detail-lang">🌐 中英双语</span>
+            {% endif %}
         </div>
         <h1 class="detail-title">{{ item.title }}</h1>
-        <p class="detail-title-en">{{ item.title_en or '' }}</p>
+        {% if item.title_en and item.title_en != item.title %}
+        <p class="detail-title-en">{{ item.title_en }}</p>
+        {% endif %}
         <p class="detail-desc">{{ item.description }}</p>
-        <p class="detail-desc-en">{{ item.description_en or '' }}</p>
+        {% if item.description_en and item.description_en != item.description %}
+        <p class="detail-desc-en">{{ item.description_en }}</p>
+        {% endif %}
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            {% if item.source %}
+            <span class="source-badge">
+                📌 来源：{{ item.source }}
+                {% if item.source_url %}
+                <a href="{{ item.source_url }}" target="_blank" rel="noopener noreferrer" class="source-link">查看原文 ↗</a>
+                {% endif %}
+            </span>
+            {% endif %}
+            {% if item.author and item.author != '社区精选' and item.author != 'Community Curated' %}
+            <span class="source-author">👤 {{ item.author }}</span>
+            {% endif %}
+            {% if item.translated_by and item.translated_by != '原文' %}
+            <span class="source-translate">🔄 {{ item.translated_by }}翻译</span>
+            {% endif %}
+            {% if item.verified_type %}
+            <span class="source-verified-type">🏅 {{ item.verified_type }}</span>
+            {% endif %}
+        </div>
+
         <div class="detail-tags">
             {% for tag in item.tags %}
             <span class="tag">#{{ tag }}</span>
             {% endfor %}
+            {% if item.tags_en %}
+            {% for tag in item.tags_en %}
+            <span class="tag tag-en">#{{ tag }}</span>
+            {% endfor %}
+            {% endif %}
         </div>
         <div class="detail-models">
             <span>支持模型 / Models:</span>
@@ -28,16 +69,61 @@
 
 <section class="detail-content">
     <div class="detail-container">
-        <div class="content-card">
+        <!-- 语言切换标签 -->
+        {% if item.language == 'zh' or item.language == 'en' %}
+        <div class="lang-tabs">
+            <button class="lang-tab active" data-lang="original" onclick="switchLang('original')">
+                {% if item.language == 'zh' %}🇨🇳 中文原文{% else %}🇺🇸 英文原文{% endif %}
+            </button>
+            <button class="lang-tab" data-lang="translated" onclick="switchLang('translated')">
+                {% if item.language == 'zh' %}🇺🇸 English Translation{% else %}🇨🇳 中文翻译{% endif %}
+            </button>
+        </div>
+        {% endif %}
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" {% if item.language == 'en' %}style="display:none"{% endif %}>
+            <div class="content-header">
+                <h3>📋 {% if item.language == 'en' %}中文翻译{% else %}中文版{% endif %} <span class="content-en">{% if item.language == 'en' %}Chinese Translation{% else %}Chinese{% endif %}</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;">{{ item.body_zh or item.body }}</div>
+                {{ content_zh|safe if content_zh else content|safe }}
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        {% if item.body_en %}
+        <div class="content-card" id="content-en" {% if item.language == 'zh' %}style="display:none"{% endif %}>
+            <div class="content-header">
+                <h3>📋 {% if item.language == 'zh' %}English Translation{% else %}English Version{% endif %} <span class="content-en">{% if item.language == 'zh' %}英文翻译{% else %}英文版{% endif %}</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-en">📋 Copy English <span class="copy-en">复制英文</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-en" style="display: none;">{{ item.body_en }}</div>
+                {{ content_en|safe }}
+            </div>
+        </div>
+        {% endif %}
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        {% if not item.body_en %}
+        <div class="content-card" id="content-bilingual">
             <div class="content-header">
                 <h3>📋 完整内容 <span class="content-en">Full Content</span></h3>
                 <button class="copy-btn" data-target="content-text">📋 复制 <span class="copy-en">Copy</span></button>
             </div>
-            <div class="content-body" id="content-body">
+            <div class="content-body">
                 <div id="content-text" style="display: none;">{{ item.body }}</div>
                 {{ content|safe }}
             </div>
         </div>
+        {% endif %}
     </div>
 </section>
 
@@ -46,4 +132,38 @@
         <a href="../" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
     </div>
 </section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('{{ item.language }}' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('{{ item.language }}' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
 {% endblock %}
