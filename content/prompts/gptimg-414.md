@@ -1,0 +1,27 @@
+---
+title: "室内晨间写实摄影"
+title_en: ""
+description: "GPT Image 2.0 摄影/写实风格提示词 - 室内晨间写实摄影"
+description_en: "GPT Image 2.0 Photography & Realism prompt - 室内晨间写实摄影"
+category: "摄影/写实"
+tags: []
+type: IMAGE
+source: "awesome-gpt-image-2"
+source_url: "https://github.com/freestylefly/awesome-gpt-image-2"
+language: "en"
+verified: true
+verified_type: "community"
+hot_score: 128
+image_url: "https://gh-proxy.com/https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case414.jpg"
+---
+
+## English Prompt
+
+```
+A close-medium shot of a young Japanese woman in her bedroom on an ordinary morning, captured in authentic daily life photography as a natural candid moment. She is seated sideways on the edge of the bed, not fully awake yet, photographed from a slightly elevated three-quarter angle with cool-to-warm morning window light entering from the left.
+East Asian young woman in her early 20s. Almond-shaped eyes with soft natural single eyelids, slightly elongated eye corners, still carrying the heaviness of just waking. Straight refined nose with a delicate bridge. Skin tone fair to light beige — skin subsurface scattering visible under the soft directional morning window light, specular micro-highlights catching gently on her cheekbone and nose ridge, fine skin texture perceptible, no makeup. Naturally straight fine black hair loosely gathered, slightly disheveled from sleep.
+She wears a loose oversized cotton sleep shirt and soft shorts, nothing styled. Her gaze drifts toward the window, posture relaxed and unhurried, one hand resting on her knee, the other barely holding a phone face-down. The bedroom background suggests real life — slightly unmade linen, a potted plant near the window partially in shadow, small cluttered bedside items. Two or three stray hairs fall across her cheek in natural asymmetric displacement, not geometrically placed.
+Soft directional morning light from a side window, cool-to-warm transition across her face and shoulder, long gentle shadows on the bedding behind her. The mood is quietly adrift — not sad, not performing, just suspended in the unhurried first minutes of the day. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+```
+
+**Author:** @ToroJushiAi ([source](https://x.com/ToroJushiAi/status/2053078195482632421))

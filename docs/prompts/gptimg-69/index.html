@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>信息图可视化设计 - AI Prompt Hub</title>
+    <meta name="description" content="精选AI提示词与Agent人格设定">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../.././" class="nav-logo">AI Prompt Hub</a>
+            <div class="nav-links">
+                <a href="../../prompts/">提示词 <span class="nav-en">Prompts</span></a>
+                <a href="../../agents/">人格设定 <span class="nav-en">Agents</span></a>
+                <a href="#about">关于 <span class="nav-en">About</span></a>
+            </div>
+        </div>
+    </nav>
+    
+    <main>
+        
+<section class="detail-header">
+    <div class="detail-container">
+        <div class="detail-meta">
+            <span class="detail-category">图表/信息图</span>
+            <span class="detail-hot">🔥 143</span>
+            
+            <span class="detail-verified">✅ 已验证</span>
+            
+            
+            <span class="detail-lang">🇺🇸 英文原文</span>
+            
+        </div>
+        <h1 class="detail-title">信息图可视化设计</h1>
+        
+        <p class="detail-desc">GPT Image 2.0 图表/信息图风格提示词 - 信息图可视化设计</p>
+        
+        <p class="detail-desc-en">GPT Image 2.0 Charts & Infographics prompt - 信息图可视化设计</p>
+        
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            
+            <span class="source-badge">
+                📌 来源：awesome-gpt-image-2
+                
+                <a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank" rel="noopener noreferrer" class="source-link">查看原文 ↗</a>
+                
+            </span>
+            
+            
+            
+            
+            <span class="source-verified-type">🏅 community</span>
+            
+        </div>
+
+        <div class="detail-tags">
+            
+            
+        </div>
+        <div class="detail-models">
+            <span>支持模型 / Models:</span>
+            
+        </div>
+    </div>
+</section>
+
+<section class="detail-content">
+    <div class="detail-container">
+        <!-- 图片提示词效果展示 -->
+        
+        
+        <!-- 语言切换标签 -->
+        
+        <div class="lang-tabs">
+            <button class="lang-tab active" data-lang="original" onclick="switchLang('original')">
+                🇺🇸 英文原文
+            </button>
+            <button class="lang-tab" data-lang="translated" onclick="switchLang('translated')">
+                🇨🇳 中文翻译
+            </button>
+        </div>
+        
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" style="display:none">
+            <div class="content-header">
+                <h3>📋 中文翻译 <span class="content-en">Chinese Translation</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;">## English Prompt
+
+```
+{
+  "type": "comprehensive medical infographic",
+  "style": "highly detailed 3D medical illustration, clinical white background, clean typography",
+  "header": {
+    "title_cn": "{argument name=\"main title\" default=\"痛风诞生的因果链\"}",
+    "title_en": "{argument name=\"english title\" default=\"THE CAUSAL CHAIN OF GOUT\"}",
+    "subtitle": "Pain is not the beginning. Metabolic imbalance is.",
+    "top_right_sequence": {
+      "count": 6,
+      "labels": ["Metabolism", "Transport", "Crystallization", "Immunity", "Inflammation", "Damage"]
+    }
+  },
+  "centerpiece": {
+    "description": "{argument name=\"central figure\" default=\"transparent anatomical human body showing liver, kidneys, and vascular system\"}",
+    "details": "pathway highlighted in {argument name=\"highlight color\" default=\"glowing red\"} descending to the foot"
+  },
+  "layout": {
+    "left_column": [
+      { "id": "01", "title": "Purine Sources", "elements": 6, "labels": ["Red meat", "Organ meats", "Seafood", "Beer", "Endogenous", "Fructose"] },
+      { "id": "02", "title": "Uric Acid Production", "elements": 2, "labels": ["Chemical pathway", "Liver"] },
+      { "id": "03", "title": "Renal & Intestinal Excretion", "elements": 2, "labels": ["Kidney nephron", "Intestines"] },
+      { "id": "04", "title": "Hyperuricemia", "elements": 2, "labels": ["Blood vial", "Solubility graph"] }
+    ],
+    "center_overlay": [
+      { "id": "05", "title": "Crystal Physics", "elements": 3, "labels": ["Supersaturation beaker", "Precipitation beaker", "Molecular structure"] },
+      { "id": "06", "title": "Joint Deposition & Local Environment", "elements": 1, "labels": ["First MTP joint cross-section"] }
+    ],
+    "right_column": [
+      { "id": "07", "title": "Immune Inflammatory Cascade", "elements": 4, "labels": ["Macrophage", "Inflammasome", "Neutrophil", "Cytokines"] },
+      { "id": "08", "title": "Acute Gout Flare", "elements": 1, "labels": ["Inflamed foot"] },
+      { "id": "09", "title": "Chronic Structural Damage", "elements": 1, "labels": ["Bone erosion joint"] },
+      { "id": "10", "title": "Tophus Formation", "elements": 2, "labels": ["Hand tophi", "Foot tophi"] },
+      { "id": "11", "title": "Beyond the Joint", "elements": 2, "labels": ["Kidney stones", "Systemic burden"] }
+    ],
+    "bottom_row": [
+      { "id": "12", "title": "Pain Is the Final Signal", "elements": 7, "labels": ["Increased Purine", "Overproduction", "Reduced Excretion", "Hyperuricemia", "Crystal Formation", "Immune Activation", "Man in pain"] }
+    ]
+  },
+  "theme": "{argument name=\"disease focus\" default=\"gout and uric acid crystallization\"}"
+}
+```
+
+**Author:** @hx831126 ([source](https://x.com/hx831126))</div>
+                <h2>English Prompt</h2>
+<pre><code>{
+  &quot;type&quot;: &quot;comprehensive medical infographic&quot;,
+  &quot;style&quot;: &quot;highly detailed 3D medical illustration, clinical white background, clean typography&quot;,
+  &quot;header&quot;: {
+    &quot;title_cn&quot;: &quot;{argument name=\&quot;main title\&quot; default=\&quot;痛风诞生的因果链\&quot;}&quot;,
+    &quot;title_en&quot;: &quot;{argument name=\&quot;english title\&quot; default=\&quot;THE CAUSAL CHAIN OF GOUT\&quot;}&quot;,
+    &quot;subtitle&quot;: &quot;Pain is not the beginning. Metabolic imbalance is.&quot;,
+    &quot;top_right_sequence&quot;: {
+      &quot;count&quot;: 6,
+      &quot;labels&quot;: [&quot;Metabolism&quot;, &quot;Transport&quot;, &quot;Crystallization&quot;, &quot;Immunity&quot;, &quot;Inflammation&quot;, &quot;Damage&quot;]
+    }
+  },
+  &quot;centerpiece&quot;: {
+    &quot;description&quot;: &quot;{argument name=\&quot;central figure\&quot; default=\&quot;transparent anatomical human body showing liver, kidneys, and vascular system\&quot;}&quot;,
+    &quot;details&quot;: &quot;pathway highlighted in {argument name=\&quot;highlight color\&quot; default=\&quot;glowing red\&quot;} descending to the foot&quot;
+  },
+  &quot;layout&quot;: {
+    &quot;left_column&quot;: [
+      { &quot;id&quot;: &quot;01&quot;, &quot;title&quot;: &quot;Purine Sources&quot;, &quot;elements&quot;: 6, &quot;labels&quot;: [&quot;Red meat&quot;, &quot;Organ meats&quot;, &quot;Seafood&quot;, &quot;Beer&quot;, &quot;Endogenous&quot;, &quot;Fructose&quot;] },
+      { &quot;id&quot;: &quot;02&quot;, &quot;title&quot;: &quot;Uric Acid Production&quot;, &quot;elements&quot;: 2, &quot;labels&quot;: [&quot;Chemical pathway&quot;, &quot;Liver&quot;] },
+      { &quot;id&quot;: &quot;03&quot;, &quot;title&quot;: &quot;Renal &amp; Intestinal Excretion&quot;, &quot;elements&quot;: 2, &quot;labels&quot;: [&quot;Kidney nephron&quot;, &quot;Intestines&quot;] },
+      { &quot;id&quot;: &quot;04&quot;, &quot;title&quot;: &quot;Hyperuricemia&quot;, &quot;elements&quot;: 2, &quot;labels&quot;: [&quot;Blood vial&quot;, &quot;Solubility graph&quot;] }
+    ],
+    &quot;center_overlay&quot;: [
+      { &quot;id&quot;: &quot;05&quot;, &quot;title&quot;: &quot;Crystal Physics&quot;, &quot;elements&quot;: 3, &quot;labels&quot;: [&quot;Supersaturation beaker&quot;, &quot;Precipitation beaker&quot;, &quot;Molecular structure&quot;] },
+      { &quot;id&quot;: &quot;06&quot;, &quot;title&quot;: &quot;Joint Deposition &amp; Local Environment&quot;, &quot;elements&quot;: 1, &quot;labels&quot;: [&quot;First MTP joint cross-section&quot;] }
+    ],
+    &quot;right_column&quot;: [
+      { &quot;id&quot;: &quot;07&quot;, &quot;title&quot;: &quot;Immune Inflammatory Cascade&quot;, &quot;elements&quot;: 4, &quot;labels&quot;: [&quot;Macrophage&quot;, &quot;Inflammasome&quot;, &quot;Neutrophil&quot;, &quot;Cytokines&quot;] },
+      { &quot;id&quot;: &quot;08&quot;, &quot;title&quot;: &quot;Acute Gout Flare&quot;, &quot;elements&quot;: 1, &quot;labels&quot;: [&quot;Inflamed foot&quot;] },
+      { &quot;id&quot;: &quot;09&quot;, &quot;title&quot;: &quot;Chronic Structural Damage&quot;, &quot;elements&quot;: 1, &quot;labels&quot;: [&quot;Bone erosion joint&quot;] },
+      { &quot;id&quot;: &quot;10&quot;, &quot;title&quot;: &quot;Tophus Formation&quot;, &quot;elements&quot;: 2, &quot;labels&quot;: [&quot;Hand tophi&quot;, &quot;Foot tophi&quot;] },
+      { &quot;id&quot;: &quot;11&quot;, &quot;title&quot;: &quot;Beyond the Joint&quot;, &quot;elements&quot;: 2, &quot;labels&quot;: [&quot;Kidney stones&quot;, &quot;Systemic burden&quot;] }
+    ],
+    &quot;bottom_row&quot;: [
+      { &quot;id&quot;: &quot;12&quot;, &quot;title&quot;: &quot;Pain Is the Final Signal&quot;, &quot;elements&quot;: 7, &quot;labels&quot;: [&quot;Increased Purine&quot;, &quot;Overproduction&quot;, &quot;Reduced Excretion&quot;, &quot;Hyperuricemia&quot;, &quot;Crystal Formation&quot;, &quot;Immune Activation&quot;, &quot;Man in pain&quot;] }
+    ]
+  },
+  &quot;theme&quot;: &quot;{argument name=\&quot;disease focus\&quot; default=\&quot;gout and uric acid crystallization\&quot;}&quot;
+}
+</code></pre>
+<p><strong>Author:</strong> @hx831126 (<a href="https://x.com/hx831126">source</a>)</p>
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        
+        <div class="content-card" id="content-en" >
+            <div class="content-header">
+                <h3>📋 English Version <span class="content-en">英文版</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-en">📋 Copy English <span class="copy-en">复制英文</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-en" style="display: none;">```
+{
+  "type": "comprehensive medical infographic",
+  "style": "highly detailed 3D medical illustration, clinical white background, clean typography",
+  "header": {
+    "title_cn": "{argument name=\"main title\" default=\"痛风诞生的因果链\"}",
+    "title_en": "{argument name=\"english title\" default=\"THE CAUSAL CHAIN OF GOUT\"}",
+    "subtitle": "Pain is not the beginning. Metabolic imbalance is.",
+    "top_right_sequence": {
+      "count": 6,
+      "labels": ["Metabolism", "Transport", "Crystallization", "Immunity", "Inflammation", "Damage"]
+    }
+  },
+  "centerpiece": {
+    "description": "{argument name=\"central figure\" default=\"transparent anatomical human body showing liver, kidneys, and vascular system\"}",
+    "details": "pathway highlighted in {argument name=\"highlight color\" default=\"glowing red\"} descending to the foot"
+  },
+  "layout": {
+    "left_column": [
+      { "id": "01", "title": "Purine Sources", "elements": 6, "labels": ["Red meat", "Organ meats", "Seafood", "Beer", "Endogenous", "Fructose"] },
+      { "id": "02", "title": "Uric Acid Production", "elements": 2, "labels": ["Chemical pathway", "Liver"] },
+      { "id": "03", "title": "Renal & Intestinal Excretion", "elements": 2, "labels": ["Kidney nephron", "Intestines"] },
+      { "id": "04", "title": "Hyperuricemia", "elements": 2, "labels": ["Blood vial", "Solubility graph"] }
+    ],
+    "center_overlay": [
+      { "id": "05", "title": "Crystal Physics", "elements": 3, "labels": ["Supersaturation beaker", "Precipitation beaker", "Molecular structure"] },
+      { "id": "06", "title": "Joint Deposition & Local Environment", "elements": 1, "labels": ["First MTP joint cross-section"] }
+    ],
+    "right_column": [
+      { "id": "07", "title": "Immune Inflammatory Cascade", "elements": 4, "labels": ["Macrophage", "Inflammasome", "Neutrophil", "Cytokines"] },
+      { "id": "08", "title": "Acute Gout Flare", "elements": 1, "labels": ["Inflamed foot"] },
+      { "id": "09", "title": "Chronic Structural Damage", "elements": 1, "labels": ["Bone erosion joint"] },
+      { "id": "10", "title": "Tophus Formation", "elements": 2, "labels": ["Hand tophi", "Foot tophi"] },
+      { "id": "11", "title": "Beyond the Joint", "elements": 2, "labels": ["Kidney stones", "Systemic burden"] }
+    ],
+    "bottom_row": [
+      { "id": "12", "title": "Pain Is the Final Signal", "elements": 7, "labels": ["Increased Purine", "Overproduction", "Reduced Excretion", "Hyperuricemia", "Crystal Formation", "Immune Activation", "Man in pain"] }
+    ]
+  },
+  "theme": "{argument name=\"disease focus\" default=\"gout and uric acid crystallization\"}"
+}
+```
+
+**Author:** @hx831126 ([source](https://x.com/hx831126))</div>
+                <pre><code>{
+  &quot;type&quot;: &quot;comprehensive medical infographic&quot;,
+  &quot;style&quot;: &quot;highly detailed 3D medical illustration, clinical white background, clean typography&quot;,
+  &quot;header&quot;: {
+    &quot;title_cn&quot;: &quot;{argument name=\&quot;main title\&quot; default=\&quot;痛风诞生的因果链\&quot;}&quot;,
+    &quot;title_en&quot;: &quot;{argument name=\&quot;english title\&quot; default=\&quot;THE CAUSAL CHAIN OF GOUT\&quot;}&quot;,
+    &quot;subtitle&quot;: &quot;Pain is not the beginning. Metabolic imbalance is.&quot;,
+    &quot;top_right_sequence&quot;: {
+      &quot;count&quot;: 6,
+      &quot;labels&quot;: [&quot;Metabolism&quot;, &quot;Transport&quot;, &quot;Crystallization&quot;, &quot;Immunity&quot;, &quot;Inflammation&quot;, &quot;Damage&quot;]
+    }
+  },
+  &quot;centerpiece&quot;: {
+    &quot;description&quot;: &quot;{argument name=\&quot;central figure\&quot; default=\&quot;transparent anatomical human body showing liver, kidneys, and vascular system\&quot;}&quot;,
+    &quot;details&quot;: &quot;pathway highlighted in {argument name=\&quot;highlight color\&quot; default=\&quot;glowing red\&quot;} descending to the foot&quot;
+  },
+  &quot;layout&quot;: {
+    &quot;left_column&quot;: [
+      { &quot;id&quot;: &quot;01&quot;, &quot;title&quot;: &quot;Purine Sources&quot;, &quot;elements&quot;: 6, &quot;labels&quot;: [&quot;Red meat&quot;, &quot;Organ meats&quot;, &quot;Seafood&quot;, &quot;Beer&quot;, &quot;Endogenous&quot;, &quot;Fructose&quot;] },
+      { &quot;id&quot;: &quot;02&quot;, &quot;title&quot;: &quot;Uric Acid Production&quot;, &quot;elements&quot;: 2, &quot;labels&quot;: [&quot;Chemical pathway&quot;, &quot;Liver&quot;] },
+      { &quot;id&quot;: &quot;03&quot;, &quot;title&quot;: &quot;Renal &amp; Intestinal Excretion&quot;, &quot;elements&quot;: 2, &quot;labels&quot;: [&quot;Kidney nephron&quot;, &quot;Intestines&quot;] },
+      { &quot;id&quot;: &quot;04&quot;, &quot;title&quot;: &quot;Hyperuricemia&quot;, &quot;elements&quot;: 2, &quot;labels&quot;: [&quot;Blood vial&quot;, &quot;Solubility graph&quot;] }
+    ],
+    &quot;center_overlay&quot;: [
+      { &quot;id&quot;: &quot;05&quot;, &quot;title&quot;: &quot;Crystal Physics&quot;, &quot;elements&quot;: 3, &quot;labels&quot;: [&quot;Supersaturation beaker&quot;, &quot;Precipitation beaker&quot;, &quot;Molecular structure&quot;] },
+      { &quot;id&quot;: &quot;06&quot;, &quot;title&quot;: &quot;Joint Deposition &amp; Local Environment&quot;, &quot;elements&quot;: 1, &quot;labels&quot;: [&quot;First MTP joint cross-section&quot;] }
+    ],
+    &quot;right_column&quot;: [
+      { &quot;id&quot;: &quot;07&quot;, &quot;title&quot;: &quot;Immune Inflammatory Cascade&quot;, &quot;elements&quot;: 4, &quot;labels&quot;: [&quot;Macrophage&quot;, &quot;Inflammasome&quot;, &quot;Neutrophil&quot;, &quot;Cytokines&quot;] },
+      { &quot;id&quot;: &quot;08&quot;, &quot;title&quot;: &quot;Acute Gout Flare&quot;, &quot;elements&quot;: 1, &quot;labels&quot;: [&quot;Inflamed foot&quot;] },
+      { &quot;id&quot;: &quot;09&quot;, &quot;title&quot;: &quot;Chronic Structural Damage&quot;, &quot;elements&quot;: 1, &quot;labels&quot;: [&quot;Bone erosion joint&quot;] },
+      { &quot;id&quot;: &quot;10&quot;, &quot;title&quot;: &quot;Tophus Formation&quot;, &quot;elements&quot;: 2, &quot;labels&quot;: [&quot;Hand tophi&quot;, &quot;Foot tophi&quot;] },
+      { &quot;id&quot;: &quot;11&quot;, &quot;title&quot;: &quot;Beyond the Joint&quot;, &quot;elements&quot;: 2, &quot;labels&quot;: [&quot;Kidney stones&quot;, &quot;Systemic burden&quot;] }
+    ],
+    &quot;bottom_row&quot;: [
+      { &quot;id&quot;: &quot;12&quot;, &quot;title&quot;: &quot;Pain Is the Final Signal&quot;, &quot;elements&quot;: 7, &quot;labels&quot;: [&quot;Increased Purine&quot;, &quot;Overproduction&quot;, &quot;Reduced Excretion&quot;, &quot;Hyperuricemia&quot;, &quot;Crystal Formation&quot;, &quot;Immune Activation&quot;, &quot;Man in pain&quot;] }
+    ]
+  },
+  &quot;theme&quot;: &quot;{argument name=\&quot;disease focus\&quot; default=\&quot;gout and uric acid crystallization\&quot;}&quot;
+}
+</code></pre>
+<p><strong>Author:</strong> @hx831126 (<a href="https://x.com/hx831126">source</a>)</p>
+            </div>
+        </div>
+        
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        
+    </div>
+</section>
+
+<section class="detail-nav">
+    <div class="detail-container">
+        
+        <a href="../../prompts/" class="btn btn-secondary">← 返回提示词 <span class="nav-en">Back to Prompts</span></a>
+        
+        <a href="../../" class="btn btn-secondary">🏠 首页 <span class="nav-en">Home</span></a>
+    </div>
+</section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('en' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('en' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
+
+    </main>
+    
+    <footer class="footer">
+        <div class="footer-container">
+            <p>&copy; 2024 AI Prompt Hub | 精选AI提示词与Agent人格设定</p>
+            <p class="footer-en">AI Prompt Hub - Curated AI Prompts & Agent Personas</p>
+        </div>
+    </footer>
+    
+    <script src="../../js/main.js"></script>
+</body>
+</html>

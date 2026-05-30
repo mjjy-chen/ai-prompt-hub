@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>主题海报版式设计 - AI Prompt Hub</title>
+    <meta name="description" content="精选AI提示词与Agent人格设定">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../.././" class="nav-logo">AI Prompt Hub</a>
+            <div class="nav-links">
+                <a href="../../prompts/">提示词 <span class="nav-en">Prompts</span></a>
+                <a href="../../agents/">人格设定 <span class="nav-en">Agents</span></a>
+                <a href="#about">关于 <span class="nav-en">About</span></a>
+            </div>
+        </div>
+    </nav>
+    
+    <main>
+        
+<section class="detail-header">
+    <div class="detail-container">
+        <div class="detail-meta">
+            <span class="detail-category">文档/出版</span>
+            <span class="detail-hot">🔥 85</span>
+            
+            <span class="detail-verified">✅ 已验证</span>
+            
+            
+            <span class="detail-lang">🇺🇸 英文原文</span>
+            
+        </div>
+        <h1 class="detail-title">主题海报版式设计</h1>
+        
+        <p class="detail-desc">GPT Image 2.0 文档/出版风格提示词 - 主题海报版式设计</p>
+        
+        <p class="detail-desc-en">GPT Image 2.0 Documents & Publishing prompt - 主题海报版式设计</p>
+        
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            
+            <span class="source-badge">
+                📌 来源：awesome-gpt-image-2
+                
+                <a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank" rel="noopener noreferrer" class="source-link">查看原文 ↗</a>
+                
+            </span>
+            
+            
+            
+            
+            <span class="source-verified-type">🏅 community</span>
+            
+        </div>
+
+        <div class="detail-tags">
+            
+            
+        </div>
+        <div class="detail-models">
+            <span>支持模型 / Models:</span>
+            
+        </div>
+    </div>
+</section>
+
+<section class="detail-content">
+    <div class="detail-container">
+        <!-- 图片提示词效果展示 -->
+        
+        
+        <!-- 语言切换标签 -->
+        
+        <div class="lang-tabs">
+            <button class="lang-tab active" data-lang="original" onclick="switchLang('original')">
+                🇺🇸 英文原文
+            </button>
+            <button class="lang-tab" data-lang="translated" onclick="switchLang('translated')">
+                🇨🇳 中文翻译
+            </button>
+        </div>
+        
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" style="display:none">
+            <div class="content-header">
+                <h3>📋 中文翻译 <span class="content-en">Chinese Translation</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;">## English Prompt
+
+```
+{
+  "type": "anime movie production pitch document",
+  "overall_layout": "split layout with a large cinematic movie poster on the top half and a grid of 5 detailed reference sheets on the bottom half",
+  "top_section": {
+    "type": "movie poster",
+    "visual": "A man, a woman, and a dog standing on a ruined city street, facing away from the viewer, looking towards a colossal, porous, web-like alien structure dominating the sky. A rusty 'RESTRICTED AREA' sign is on the right.",
+    "typography": {
+      "title": "{argument name=\"movie title\" default=\"劇場版 巨骸の向こう側 Fallen Colossus\"}",
+      "release_date": "{argument name=\"release date\" default=\"2027.11.28 ROADSHOW\"}",
+      "tagline": "そこにあるのは、まだ「説明」されていないもの。",
+      "credits_studio": "{argument name=\"studio name\" default=\"WIT STUDIO\"}"
+    }
+  },
+  "bottom_sections": [
+    {
+      "title": "{argument name=\"male character name\" default=\"来栖 武 / Kurusu Takeru\"}",
+      "type": "character reference sheet",
+      "elements": {
+        "full_body_poses": 3,
+        "expressions": 3,
+        "detail_shots": 8,
+        "description": "Male protagonist in dark tactical jacket and cargo pants. Includes front, back, and side full-body views, headshots, and detailed callouts for gloves, boots, backpack, and radio."
+      }
+    },
+    {
+      "title": "{argument name=\"female character name\" default=\"大城 真那 / Oshiro Mana\"}",
+      "type": "character reference sheet",
+      "elements": {
+        "full_body_poses": 3,
+        "expressions": 3,
+        "detail_shots": 6,
+        "description": "Female protagonist in grey tactical uniform. Includes front, back, and side full-body views, headshots, and detailed callouts for jacket, boots, ID badge, and pouch."
+      }
+    },
+    {
+      "title": "カゲ (Kage) 設定画",
+      "type": "animal character reference sheet",
+      "elements": {
+        "full_body_poses": 4,
+        "expressions": 4,
+        "detail_shots": 5,
+        "description": "Dog companion. Includes side, front, back, and angled full-body views, headshots, and detailed callouts for fur texture, paws, and a motorcycle sidecar."
+      }
+    },
+    {
+      "title": "第7巨骸 (Remnant-7) 内部区画 設定画",
+      "type": "environment and vehicle reference sheet",
+      "elements": {
+        "large_diagrams": 1,
+        "environment_thumbnails": 4,
+        "vehicle_designs": 1,
+        "description": "Cross-section of the porous alien structure, smaller environment thumbnails, and a motorcycle design featuring the characters."
+      }
+    },
+    {
+      "title": "Concept Art",
+      "type": "scene illustration",
+      "elements": {
+        "characters": 3,
+        "vehicles": 1,
+        "description": "The male character, female character, and dog with a motorcycle sidecar parked in front of the glowing, porous alien structure."
+      }
+    }
+  ]
+}
+```
+
+**Author:** @old_pgmrs_will ([source](https://x.com/old_pgmrs_will))</div>
+                <h2>English Prompt</h2>
+<pre><code>{
+  &quot;type&quot;: &quot;anime movie production pitch document&quot;,
+  &quot;overall_layout&quot;: &quot;split layout with a large cinematic movie poster on the top half and a grid of 5 detailed reference sheets on the bottom half&quot;,
+  &quot;top_section&quot;: {
+    &quot;type&quot;: &quot;movie poster&quot;,
+    &quot;visual&quot;: &quot;A man, a woman, and a dog standing on a ruined city street, facing away from the viewer, looking towards a colossal, porous, web-like alien structure dominating the sky. A rusty 'RESTRICTED AREA' sign is on the right.&quot;,
+    &quot;typography&quot;: {
+      &quot;title&quot;: &quot;{argument name=\&quot;movie title\&quot; default=\&quot;劇場版 巨骸の向こう側 Fallen Colossus\&quot;}&quot;,
+      &quot;release_date&quot;: &quot;{argument name=\&quot;release date\&quot; default=\&quot;2027.11.28 ROADSHOW\&quot;}&quot;,
+      &quot;tagline&quot;: &quot;そこにあるのは、まだ「説明」されていないもの。&quot;,
+      &quot;credits_studio&quot;: &quot;{argument name=\&quot;studio name\&quot; default=\&quot;WIT STUDIO\&quot;}&quot;
+    }
+  },
+  &quot;bottom_sections&quot;: [
+    {
+      &quot;title&quot;: &quot;{argument name=\&quot;male character name\&quot; default=\&quot;来栖 武 / Kurusu Takeru\&quot;}&quot;,
+      &quot;type&quot;: &quot;character reference sheet&quot;,
+      &quot;elements&quot;: {
+        &quot;full_body_poses&quot;: 3,
+        &quot;expressions&quot;: 3,
+        &quot;detail_shots&quot;: 8,
+        &quot;description&quot;: &quot;Male protagonist in dark tactical jacket and cargo pants. Includes front, back, and side full-body views, headshots, and detailed callouts for gloves, boots, backpack, and radio.&quot;
+      }
+    },
+    {
+      &quot;title&quot;: &quot;{argument name=\&quot;female character name\&quot; default=\&quot;大城 真那 / Oshiro Mana\&quot;}&quot;,
+      &quot;type&quot;: &quot;character reference sheet&quot;,
+      &quot;elements&quot;: {
+        &quot;full_body_poses&quot;: 3,
+        &quot;expressions&quot;: 3,
+        &quot;detail_shots&quot;: 6,
+        &quot;description&quot;: &quot;Female protagonist in grey tactical uniform. Includes front, back, and side full-body views, headshots, and detailed callouts for jacket, boots, ID badge, and pouch.&quot;
+      }
+    },
+    {
+      &quot;title&quot;: &quot;カゲ (Kage) 設定画&quot;,
+      &quot;type&quot;: &quot;animal character reference sheet&quot;,
+      &quot;elements&quot;: {
+        &quot;full_body_poses&quot;: 4,
+        &quot;expressions&quot;: 4,
+        &quot;detail_shots&quot;: 5,
+        &quot;description&quot;: &quot;Dog companion. Includes side, front, back, and angled full-body views, headshots, and detailed callouts for fur texture, paws, and a motorcycle sidecar.&quot;
+      }
+    },
+    {
+      &quot;title&quot;: &quot;第7巨骸 (Remnant-7) 内部区画 設定画&quot;,
+      &quot;type&quot;: &quot;environment and vehicle reference sheet&quot;,
+      &quot;elements&quot;: {
+        &quot;large_diagrams&quot;: 1,
+        &quot;environment_thumbnails&quot;: 4,
+        &quot;vehicle_designs&quot;: 1,
+        &quot;description&quot;: &quot;Cross-section of the porous alien structure, smaller environment thumbnails, and a motorcycle design featuring the characters.&quot;
+      }
+    },
+    {
+      &quot;title&quot;: &quot;Concept Art&quot;,
+      &quot;type&quot;: &quot;scene illustration&quot;,
+      &quot;elements&quot;: {
+        &quot;characters&quot;: 3,
+        &quot;vehicles&quot;: 1,
+        &quot;description&quot;: &quot;The male character, female character, and dog with a motorcycle sidecar parked in front of the glowing, porous alien structure.&quot;
+      }
+    }
+  ]
+}
+</code></pre>
+<p><strong>Author:</strong> @old_pgmrs_will (<a href="https://x.com/old_pgmrs_will">source</a>)</p>
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        
+        <div class="content-card" id="content-en" >
+            <div class="content-header">
+                <h3>📋 English Version <span class="content-en">英文版</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-en">📋 Copy English <span class="copy-en">复制英文</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-en" style="display: none;">```
+{
+  "type": "anime movie production pitch document",
+  "overall_layout": "split layout with a large cinematic movie poster on the top half and a grid of 5 detailed reference sheets on the bottom half",
+  "top_section": {
+    "type": "movie poster",
+    "visual": "A man, a woman, and a dog standing on a ruined city street, facing away from the viewer, looking towards a colossal, porous, web-like alien structure dominating the sky. A rusty 'RESTRICTED AREA' sign is on the right.",
+    "typography": {
+      "title": "{argument name=\"movie title\" default=\"劇場版 巨骸の向こう側 Fallen Colossus\"}",
+      "release_date": "{argument name=\"release date\" default=\"2027.11.28 ROADSHOW\"}",
+      "tagline": "そこにあるのは、まだ「説明」されていないもの。",
+      "credits_studio": "{argument name=\"studio name\" default=\"WIT STUDIO\"}"
+    }
+  },
+  "bottom_sections": [
+    {
+      "title": "{argument name=\"male character name\" default=\"来栖 武 / Kurusu Takeru\"}",
+      "type": "character reference sheet",
+      "elements": {
+        "full_body_poses": 3,
+        "expressions": 3,
+        "detail_shots": 8,
+        "description": "Male protagonist in dark tactical jacket and cargo pants. Includes front, back, and side full-body views, headshots, and detailed callouts for gloves, boots, backpack, and radio."
+      }
+    },
+    {
+      "title": "{argument name=\"female character name\" default=\"大城 真那 / Oshiro Mana\"}",
+      "type": "character reference sheet",
+      "elements": {
+        "full_body_poses": 3,
+        "expressions": 3,
+        "detail_shots": 6,
+        "description": "Female protagonist in grey tactical uniform. Includes front, back, and side full-body views, headshots, and detailed callouts for jacket, boots, ID badge, and pouch."
+      }
+    },
+    {
+      "title": "カゲ (Kage) 設定画",
+      "type": "animal character reference sheet",
+      "elements": {
+        "full_body_poses": 4,
+        "expressions": 4,
+        "detail_shots": 5,
+        "description": "Dog companion. Includes side, front, back, and angled full-body views, headshots, and detailed callouts for fur texture, paws, and a motorcycle sidecar."
+      }
+    },
+    {
+      "title": "第7巨骸 (Remnant-7) 内部区画 設定画",
+      "type": "environment and vehicle reference sheet",
+      "elements": {
+        "large_diagrams": 1,
+        "environment_thumbnails": 4,
+        "vehicle_designs": 1,
+        "description": "Cross-section of the porous alien structure, smaller environment thumbnails, and a motorcycle design featuring the characters."
+      }
+    },
+    {
+      "title": "Concept Art",
+      "type": "scene illustration",
+      "elements": {
+        "characters": 3,
+        "vehicles": 1,
+        "description": "The male character, female character, and dog with a motorcycle sidecar parked in front of the glowing, porous alien structure."
+      }
+    }
+  ]
+}
+```
+
+**Author:** @old_pgmrs_will ([source](https://x.com/old_pgmrs_will))</div>
+                <pre><code>{
+  &quot;type&quot;: &quot;anime movie production pitch document&quot;,
+  &quot;overall_layout&quot;: &quot;split layout with a large cinematic movie poster on the top half and a grid of 5 detailed reference sheets on the bottom half&quot;,
+  &quot;top_section&quot;: {
+    &quot;type&quot;: &quot;movie poster&quot;,
+    &quot;visual&quot;: &quot;A man, a woman, and a dog standing on a ruined city street, facing away from the viewer, looking towards a colossal, porous, web-like alien structure dominating the sky. A rusty 'RESTRICTED AREA' sign is on the right.&quot;,
+    &quot;typography&quot;: {
+      &quot;title&quot;: &quot;{argument name=\&quot;movie title\&quot; default=\&quot;劇場版 巨骸の向こう側 Fallen Colossus\&quot;}&quot;,
+      &quot;release_date&quot;: &quot;{argument name=\&quot;release date\&quot; default=\&quot;2027.11.28 ROADSHOW\&quot;}&quot;,
+      &quot;tagline&quot;: &quot;そこにあるのは、まだ「説明」されていないもの。&quot;,
+      &quot;credits_studio&quot;: &quot;{argument name=\&quot;studio name\&quot; default=\&quot;WIT STUDIO\&quot;}&quot;
+    }
+  },
+  &quot;bottom_sections&quot;: [
+    {
+      &quot;title&quot;: &quot;{argument name=\&quot;male character name\&quot; default=\&quot;来栖 武 / Kurusu Takeru\&quot;}&quot;,
+      &quot;type&quot;: &quot;character reference sheet&quot;,
+      &quot;elements&quot;: {
+        &quot;full_body_poses&quot;: 3,
+        &quot;expressions&quot;: 3,
+        &quot;detail_shots&quot;: 8,
+        &quot;description&quot;: &quot;Male protagonist in dark tactical jacket and cargo pants. Includes front, back, and side full-body views, headshots, and detailed callouts for gloves, boots, backpack, and radio.&quot;
+      }
+    },
+    {
+      &quot;title&quot;: &quot;{argument name=\&quot;female character name\&quot; default=\&quot;大城 真那 / Oshiro Mana\&quot;}&quot;,
+      &quot;type&quot;: &quot;character reference sheet&quot;,
+      &quot;elements&quot;: {
+        &quot;full_body_poses&quot;: 3,
+        &quot;expressions&quot;: 3,
+        &quot;detail_shots&quot;: 6,
+        &quot;description&quot;: &quot;Female protagonist in grey tactical uniform. Includes front, back, and side full-body views, headshots, and detailed callouts for jacket, boots, ID badge, and pouch.&quot;
+      }
+    },
+    {
+      &quot;title&quot;: &quot;カゲ (Kage) 設定画&quot;,
+      &quot;type&quot;: &quot;animal character reference sheet&quot;,
+      &quot;elements&quot;: {
+        &quot;full_body_poses&quot;: 4,
+        &quot;expressions&quot;: 4,
+        &quot;detail_shots&quot;: 5,
+        &quot;description&quot;: &quot;Dog companion. Includes side, front, back, and angled full-body views, headshots, and detailed callouts for fur texture, paws, and a motorcycle sidecar.&quot;
+      }
+    },
+    {
+      &quot;title&quot;: &quot;第7巨骸 (Remnant-7) 内部区画 設定画&quot;,
+      &quot;type&quot;: &quot;environment and vehicle reference sheet&quot;,
+      &quot;elements&quot;: {
+        &quot;large_diagrams&quot;: 1,
+        &quot;environment_thumbnails&quot;: 4,
+        &quot;vehicle_designs&quot;: 1,
+        &quot;description&quot;: &quot;Cross-section of the porous alien structure, smaller environment thumbnails, and a motorcycle design featuring the characters.&quot;
+      }
+    },
+    {
+      &quot;title&quot;: &quot;Concept Art&quot;,
+      &quot;type&quot;: &quot;scene illustration&quot;,
+      &quot;elements&quot;: {
+        &quot;characters&quot;: 3,
+        &quot;vehicles&quot;: 1,
+        &quot;description&quot;: &quot;The male character, female character, and dog with a motorcycle sidecar parked in front of the glowing, porous alien structure.&quot;
+      }
+    }
+  ]
+}
+</code></pre>
+<p><strong>Author:</strong> @old_pgmrs_will (<a href="https://x.com/old_pgmrs_will">source</a>)</p>
+            </div>
+        </div>
+        
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        
+    </div>
+</section>
+
+<section class="detail-nav">
+    <div class="detail-container">
+        
+        <a href="../../prompts/" class="btn btn-secondary">← 返回提示词 <span class="nav-en">Back to Prompts</span></a>
+        
+        <a href="../../" class="btn btn-secondary">🏠 首页 <span class="nav-en">Home</span></a>
+    </div>
+</section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('en' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('en' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
+
+    </main>
+    
+    <footer class="footer">
+        <div class="footer-container">
+            <p>&copy; 2024 AI Prompt Hub | 精选AI提示词与Agent人格设定</p>
+            <p class="footer-en">AI Prompt Hub - Curated AI Prompts & Agent Personas</p>
+        </div>
+    </footer>
+    
+    <script src="../../js/main.js"></script>
+</body>
+</html>

@@ -187,17 +187,20 @@ def generate_site():
     
     for item in prompts + agents:
         # 渲染中文内容
-        content_zh = md.convert(item.get("body_zh", item.get("body", "")))
+        body_zh = item.get("body_zh", item.get("body", "")) or ""
+        content_zh = md.convert(body_zh)
         md.reset()
         
         # 渲染英文内容
         content_en = None
-        if item.get("body_en"):
-            content_en = md.convert(item["body_en"])
+        body_en = item.get("body_en") or ""
+        if body_en:
+            content_en = md.convert(body_en)
             md.reset()
         
         # 通用content（兼容旧模板）
-        content = md.convert(item.get("body", ""))
+        body = item.get("body", "") or ""
+        content = md.convert(body)
         md.reset()
         
         html = template.render(

@@ -1,0 +1,36 @@
+---
+title: "高雄水彩拼贴旅行海报"
+title_en: ""
+description: "GPT Image 2.0 海报/排版风格提示词 - 高雄水彩拼贴旅行海报"
+description_en: "GPT Image 2.0 Posters & Typography prompt - 高雄水彩拼贴旅行海报"
+category: "海报/排版"
+tags: []
+type: IMAGE
+source: "awesome-gpt-image-2"
+source_url: "https://github.com/freestylefly/awesome-gpt-image-2"
+language: "en"
+verified: true
+verified_type: "community"
+hot_score: 87
+image_url: "https://gh-proxy.com/https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case464.jpg"
+---
+
+## English Prompt
+
+```
+Watercolor and collage travel poster for Kaohsiung, Taiwan, vertical layout, soft pastel and warm golden hour color palette.
+
+Scene: Waterfront promenade at sunset with a modern light rail tram on the right, a person walking a bicycle on the left, and people strolling along the path. In the background: Kaohsiung skyline with the 85 Sky Tower and other skyscrapers, a harbor with a ferry boat, port cranes, and the Pier-2 Art Center building with murals. Seagulls flying in the sky, trees lining the walkway, calm water reflecting the light.
+
+Design elements:
+- Large text top left: 'KAO HSIUNG 2026', smaller text below 'Sea Breeze Slow Light Southern City'
+- Top right: Vertical Chinese characters, 'KAOHSIUNG TAIWAN' in small caps below
+- Bottom left: Coordinates '22.6273° N 120.3014° E', 'KAOHSIUNG TAIWAN', wave icon
+- Bottom center: Handwritten script 'Kaohsiung'
+- Bottom right: Vertical list 'Harbor Art Light Rail People Slow Life', vertical Chinese text
+- Overlay effects: Semi-transparent geometric shapes, watercolor splashes, and texture layers in teal and beige
+
+Style: Modern travel poster meets watercolor painting, airy and atmospheric, blend of illustration and photo-collage, warm and tranquil mood, high detail.
+```
+
+**Author:** @SimplyAnnisa ([source](https://x.com/SimplyAnnisa/status/2058372965641662876))

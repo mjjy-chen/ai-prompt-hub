@@ -1,0 +1,34 @@
+---
+title: "晨曦薰衣草田梦幻少女三联画"
+title_en: ""
+description: "GPT Image 2.0 摄影/写实风格提示词 - 晨曦薰衣草田梦幻少女三联画"
+description_en: "GPT Image 2.0 Photography & Realism prompt - 晨曦薰衣草田梦幻少女三联画"
+category: "摄影/写实"
+tags: []
+type: IMAGE
+source: "awesome-gpt-image-2"
+source_url: "https://github.com/freestylefly/awesome-gpt-image-2"
+language: "en"
+verified: true
+verified_type: "community"
+hot_score: 132
+image_url: "https://gh-proxy.com/https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case311.jpg"
+---
+
+## English Prompt
+
+```
+[中文]
+日出时分薰衣草田中女子的水平三联画。
+上部：半身像，闭着眼睛，淡紫色连衣裙，一只手放在头发里，模糊的薰衣草前景。
+中部：特写镜头，看着镜头，蓬乱的头发，薄纱围巾，脸上的阳光。
+下部：四分之三镜头，手持薰衣草花束，飘逸的裙子，柔和的粉彩天空，温暖的梦幻色调。
+
+[English]
+Horizontal triptych of a woman in a lavender field at sunrise.
+Top: Waist-up, eyes closed, pale lilac dress, one hand in hair, blurred lavender foreground.
+Middle: Close-up, looking at camera, tousled hair, sheer scarf, sunlight on face.
+Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel sky, warm dreamy tones.
+```
+
+**Author:** @Naiknelofar788 ([source](https://x.com/Naiknelofar788/status/2028417667846341062))

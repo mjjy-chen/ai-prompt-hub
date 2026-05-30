@@ -1,0 +1,62 @@
+---
+title: "界面交互设计图"
+title_en: ""
+description: "GPT Image 2.0 UI/界面风格提示词 - 界面交互设计图"
+description_en: "GPT Image 2.0 UI & Interfaces prompt - 界面交互设计图"
+category: "UI/界面"
+tags: []
+type: IMAGE
+source: "awesome-gpt-image-2"
+source_url: "https://github.com/freestylefly/awesome-gpt-image-2"
+language: "en"
+verified: true
+verified_type: "community"
+hot_score: 101
+image_url: "https://gh-proxy.com/https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/main/data/images/case57.jpg"
+---
+
+## English Prompt
+
+```
+{
+  "type": "mobile social media app UI mockup",
+  "platform": "Twitter/X dark mode",
+  "header": {
+    "status_bar": "time 19:28, bird icon, signal, wifi, battery",
+    "navigation": "back arrow, 'Tweet' title"
+  },
+  "post": {
+    "author": {
+      "avatar": "portrait of a Chinese emperor in red robes and black hat",
+      "display_name": "{argument name=\"display name\" default=\"Emperor Zhu Yuanzhang\"} 👑 [verified badge]",
+      "handle": "{argument name=\"handle\" default=\"@Emperor_Ming\"}"
+    },
+    "content": {
+      "text": "{argument name=\"tweet text\" default=\"I have ascended to the Dragon Throne! Today, I am proclaimed as the Emperor of the Ming Dynasty. The era of Hongwu has begun. Let us rebuild our great nation together!\"}",
+      "hashtags": "#MingDynasty #HongwuEra #NewBeginning",
+      "media_grid": {
+        "count": 3,
+        "images": [
+          "emperor seated on an ornate golden throne in red and gold robes",
+          "wide shot of a grand Chinese palace courtyard with a large crowd",
+          "emperor on horseback leading an army with a red dragon banner"
+        ]
+      }
+    },
+    "metadata": {
+      "timestamp": "{argument name=\"timestamp\" default=\"1:36 PM · Jan 23, 1368\"}",
+      "engagement": "5,432 Retweets, 8,765 Quotes, 20.1K Likes, 102.3K Views"
+    },
+    "actions": "reply, retweet, like (red heart with '1'), share, upload"
+  },
+  "footer": {
+    "reply_bar": {
+      "avatar": "woman in red",
+      "placeholder": "Reply to Emperor Zhu Yuanzhang..."
+    },
+    "navigation_bar": "home, search, notifications (red '1' badge), messages"
+  }
+}
+```
+
+**Author:** @liyue_ai ([source](https://x.com/liyue_ai))

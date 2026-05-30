@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>界面交互设计图 - AI Prompt Hub</title>
+    <meta name="description" content="精选AI提示词与Agent人格设定">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="../.././" class="nav-logo">AI Prompt Hub</a>
+            <div class="nav-links">
+                <a href="../../prompts/">提示词 <span class="nav-en">Prompts</span></a>
+                <a href="../../agents/">人格设定 <span class="nav-en">Agents</span></a>
+                <a href="#about">关于 <span class="nav-en">About</span></a>
+            </div>
+        </div>
+    </nav>
+    
+    <main>
+        
+<section class="detail-header">
+    <div class="detail-container">
+        <div class="detail-meta">
+            <span class="detail-category">产品/电商</span>
+            <span class="detail-hot">🔥 113</span>
+            
+            <span class="detail-verified">✅ 已验证</span>
+            
+            
+            <span class="detail-lang">🇺🇸 英文原文</span>
+            
+        </div>
+        <h1 class="detail-title">界面交互设计图</h1>
+        
+        <p class="detail-desc">GPT Image 2.0 产品/电商风格提示词 - 界面交互设计图</p>
+        
+        <p class="detail-desc-en">GPT Image 2.0 Products & E-commerce prompt - 界面交互设计图</p>
+        
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            
+            <span class="source-badge">
+                📌 来源：awesome-gpt-image-2
+                
+                <a href="https://github.com/freestylefly/awesome-gpt-image-2" target="_blank" rel="noopener noreferrer" class="source-link">查看原文 ↗</a>
+                
+            </span>
+            
+            
+            
+            
+            <span class="source-verified-type">🏅 community</span>
+            
+        </div>
+
+        <div class="detail-tags">
+            
+            
+        </div>
+        <div class="detail-models">
+            <span>支持模型 / Models:</span>
+            
+        </div>
+    </div>
+</section>
+
+<section class="detail-content">
+    <div class="detail-container">
+        <!-- 图片提示词效果展示 -->
+        
+        
+        <!-- 语言切换标签 -->
+        
+        <div class="lang-tabs">
+            <button class="lang-tab active" data-lang="original" onclick="switchLang('original')">
+                🇺🇸 英文原文
+            </button>
+            <button class="lang-tab" data-lang="translated" onclick="switchLang('translated')">
+                🇨🇳 中文翻译
+            </button>
+        </div>
+        
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" style="display:none">
+            <div class="content-header">
+                <h3>📋 中文翻译 <span class="content-en">Chinese Translation</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;">## English Prompt
+
+```
+{
+  "type": "2x2 advertising banner grid",
+  "layout": "4 distinct quadrants, each featuring a different industry advertisement",
+  "quadrants": [
+    {
+      "position": "top-left",
+      "industry": "skincare",
+      "visuals": "Asian woman touching cheek, floating water droplets, white pump bottle",
+      "brand": "BALANCÉE",
+      "copy": {
+        "headline": "{argument name=\"skincare headline\" default=\"素肌が、目覚める。\"}",
+        "subheadline": "透明感あふれる、新しいわたしへ。",
+        "features_count": 3,
+        "features_labels": ["高保湿", "肌荒れ予防", "美白ケア*"]
+      }
+    },
+    {
+      "position": "top-right",
+      "industry": "restaurant food",
+      "visuals": "close-up of spaghetti bolognese with grated cheese and parsley, dark moody lighting",
+      "brand": "Trattoria Luce",
+      "copy": {
+        "headline": "{argument name=\"food headline\" default=\"このパスタ、事件級。\"}",
+        "badge": "期間限定",
+        "description": "黒毛和牛のボロネーゼ 〜トリュフの香り〜"
+      }
+    },
+    {
+      "position": "bottom-left",
+      "industry": "travel",
+      "visuals": "woman with backpack facing a scenic mountain lake, bright daylight",
+      "brand": "NATURE JOURNEY",
+      "copy": {
+        "headline": "{argument name=\"travel headline\" default=\"わたしを、解き放つ旅へ。\"}",
+        "subheadline": "自然の中で、心が動き出す。",
+        "script": "Find your freedom.",
+        "banner_details": ["初夏の特別キャンペーン", "6.1 SAT - 6.30 SUN", "最大 20%OFF", "今だけの特別プラン多数！"]
+      }
+    },
+    {
+      "position": "bottom-right",
+      "industry": "SaaS app",
+      "visuals": "smartphone displaying a task management app interface with 4 schedule items",
+      "brand": "{argument name=\"app brand name\" default=\"Taskme\"}",
+      "copy": {
+        "headline": "{argument name=\"app headline\" default=\"タスク管理を、もっとシンプルに、スマートに。\"}",
+        "circle_badge": "1日を、デザインしよう。",
+        "features_count": 3,
+        "features_labels": ["直感的な操作性", "チームで共有可能", "どこでもアクセス"],
+        "bottom_banner": "7日間無料トライアル実施中！"
+      }
+    }
+  ]
+}
+```
+
+**Author:** @kitune_fire45 ([source](https://x.com/kitune_fire45))</div>
+                <h2>English Prompt</h2>
+<pre><code>{
+  &quot;type&quot;: &quot;2x2 advertising banner grid&quot;,
+  &quot;layout&quot;: &quot;4 distinct quadrants, each featuring a different industry advertisement&quot;,
+  &quot;quadrants&quot;: [
+    {
+      &quot;position&quot;: &quot;top-left&quot;,
+      &quot;industry&quot;: &quot;skincare&quot;,
+      &quot;visuals&quot;: &quot;Asian woman touching cheek, floating water droplets, white pump bottle&quot;,
+      &quot;brand&quot;: &quot;BALANCÉE&quot;,
+      &quot;copy&quot;: {
+        &quot;headline&quot;: &quot;{argument name=\&quot;skincare headline\&quot; default=\&quot;素肌が、目覚める。\&quot;}&quot;,
+        &quot;subheadline&quot;: &quot;透明感あふれる、新しいわたしへ。&quot;,
+        &quot;features_count&quot;: 3,
+        &quot;features_labels&quot;: [&quot;高保湿&quot;, &quot;肌荒れ予防&quot;, &quot;美白ケア*&quot;]
+      }
+    },
+    {
+      &quot;position&quot;: &quot;top-right&quot;,
+      &quot;industry&quot;: &quot;restaurant food&quot;,
+      &quot;visuals&quot;: &quot;close-up of spaghetti bolognese with grated cheese and parsley, dark moody lighting&quot;,
+      &quot;brand&quot;: &quot;Trattoria Luce&quot;,
+      &quot;copy&quot;: {
+        &quot;headline&quot;: &quot;{argument name=\&quot;food headline\&quot; default=\&quot;このパスタ、事件級。\&quot;}&quot;,
+        &quot;badge&quot;: &quot;期間限定&quot;,
+        &quot;description&quot;: &quot;黒毛和牛のボロネーゼ 〜トリュフの香り〜&quot;
+      }
+    },
+    {
+      &quot;position&quot;: &quot;bottom-left&quot;,
+      &quot;industry&quot;: &quot;travel&quot;,
+      &quot;visuals&quot;: &quot;woman with backpack facing a scenic mountain lake, bright daylight&quot;,
+      &quot;brand&quot;: &quot;NATURE JOURNEY&quot;,
+      &quot;copy&quot;: {
+        &quot;headline&quot;: &quot;{argument name=\&quot;travel headline\&quot; default=\&quot;わたしを、解き放つ旅へ。\&quot;}&quot;,
+        &quot;subheadline&quot;: &quot;自然の中で、心が動き出す。&quot;,
+        &quot;script&quot;: &quot;Find your freedom.&quot;,
+        &quot;banner_details&quot;: [&quot;初夏の特別キャンペーン&quot;, &quot;6.1 SAT - 6.30 SUN&quot;, &quot;最大 20%OFF&quot;, &quot;今だけの特別プラン多数！&quot;]
+      }
+    },
+    {
+      &quot;position&quot;: &quot;bottom-right&quot;,
+      &quot;industry&quot;: &quot;SaaS app&quot;,
+      &quot;visuals&quot;: &quot;smartphone displaying a task management app interface with 4 schedule items&quot;,
+      &quot;brand&quot;: &quot;{argument name=\&quot;app brand name\&quot; default=\&quot;Taskme\&quot;}&quot;,
+      &quot;copy&quot;: {
+        &quot;headline&quot;: &quot;{argument name=\&quot;app headline\&quot; default=\&quot;タスク管理を、もっとシンプルに、スマートに。\&quot;}&quot;,
+        &quot;circle_badge&quot;: &quot;1日を、デザインしよう。&quot;,
+        &quot;features_count&quot;: 3,
+        &quot;features_labels&quot;: [&quot;直感的な操作性&quot;, &quot;チームで共有可能&quot;, &quot;どこでもアクセス&quot;],
+        &quot;bottom_banner&quot;: &quot;7日間無料トライアル実施中！&quot;
+      }
+    }
+  ]
+}
+</code></pre>
+<p><strong>Author:</strong> @kitune_fire45 (<a href="https://x.com/kitune_fire45">source</a>)</p>
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        
+        <div class="content-card" id="content-en" >
+            <div class="content-header">
+                <h3>📋 English Version <span class="content-en">英文版</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-en">📋 Copy English <span class="copy-en">复制英文</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-en" style="display: none;">```
+{
+  "type": "2x2 advertising banner grid",
+  "layout": "4 distinct quadrants, each featuring a different industry advertisement",
+  "quadrants": [
+    {
+      "position": "top-left",
+      "industry": "skincare",
+      "visuals": "Asian woman touching cheek, floating water droplets, white pump bottle",
+      "brand": "BALANCÉE",
+      "copy": {
+        "headline": "{argument name=\"skincare headline\" default=\"素肌が、目覚める。\"}",
+        "subheadline": "透明感あふれる、新しいわたしへ。",
+        "features_count": 3,
+        "features_labels": ["高保湿", "肌荒れ予防", "美白ケア*"]
+      }
+    },
+    {
+      "position": "top-right",
+      "industry": "restaurant food",
+      "visuals": "close-up of spaghetti bolognese with grated cheese and parsley, dark moody lighting",
+      "brand": "Trattoria Luce",
+      "copy": {
+        "headline": "{argument name=\"food headline\" default=\"このパスタ、事件級。\"}",
+        "badge": "期間限定",
+        "description": "黒毛和牛のボロネーゼ 〜トリュフの香り〜"
+      }
+    },
+    {
+      "position": "bottom-left",
+      "industry": "travel",
+      "visuals": "woman with backpack facing a scenic mountain lake, bright daylight",
+      "brand": "NATURE JOURNEY",
+      "copy": {
+        "headline": "{argument name=\"travel headline\" default=\"わたしを、解き放つ旅へ。\"}",
+        "subheadline": "自然の中で、心が動き出す。",
+        "script": "Find your freedom.",
+        "banner_details": ["初夏の特別キャンペーン", "6.1 SAT - 6.30 SUN", "最大 20%OFF", "今だけの特別プラン多数！"]
+      }
+    },
+    {
+      "position": "bottom-right",
+      "industry": "SaaS app",
+      "visuals": "smartphone displaying a task management app interface with 4 schedule items",
+      "brand": "{argument name=\"app brand name\" default=\"Taskme\"}",
+      "copy": {
+        "headline": "{argument name=\"app headline\" default=\"タスク管理を、もっとシンプルに、スマートに。\"}",
+        "circle_badge": "1日を、デザインしよう。",
+        "features_count": 3,
+        "features_labels": ["直感的な操作性", "チームで共有可能", "どこでもアクセス"],
+        "bottom_banner": "7日間無料トライアル実施中！"
+      }
+    }
+  ]
+}
+```
+
+**Author:** @kitune_fire45 ([source](https://x.com/kitune_fire45))</div>
+                <pre><code>{
+  &quot;type&quot;: &quot;2x2 advertising banner grid&quot;,
+  &quot;layout&quot;: &quot;4 distinct quadrants, each featuring a different industry advertisement&quot;,
+  &quot;quadrants&quot;: [
+    {
+      &quot;position&quot;: &quot;top-left&quot;,
+      &quot;industry&quot;: &quot;skincare&quot;,
+      &quot;visuals&quot;: &quot;Asian woman touching cheek, floating water droplets, white pump bottle&quot;,
+      &quot;brand&quot;: &quot;BALANCÉE&quot;,
+      &quot;copy&quot;: {
+        &quot;headline&quot;: &quot;{argument name=\&quot;skincare headline\&quot; default=\&quot;素肌が、目覚める。\&quot;}&quot;,
+        &quot;subheadline&quot;: &quot;透明感あふれる、新しいわたしへ。&quot;,
+        &quot;features_count&quot;: 3,
+        &quot;features_labels&quot;: [&quot;高保湿&quot;, &quot;肌荒れ予防&quot;, &quot;美白ケア*&quot;]
+      }
+    },
+    {
+      &quot;position&quot;: &quot;top-right&quot;,
+      &quot;industry&quot;: &quot;restaurant food&quot;,
+      &quot;visuals&quot;: &quot;close-up of spaghetti bolognese with grated cheese and parsley, dark moody lighting&quot;,
+      &quot;brand&quot;: &quot;Trattoria Luce&quot;,
+      &quot;copy&quot;: {
+        &quot;headline&quot;: &quot;{argument name=\&quot;food headline\&quot; default=\&quot;このパスタ、事件級。\&quot;}&quot;,
+        &quot;badge&quot;: &quot;期間限定&quot;,
+        &quot;description&quot;: &quot;黒毛和牛のボロネーゼ 〜トリュフの香り〜&quot;
+      }
+    },
+    {
+      &quot;position&quot;: &quot;bottom-left&quot;,
+      &quot;industry&quot;: &quot;travel&quot;,
+      &quot;visuals&quot;: &quot;woman with backpack facing a scenic mountain lake, bright daylight&quot;,
+      &quot;brand&quot;: &quot;NATURE JOURNEY&quot;,
+      &quot;copy&quot;: {
+        &quot;headline&quot;: &quot;{argument name=\&quot;travel headline\&quot; default=\&quot;わたしを、解き放つ旅へ。\&quot;}&quot;,
+        &quot;subheadline&quot;: &quot;自然の中で、心が動き出す。&quot;,
+        &quot;script&quot;: &quot;Find your freedom.&quot;,
+        &quot;banner_details&quot;: [&quot;初夏の特別キャンペーン&quot;, &quot;6.1 SAT - 6.30 SUN&quot;, &quot;最大 20%OFF&quot;, &quot;今だけの特別プラン多数！&quot;]
+      }
+    },
+    {
+      &quot;position&quot;: &quot;bottom-right&quot;,
+      &quot;industry&quot;: &quot;SaaS app&quot;,
+      &quot;visuals&quot;: &quot;smartphone displaying a task management app interface with 4 schedule items&quot;,
+      &quot;brand&quot;: &quot;{argument name=\&quot;app brand name\&quot; default=\&quot;Taskme\&quot;}&quot;,
+      &quot;copy&quot;: {
+        &quot;headline&quot;: &quot;{argument name=\&quot;app headline\&quot; default=\&quot;タスク管理を、もっとシンプルに、スマートに。\&quot;}&quot;,
+        &quot;circle_badge&quot;: &quot;1日を、デザインしよう。&quot;,
+        &quot;features_count&quot;: 3,
+        &quot;features_labels&quot;: [&quot;直感的な操作性&quot;, &quot;チームで共有可能&quot;, &quot;どこでもアクセス&quot;],
+        &quot;bottom_banner&quot;: &quot;7日間無料トライアル実施中！&quot;
+      }
+    }
+  ]
+}
+</code></pre>
+<p><strong>Author:</strong> @kitune_fire45 (<a href="https://x.com/kitune_fire45">source</a>)</p>
+            </div>
+        </div>
+        
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        
+    </div>
+</section>
+
+<section class="detail-nav">
+    <div class="detail-container">
+        
+        <a href="../../prompts/" class="btn btn-secondary">← 返回提示词 <span class="nav-en">Back to Prompts</span></a>
+        
+        <a href="../../" class="btn btn-secondary">🏠 首页 <span class="nav-en">Home</span></a>
+    </div>
+</section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('en' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('en' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
+
+    </main>
+    
+    <footer class="footer">
+        <div class="footer-container">
+            <p>&copy; 2024 AI Prompt Hub | 精选AI提示词与Agent人格设定</p>
+            <p class="footer-en">AI Prompt Hub - Curated AI Prompts & Agent Personas</p>
+        </div>
+    </footer>
+    
+    <script src="../../js/main.js"></script>
+</body>
+</html>
