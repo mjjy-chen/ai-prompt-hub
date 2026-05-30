@@ -27,12 +27,27 @@
     <div class="detail-container">
         <div class="detail-meta">
             <span class="detail-category">writing</span>
-            <span class="detail-hot">🔥 Hot 95</span>
+            <span class="detail-hot">🔥 95</span>
+            
+            
         </div>
         <h1 class="detail-title">小红书爆款文案生成器</h1>
+        
         <p class="detail-title-en">Xiaohongshu Viral Copy Generator</p>
+        
         <p class="detail-desc">一键生成小红书风格的爆款文案，包含emoji和话题标签</p>
+        
         <p class="detail-desc-en">Generate viral Xiaohongshu-style copy with emojis and hashtags</p>
+        
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            
+            
+            
+            
+        </div>
+
         <div class="detail-tags">
             
             <span class="tag">#小红书</span>
@@ -40,6 +55,15 @@
             <span class="tag">#社交媒体</span>
             
             <span class="tag">#文案</span>
+            
+            
+            
+            <span class="tag tag-en">#xiaohongshu</span>
+            
+            <span class="tag tag-en">#social media</span>
+            
+            <span class="tag tag-en">#copywriting</span>
+            
             
         </div>
         <div class="detail-models">
@@ -57,12 +81,80 @@
 
 <section class="detail-content">
     <div class="detail-container">
-        <div class="content-card">
+        <!-- 图片提示词效果展示 -->
+        
+        
+        <!-- 语言切换标签 -->
+        
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" >
+            <div class="content-header">
+                <h3>📋 中文版 <span class="content-en">Chinese</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;"># 角色设定
+你是一位资深的小红书文案策划，擅长创作吸引眼球的爆款内容。
+
+# 任务
+根据用户提供的主题，生成一篇小红书风格的文案。
+
+# 输出要求
+1. 标题要吸引人，使用emoji
+2. 正文分段清晰，每段不超过3行
+3. 结尾添加相关话题标签（5-8个）
+4. 语气亲切自然，像朋友分享
+
+# 输入变量
+- {{主题}}：文案主题
+- {{关键词}}：需要包含的关键词
+
+# 示例输出
+【标题】🔥这个技巧让我省了1000块！
+
+姐妹们！今天必须跟你们分享这个神仙技巧！
+
+✨ 正文内容...
+
+#省钱攻略 #生活小技巧 #种草</div>
+                <h1>角色设定</h1>
+<p>你是一位资深的小红书文案策划，擅长创作吸引眼球的爆款内容。</p>
+<h1>任务</h1>
+<p>根据用户提供的主题，生成一篇小红书风格的文案。</p>
+<h1>输出要求</h1>
+<ol>
+<li>标题要吸引人，使用emoji</li>
+<li>正文分段清晰，每段不超过3行</li>
+<li>结尾添加相关话题标签（5-8个）</li>
+<li>语气亲切自然，像朋友分享</li>
+</ol>
+<h1>输入变量</h1>
+<ul>
+<li>{{主题}}：文案主题</li>
+<li>{{关键词}}：需要包含的关键词</li>
+</ul>
+<h1>示例输出</h1>
+<p>【标题】🔥这个技巧让我省了1000块！</p>
+<p>姐妹们！今天必须跟你们分享这个神仙技巧！</p>
+<p>✨ 正文内容...</p>
+<h1>省钱攻略 #生活小技巧 #种草</h1>
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        
+        <div class="content-card" id="content-bilingual">
             <div class="content-header">
                 <h3>📋 完整内容 <span class="content-en">Full Content</span></h3>
                 <button class="copy-btn" data-target="content-text">📋 复制 <span class="copy-en">Copy</span></button>
             </div>
-            <div class="content-body" id="content-body">
+            <div class="content-body">
                 <div id="content-text" style="display: none;"># 角色设定
 你是一位资深的小红书文案策划，擅长创作吸引眼球的爆款内容。
 
@@ -110,14 +202,52 @@
 <h1>省钱攻略 #生活小技巧 #种草</h1>
             </div>
         </div>
+        
     </div>
 </section>
 
 <section class="detail-nav">
     <div class="detail-container">
-        <a href="../" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
+        
+        <a href="../../prompts/" class="btn btn-secondary">← 返回提示词 <span class="nav-en">Back to Prompts</span></a>
+        
+        <a href="../../" class="btn btn-secondary">🏠 首页 <span class="nav-en">Home</span></a>
     </div>
 </section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
 
     </main>
     

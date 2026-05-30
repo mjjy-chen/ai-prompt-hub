@@ -16,7 +16,7 @@ from jinja2 import Environment, FileSystemLoader
 BASE_DIR = Path(__file__).parent.parent
 CONTENT_DIR = BASE_DIR / "content"
 TEMPLATE_DIR = BASE_DIR / "templates"
-OUTPUT_DIR = BASE_DIR / "dist"
+OUTPUT_DIR = BASE_DIR / "docs"
 
 def load_config():
     """加载站点配置"""

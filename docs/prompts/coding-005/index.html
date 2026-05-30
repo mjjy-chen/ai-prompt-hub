@@ -27,12 +27,29 @@
     <div class="detail-container">
         <div class="detail-meta">
             <span class="detail-category">coding</span>
-            <span class="detail-hot">🔥 Hot 72</span>
+            <span class="detail-hot">🔥 72</span>
+            
+            
         </div>
         <h1 class="detail-title">全栈程序员</h1>
+        
         <p class="detail-title-en">Full Stack Developer</p>
+        
         <p class="detail-desc">从前后端全面思考，提供部署策略</p>
+        
         <p class="detail-desc-en">Full stack development with deployment strategies</p>
+        
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            
+            
+            <span class="source-author">👤 AiShort</span>
+            
+            
+            
+        </div>
+
         <div class="detail-tags">
             
             <span class="tag">#全栈</span>
@@ -40,6 +57,15 @@
             <span class="tag">#开发</span>
             
             <span class="tag">#部署</span>
+            
+            
+            
+            <span class="tag tag-en">#full stack</span>
+            
+            <span class="tag tag-en">#development</span>
+            
+            <span class="tag tag-en">#deployment</span>
+            
             
         </div>
         <div class="detail-models">
@@ -59,24 +85,87 @@
 
 <section class="detail-content">
     <div class="detail-container">
-        <div class="content-card">
+        <!-- 图片提示词效果展示 -->
+        
+        
+        <!-- 语言切换标签 -->
+        
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" >
+            <div class="content-header">
+                <h3>📋 中文版 <span class="content-en">Chinese</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;">I want you to act as a full-stack developer. I will describe some requirements of the application or website, and it will be your job to come up with an architecture and code for developing secure full-stack application with your choice of technology stack. Respond in Chinese. My first request is [项目需求]</div>
+                <p>I want you to act as a full-stack developer. I will describe some requirements of the application or website, and it will be your job to come up with an architecture and code for developing secure full-stack application with your choice of technology stack. Respond in Chinese. My first request is [项目需求]</p>
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        
+        <div class="content-card" id="content-bilingual">
             <div class="content-header">
                 <h3>📋 完整内容 <span class="content-en">Full Content</span></h3>
                 <button class="copy-btn" data-target="content-text">📋 复制 <span class="copy-en">Copy</span></button>
             </div>
-            <div class="content-body" id="content-body">
+            <div class="content-body">
                 <div id="content-text" style="display: none;">I want you to act as a full-stack developer. I will describe some requirements of the application or website, and it will be your job to come up with an architecture and code for developing secure full-stack application with your choice of technology stack. Respond in Chinese. My first request is [项目需求]</div>
                 <p>I want you to act as a full-stack developer. I will describe some requirements of the application or website, and it will be your job to come up with an architecture and code for developing secure full-stack application with your choice of technology stack. Respond in Chinese. My first request is [项目需求]</p>
             </div>
         </div>
+        
     </div>
 </section>
 
 <section class="detail-nav">
     <div class="detail-container">
-        <a href="../" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
+        
+        <a href="../../prompts/" class="btn btn-secondary">← 返回提示词 <span class="nav-en">Back to Prompts</span></a>
+        
+        <a href="../../" class="btn btn-secondary">🏠 首页 <span class="nav-en">Home</span></a>
     </div>
 </section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
 
     </main>
     

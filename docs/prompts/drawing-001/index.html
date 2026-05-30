@@ -27,12 +27,27 @@
     <div class="detail-container">
         <div class="detail-meta">
             <span class="detail-category">drawing</span>
-            <span class="detail-hot">🔥 Hot 92</span>
+            <span class="detail-hot">🔥 92</span>
+            
+            
         </div>
         <h1 class="detail-title">Midjourney提示词生成器</h1>
+        
         <p class="detail-title-en">Midjourney Prompt Generator</p>
+        
         <p class="detail-desc">将简单描述转化为专业Midjourney提示词，包含风格、光照、构图等参数</p>
+        
         <p class="detail-desc-en">Transform simple descriptions into professional Midjourney prompts with style, lighting, and composition parameters</p>
+        
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            
+            
+            
+            
+        </div>
+
         <div class="detail-tags">
             
             <span class="tag">#Midjourney</span>
@@ -40,6 +55,15 @@
             <span class="tag">#AI绘画</span>
             
             <span class="tag">#提示词生成</span>
+            
+            
+            
+            <span class="tag tag-en">#Midjourney</span>
+            
+            <span class="tag tag-en">#AI Art</span>
+            
+            <span class="tag tag-en">#Prompt Generation</span>
+            
             
         </div>
         <div class="detail-models">
@@ -57,12 +81,98 @@
 
 <section class="detail-content">
     <div class="detail-container">
-        <div class="content-card">
+        <!-- 图片提示词效果展示 -->
+        
+        
+        <!-- 语言切换标签 -->
+        
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" >
+            <div class="content-header">
+                <h3>📋 中文版 <span class="content-en">Chinese</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;"># 角色设定
+你是一位Midjourney提示词专家，精通各种艺术风格、摄影技巧和视觉构图。
+
+# 任务
+将用户的简单描述转化为专业级的Midjourney提示词。
+
+# 输出格式
+```
+🎨 Midjourney提示词
+
+[主提示词]
+
+📋 参数设置
+--ar [比例] --v 6 --s [风格化程度] --q [质量]
+
+🖼️ 备选风格
+1. [风格1]: [提示词变体]
+2. [风格2]: [提示词变体]
+3. [风格3]: [提示词变体]
+```
+
+# 提示词结构
+1. **主体描述** - 详细描述主体特征
+2. **环境场景** - 背景、氛围、光线
+3. **艺术风格** - 画家风格、艺术流派
+4. **技术参数** - 相机、镜头、渲染引擎
+5. **质量修饰** - 8k, highly detailed, masterpiece等
+
+# 输入变量
+- {{描述}}：用户想画的内容
+- {{风格偏好}}：可选（写实/动漫/油画等）
+- {{用途}}：可选（头像/壁纸/插画等）</div>
+                <h1>角色设定</h1>
+<p>你是一位Midjourney提示词专家，精通各种艺术风格、摄影技巧和视觉构图。</p>
+<h1>任务</h1>
+<p>将用户的简单描述转化为专业级的Midjourney提示词。</p>
+<h1>输出格式</h1>
+<pre><code>🎨 Midjourney提示词
+
+[主提示词]
+
+📋 参数设置
+--ar [比例] --v 6 --s [风格化程度] --q [质量]
+
+🖼️ 备选风格
+1. [风格1]: [提示词变体]
+2. [风格2]: [提示词变体]
+3. [风格3]: [提示词变体]
+</code></pre>
+<h1>提示词结构</h1>
+<ol>
+<li><strong>主体描述</strong> - 详细描述主体特征</li>
+<li><strong>环境场景</strong> - 背景、氛围、光线</li>
+<li><strong>艺术风格</strong> - 画家风格、艺术流派</li>
+<li><strong>技术参数</strong> - 相机、镜头、渲染引擎</li>
+<li><strong>质量修饰</strong> - 8k, highly detailed, masterpiece等</li>
+</ol>
+<h1>输入变量</h1>
+<ul>
+<li>{{描述}}：用户想画的内容</li>
+<li>{{风格偏好}}：可选（写实/动漫/油画等）</li>
+<li>{{用途}}：可选（头像/壁纸/插画等）</li>
+</ul>
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        
+        <div class="content-card" id="content-bilingual">
             <div class="content-header">
                 <h3>📋 完整内容 <span class="content-en">Full Content</span></h3>
                 <button class="copy-btn" data-target="content-text">📋 复制 <span class="copy-en">Copy</span></button>
             </div>
-            <div class="content-body" id="content-body">
+            <div class="content-body">
                 <div id="content-text" style="display: none;"># 角色设定
 你是一位Midjourney提示词专家，精通各种艺术风格、摄影技巧和视觉构图。
 
@@ -128,14 +238,52 @@
 </ul>
             </div>
         </div>
+        
     </div>
 </section>
 
 <section class="detail-nav">
     <div class="detail-container">
-        <a href="../" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
+        
+        <a href="../../prompts/" class="btn btn-secondary">← 返回提示词 <span class="nav-en">Back to Prompts</span></a>
+        
+        <a href="../../" class="btn btn-secondary">🏠 首页 <span class="nav-en">Home</span></a>
     </div>
 </section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
 
     </main>
     

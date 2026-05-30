@@ -27,12 +27,29 @@
     <div class="detail-container">
         <div class="detail-meta">
             <span class="detail-category">writing</span>
-            <span class="detail-hot">🔥 Hot 62</span>
+            <span class="detail-hot">🔥 62</span>
+            
+            
         </div>
         <h1 class="detail-title">小红书风格转换</h1>
+        
         <p class="detail-title-en">Xiaohongshu Style Converter</p>
+        
         <p class="detail-desc">将文本改写成类似小红书的 Emoji 风格</p>
+        
         <p class="detail-desc-en">Convert text to Xiaohongshu emoji style</p>
+        
+        
+        <!-- 来源信息 -->
+        <div class="detail-source">
+            
+            
+            <span class="source-author">👤 AiShort</span>
+            
+            
+            
+        </div>
+
         <div class="detail-tags">
             
             <span class="tag">#小红书</span>
@@ -40,6 +57,15 @@
             <span class="tag">#社交媒体</span>
             
             <span class="tag">#emoji</span>
+            
+            
+            
+            <span class="tag tag-en">#xiaohongshu</span>
+            
+            <span class="tag tag-en">#social media</span>
+            
+            <span class="tag tag-en">#emoji</span>
+            
             
         </div>
         <div class="detail-models">
@@ -59,24 +85,87 @@
 
 <section class="detail-content">
     <div class="detail-container">
-        <div class="content-card">
+        <!-- 图片提示词效果展示 -->
+        
+        
+        <!-- 语言切换标签 -->
+        
+
+        <!-- 中文内容 -->
+        <div class="content-card" id="content-zh" >
+            <div class="content-header">
+                <h3>📋 中文版 <span class="content-en">Chinese</span></h3>
+                <div class="content-actions">
+                    <button class="copy-btn" data-target="content-text-zh">📋 复制中文 <span class="copy-en">Copy</span></button>
+                </div>
+            </div>
+            <div class="content-body">
+                <div id="content-text-zh" style="display: none;">Please edit the following passage using the Emoji style, which is characterized by captivating headlines, the inclusion of emoticons in each paragraph, and the addition of relevant tags at the end. Be sure to maintain the original meaning of the text. Respond in Chinese. Please begin by editing the following text: [待改写为小红书风格的文本]</div>
+                <p>Please edit the following passage using the Emoji style, which is characterized by captivating headlines, the inclusion of emoticons in each paragraph, and the addition of relevant tags at the end. Be sure to maintain the original meaning of the text. Respond in Chinese. Please begin by editing the following text: [待改写为小红书风格的文本]</p>
+            </div>
+        </div>
+
+        <!-- 英文内容 -->
+        
+
+        <!-- 如果是双语内容（没有分段），用原来的方式显示 -->
+        
+        <div class="content-card" id="content-bilingual">
             <div class="content-header">
                 <h3>📋 完整内容 <span class="content-en">Full Content</span></h3>
                 <button class="copy-btn" data-target="content-text">📋 复制 <span class="copy-en">Copy</span></button>
             </div>
-            <div class="content-body" id="content-body">
+            <div class="content-body">
                 <div id="content-text" style="display: none;">Please edit the following passage using the Emoji style, which is characterized by captivating headlines, the inclusion of emoticons in each paragraph, and the addition of relevant tags at the end. Be sure to maintain the original meaning of the text. Respond in Chinese. Please begin by editing the following text: [待改写为小红书风格的文本]</div>
                 <p>Please edit the following passage using the Emoji style, which is characterized by captivating headlines, the inclusion of emoticons in each paragraph, and the addition of relevant tags at the end. Be sure to maintain the original meaning of the text. Respond in Chinese. Please begin by editing the following text: [待改写为小红书风格的文本]</p>
             </div>
         </div>
+        
     </div>
 </section>
 
 <section class="detail-nav">
     <div class="detail-container">
-        <a href="../" class="btn btn-secondary">← 返回列表 <span class="nav-en">Back</span></a>
+        
+        <a href="../../prompts/" class="btn btn-secondary">← 返回提示词 <span class="nav-en">Back to Prompts</span></a>
+        
+        <a href="../../" class="btn btn-secondary">🏠 首页 <span class="nav-en">Home</span></a>
     </div>
 </section>
+
+<script>
+function switchLang(lang) {
+    // 切换标签样式
+    document.querySelectorAll('.lang-tab').forEach(function(tab) {
+        tab.classList.remove('active');
+    });
+    document.querySelector('.lang-tab[data-lang="' + lang + '"]').classList.add('active');
+    
+    // 切换内容显示
+    var zhCard = document.getElementById('content-zh');
+    var enCard = document.getElementById('content-en');
+    
+    if (lang === 'original') {
+        // 显示原文，隐藏译文
+        if ('' === 'zh') {
+            zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        } else {
+            if (zhCard) zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        }
+    } else {
+        // 显示译文，隐藏原文
+        if ('' === 'zh') {
+            zhCard.style.display = 'none';
+            if (enCard) enCard.style.display = '';
+        } else {
+            if (zhCard) zhCard.style.display = '';
+            if (enCard) enCard.style.display = 'none';
+        }
+    }
+}
+</script>
 
     </main>
     
